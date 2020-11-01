@@ -1,0 +1,303 @@
+{
+  "title": "Program Participation Guidelines",
+  "journal": [
+    {
+      "id": "8f7a1078f77ce341",
+      "type": "create",
+      "item": {
+        "title": "Program Participation Guidelines"
+      }
+    },
+    {
+      "type": "fork",
+      "site": "nmsi.fed.wiki.org"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6bc614063264c27a"
+      },
+      "id": "6bc614063264c27a",
+      "type": "add",
+      "after": "38865eee62a94a0e"
+    },
+    {
+      "type": "move",
+      "order": [
+        "6bc614063264c27a",
+        "80e6a5e271b6f92d",
+        "744f870f55c2349d",
+        "4e12030867a84b13",
+        "861f0a04991ea852",
+        "3eb55128a44dcbbe",
+        "8e63852891723ee2",
+        "37ccaa68a5b9da1f",
+        "56d5126d81436573",
+        "fd995657dd62e749",
+        "5cbcddf2d505b63f",
+        "678e66981373c846",
+        "65186ca59d43d92b",
+        "a5af470c55f39294",
+        "1c3fef72ec82f3ad",
+        "717f2f6e2bc9a546",
+        "c1e3ecc12549cf22",
+        "e1b4fe40ff623f99",
+        "fa42198b9ab18cd7",
+        "13305424296007d8",
+        "7d9112623cee6b70",
+        "a1c1ed62f1747c51",
+        "145cfacd2d53f589",
+        "9f6bda20821432c6",
+        "38865eee62a94a0e"
+      ],
+      "id": "6bc614063264c27a"
+    },
+    {
+      "type": "edit",
+      "id": "6bc614063264c27a",
+      "item": {
+        "type": "paragraph",
+        "id": "6bc614063264c27a",
+        "text": "<h3>Better Materials"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "269e4d4c88ed2fe0"
+      },
+      "id": "269e4d4c88ed2fe0",
+      "type": "add",
+      "after": "38865eee62a94a0e"
+    },
+    {
+      "type": "move",
+      "order": [
+        "6bc614063264c27a",
+        "80e6a5e271b6f92d",
+        "744f870f55c2349d",
+        "4e12030867a84b13",
+        "861f0a04991ea852",
+        "3eb55128a44dcbbe",
+        "8e63852891723ee2",
+        "269e4d4c88ed2fe0",
+        "37ccaa68a5b9da1f",
+        "56d5126d81436573",
+        "fd995657dd62e749",
+        "5cbcddf2d505b63f",
+        "678e66981373c846",
+        "65186ca59d43d92b",
+        "a5af470c55f39294",
+        "1c3fef72ec82f3ad",
+        "717f2f6e2bc9a546",
+        "c1e3ecc12549cf22",
+        "e1b4fe40ff623f99",
+        "fa42198b9ab18cd7",
+        "13305424296007d8",
+        "7d9112623cee6b70",
+        "a1c1ed62f1747c51",
+        "145cfacd2d53f589",
+        "9f6bda20821432c6",
+        "38865eee62a94a0e"
+      ],
+      "id": "269e4d4c88ed2fe0"
+    },
+    {
+      "type": "edit",
+      "id": "269e4d4c88ed2fe0",
+      "item": {
+        "type": "paragraph",
+        "id": "269e4d4c88ed2fe0",
+        "text": "<h3>Better Suppliers"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "eaa83d69fc4cabd9"
+      },
+      "id": "eaa83d69fc4cabd9",
+      "type": "add",
+      "after": "38865eee62a94a0e"
+    },
+    {
+      "type": "move",
+      "order": [
+        "eaa83d69fc4cabd9",
+        "6bc614063264c27a",
+        "80e6a5e271b6f92d",
+        "744f870f55c2349d",
+        "4e12030867a84b13",
+        "861f0a04991ea852",
+        "3eb55128a44dcbbe",
+        "8e63852891723ee2",
+        "269e4d4c88ed2fe0",
+        "37ccaa68a5b9da1f",
+        "56d5126d81436573",
+        "fd995657dd62e749",
+        "5cbcddf2d505b63f",
+        "678e66981373c846",
+        "65186ca59d43d92b",
+        "a5af470c55f39294",
+        "1c3fef72ec82f3ad",
+        "717f2f6e2bc9a546",
+        "c1e3ecc12549cf22",
+        "e1b4fe40ff623f99",
+        "fa42198b9ab18cd7",
+        "13305424296007d8",
+        "7d9112623cee6b70",
+        "a1c1ed62f1747c51",
+        "145cfacd2d53f589",
+        "9f6bda20821432c6",
+        "38865eee62a94a0e"
+      ],
+      "id": "eaa83d69fc4cabd9"
+    },
+    {
+      "type": "edit",
+      "id": "eaa83d69fc4cabd9",
+      "item": {
+        "type": "paragraph",
+        "id": "eaa83d69fc4cabd9",
+        "text": "Some introductory text."
+      }
+    }
+  ],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "eaa83d69fc4cabd9",
+      "text": "Some introductory text."
+    },
+    {
+      "type": "paragraph",
+      "id": "6bc614063264c27a",
+      "text": "<h3>Better Materials"
+    },
+    {
+      "text": "[[Quantitative Score]]",
+      "id": "80e6a5e271b6f92d",
+      "type": "paragraph"
+    },
+    {
+      "text": "[[Recycled Content]]",
+      "id": "744f870f55c2349d",
+      "type": "paragraph"
+    },
+    {
+      "text": "[[Organic Content]]",
+      "id": "4e12030867a84b13",
+      "type": "paragraph"
+    },
+    {
+      "text": "[[Nike Green Chemistry Program Validation - Material Greening Effort]]",
+      "id": "861f0a04991ea852",
+      "type": "paragraph"
+    },
+    {
+      "text": "[[Water Conservation - Dye Method]]",
+      "id": "3eb55128a44dcbbe",
+      "type": "paragraph"
+    },
+    {
+      "text": "[[Blends and Composites]]",
+      "id": "8e63852891723ee2",
+      "type": "paragraph"
+    },
+    {
+      "type": "paragraph",
+      "id": "269e4d4c88ed2fe0",
+      "text": "<h3>Better Suppliers"
+    },
+    {
+      "text": "[[Nike Green Chemistry Program Commitment - Self-Evaluation of Chemicals and Facility]]",
+      "id": "37ccaa68a5b9da1f",
+      "type": "paragraph"
+    },
+    {
+      "text": "[[Nike Restricted Substance List (RSL) Program]]",
+      "id": "56d5126d81436573",
+      "type": "paragraph"
+    },
+    {
+      "text": "[[Nike Water Program]]",
+      "id": "fd995657dd62e749",
+      "type": "paragraph"
+    },
+    {
+      "text": "[[Water Conservation - Supplier Facility Water Recycling]]",
+      "id": "5cbcddf2d505b63f",
+      "type": "paragraph"
+    },
+    {
+      "text": "[[Nike Energy and Carbon Program]]",
+      "id": "678e66981373c846",
+      "type": "paragraph"
+    },
+    {
+      "text": "[[Recycled Certification - Nike Closed-Loop Material Program ]]",
+      "id": "65186ca59d43d92b",
+      "type": "paragraph"
+    },
+    {
+      "text": "[[Input-stream Management - bluesign Standard]]",
+      "id": "a5af470c55f39294",
+      "type": "paragraph"
+    },
+    {
+      "text": "[[Organically Grown Content - Organic Certification or Global Organic Textile Standard]]",
+      "id": "1c3fef72ec82f3ad",
+      "type": "paragraph"
+    },
+    {
+      "text": "[[Sustainable Cotton Agriculture - Better Cotton Initiative]]",
+      "id": "717f2f6e2bc9a546",
+      "type": "paragraph"
+    },
+    {
+      "text": "[[Recycled Certification - SCS Recycled Certification]]",
+      "id": "c1e3ecc12549cf22",
+      "type": "paragraph"
+    },
+    {
+      "text": "[[Recycled Certification - Global Recycle Standard ]]",
+      "id": "e1b4fe40ff623f99",
+      "type": "paragraph"
+    },
+    {
+      "text": "[[Recycled Polyester Certification - Intertek MSC]]",
+      "id": "fa42198b9ab18cd7",
+      "type": "paragraph"
+    },
+    {
+      "text": "[[Recycled Certification - FSC Chain of Custody Certification]]",
+      "id": "13305424296007d8",
+      "type": "paragraph"
+    },
+    {
+      "text": "[[Sustainable Forestry Certification - FSC Chain of Custody Certification]]",
+      "id": "7d9112623cee6b70",
+      "type": "paragraph"
+    },
+    {
+      "text": "[[Sustainable Leather Production - LWG Environmental Stewardship Protocol]]",
+      "id": "a1c1ed62f1747c51",
+      "type": "paragraph"
+    },
+    {
+      "text": "[[Climate Change Transparency - Carbon Disclosure Project]]",
+      "id": "145cfacd2d53f589",
+      "type": "paragraph"
+    },
+    {
+      "text": "[[ISO 14001 Certification]]",
+      "id": "9f6bda20821432c6",
+      "type": "paragraph"
+    },
+    {
+      "text": "[[Green Building - LEED]]",
+      "id": "38865eee62a94a0e",
+      "type": "paragraph"
+    }
+  ]
+}
