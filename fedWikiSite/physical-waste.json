@@ -1,0 +1,105 @@
+{
+  "title": "Physical Waste",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e38a86948cf27fa3",
+      "text": "Solid waste is the waste generated from raw material or chemical origin to yarn, based on aggregating the European Union waste categories used in Eco-Profiles. Eco-Profile data is available for commonly used fossil–fuel-based fibers and for some bio-based fibers. The waste is divided into the following categories: Hazardous, Municipal, Industrial, Recyclable/Compostable, and Mineral.\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "b6e4a41c72105457",
+      "text": "Nike is interested in minimizing hazardous waste and encouraging closed-loop systems; Industrial and Recyclable/Compostable waste streams may help address closed-loop systems. Quantities of both Municipal waste (much of which may be recycled after collection) and Mineral waste (associated with energy production) are so large that they would overwhelm other categories, hence the decision to keep them separate.\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "b32d3f683b634aef",
+      "text": "Solid waste data is not available for most bio-based materials, even when life cycle assessment (LCA) data are identified, as for rayon and lyocell, and estimates about waste have been made.  "
+    },
+    {
+      "type": "paragraph",
+      "id": "534eac0ee9729e5a",
+      "text": "The estimates are based on broad assumptions regarding the types of waste likely produced during each process stage and represent placeholders until an alternative method for estimating waste by type can be developed."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "id": "3be793e033ece95a",
+      "item": {
+        "title": "Physical Waste"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e38a86948cf27fa3"
+      },
+      "id": "e38a86948cf27fa3",
+      "type": "add"
+    },
+    {
+      "type": "edit",
+      "id": "e38a86948cf27fa3",
+      "item": {
+        "type": "paragraph",
+        "id": "e38a86948cf27fa3",
+        "text": "Solid waste is the waste generated from raw material or chemical origin to yarn, based on aggregating the European Union waste categories used in Eco-Profiles. Eco-Profile data is available for commonly used fossil–fuel-based fibers and for some bio-based fibers. The waste is divided into the following categories: Hazardous, Municipal, Industrial, Recyclable/Compostable, and Mineral.\n"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b6e4a41c72105457"
+      },
+      "id": "b6e4a41c72105457",
+      "type": "add",
+      "after": "e38a86948cf27fa3"
+    },
+    {
+      "type": "edit",
+      "id": "b6e4a41c72105457",
+      "item": {
+        "type": "paragraph",
+        "id": "b6e4a41c72105457",
+        "text": "Nike is interested in minimizing hazardous waste and encouraging closed-loop systems; Industrial and Recyclable/Compostable waste streams may help address closed-loop systems. Quantities of both Municipal waste (much of which may be recycled after collection) and Mineral waste (associated with energy production) are so large that they would overwhelm other categories, hence the decision to keep them separate.\n"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b32d3f683b634aef"
+      },
+      "id": "b32d3f683b634aef",
+      "type": "add",
+      "after": "b6e4a41c72105457"
+    },
+    {
+      "type": "edit",
+      "id": "b32d3f683b634aef",
+      "item": {
+        "type": "paragraph",
+        "id": "b32d3f683b634aef",
+        "text": "Solid waste data is not available for most bio-based materials, even when life cycle assessment (LCA) data are identified, as for rayon and lyocell, and estimates about waste have been made.  "
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "534eac0ee9729e5a"
+      },
+      "id": "534eac0ee9729e5a",
+      "type": "add",
+      "after": "b32d3f683b634aef"
+    },
+    {
+      "type": "edit",
+      "id": "534eac0ee9729e5a",
+      "item": {
+        "type": "paragraph",
+        "id": "534eac0ee9729e5a",
+        "text": "The estimates are based on broad assumptions regarding the types of waste likely produced during each process stage and represent placeholders until an alternative method for estimating waste by type can be developed."
+      }
+    }
+  ]
+}
