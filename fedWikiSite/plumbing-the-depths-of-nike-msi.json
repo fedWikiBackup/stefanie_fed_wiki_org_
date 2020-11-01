@@ -1,0 +1,226 @@
+{
+  "title": "Plumbing the depths of Nike MSI",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "51d36d11b12187a4",
+      "text": "Here are some citations to other sites related to the MSI demo."
+    },
+    {
+      "type": "federatedWiki",
+      "id": "4efa6770c074c11e",
+      "site": "nmsi.fed.wiki.org",
+      "slug": "materials-sustainability-index",
+      "title": "Materials Sustainability Index",
+      "text": "This index is a tool to help product creation teams select environmentally better footwear and apparel materials from better suppliers."
+    },
+    {
+      "type": "federatedWiki",
+      "id": "df7f1151d4c6554f",
+      "site": "ward.fed.wiki.org",
+      "slug": "personas",
+      "title": "Personas",
+      "text": "We'll be developing and refining personas who will be the imagined actors as we develop more advanced uses cases. (Shift-click to see multiple personas.)"
+    },
+    {
+      "type": "federatedWiki",
+      "id": "c5de09a5f723e788",
+      "site": "ward.fed.wiki.org",
+      "slug": "patterns",
+      "title": "patterns",
+      "text": "We recognize patterns in our work and patterns in the work of others we aspire to employ. We'll start with a list but expect this to grow into a system called a pattern language."
+    },
+    {
+      "type": "federatedWiki",
+      "id": "51a1c349e3868357",
+      "site": "ddd.fed.wiki.org",
+      "slug": "domain-driven-design",
+      "title": "Domain Driven Design",
+      "text": "These patterns cast widely held best practices of object-oriented design in the light of domain-driven design. They guide decisions to clarify the model and to keep the model and implementation aligned with each other, each reinforcing the other's effectiveness."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "id": "af28a57bae47831d",
+      "item": {
+        "title": "Plumbing the depths of Nike MSI"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4efa6770c074c11e"
+      },
+      "id": "4efa6770c074c11e",
+      "type": "add"
+    },
+    {
+      "type": "edit",
+      "id": "4efa6770c074c11e",
+      "item": {
+        "type": "federatedWiki",
+        "id": "4efa6770c074c11e",
+        "site": "nmsi.fed.wiki.org",
+        "slug": "materials-sustainability-index",
+        "title": "Materials Sustainability Index",
+        "text": "This index is a tool to help product creation teams select environmentally better footwear and apparel materials from better suppliers."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "51d36d11b12187a4"
+      },
+      "id": "51d36d11b12187a4",
+      "type": "add",
+      "after": "4efa6770c074c11e"
+    },
+    {
+      "type": "move",
+      "order": [
+        "51d36d11b12187a4",
+        "4efa6770c074c11e"
+      ],
+      "id": "51d36d11b12187a4"
+    },
+    {
+      "type": "edit",
+      "id": "51d36d11b12187a4",
+      "item": {
+        "type": "paragraph",
+        "id": "51d36d11b12187a4",
+        "text": "Here is a citation to another version of the MSI demo."
+      }
+    },
+    {
+      "type": "edit",
+      "id": "51d36d11b12187a4",
+      "item": {
+        "type": "paragraph",
+        "id": "51d36d11b12187a4",
+        "text": "Here are some citations to another version of the MSI demo."
+      }
+    },
+    {
+      "type": "edit",
+      "id": "51d36d11b12187a4",
+      "item": {
+        "type": "paragraph",
+        "id": "51d36d11b12187a4",
+        "text": "Here are some citations to other sites related to the MSI demo."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "df7f1151d4c6554f"
+      },
+      "id": "df7f1151d4c6554f",
+      "type": "add",
+      "after": "4efa6770c074c11e"
+    },
+    {
+      "type": "edit",
+      "id": "df7f1151d4c6554f",
+      "item": {
+        "type": "federatedWiki",
+        "id": "df7f1151d4c6554f",
+        "site": "ward.fed.wiki.org",
+        "slug": "personas",
+        "title": "Personas",
+        "text": "We'll be developing and refining personas who will be the imagined actors as we develop more advanced uses cases. (Shift-click to see multiple personas.)"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "51a1c349e3868357"
+      },
+      "id": "51a1c349e3868357",
+      "type": "add",
+      "after": "df7f1151d4c6554f"
+    },
+    {
+      "type": "edit",
+      "id": "51a1c349e3868357",
+      "item": {
+        "type": "federatedWiki",
+        "id": "51a1c349e3868357",
+        "site": "ddd.fed.wiki.org",
+        "slug": "domain-driven-design",
+        "title": "Domain Driven Design",
+        "text": "<h2>Part I </h2>"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "51a1c349e3868357",
+      "item": {
+        "type": "federatedWiki",
+        "id": "51a1c349e3868357",
+        "site": "ddd.fed.wiki.org",
+        "slug": "domain-driven-design",
+        "title": "Domain Driven Design",
+        "text": "These patterns cast widely held best practices of object-oriented design in the light of domain-driven design. They guide decisions to clarify the model and to keep the model and implementation aligned with each other, each reinforcing the other's effectiveness."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "690e0794d5c0e0d4"
+      },
+      "id": "690e0794d5c0e0d4",
+      "type": "add",
+      "after": "51a1c349e3868357"
+    },
+    {
+      "type": "edit",
+      "id": "690e0794d5c0e0d4",
+      "item": {
+        "type": "federatedWiki",
+        "id": "690e0794d5c0e0d4",
+        "site": "stefanie.fed.wiki.org",
+        "slug": "plumbing-the-depths-of-nike-msi",
+        "title": "Plumbing the depths of Nike MSI",
+        "text": "Here are some citations to other sites related to the MSI demo."
+      }
+    },
+    {
+      "type": "remove",
+      "id": "690e0794d5c0e0d4"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c5de09a5f723e788"
+      },
+      "id": "c5de09a5f723e788",
+      "type": "add",
+      "after": "51a1c349e3868357"
+    },
+    {
+      "type": "move",
+      "order": [
+        "51d36d11b12187a4",
+        "4efa6770c074c11e",
+        "df7f1151d4c6554f",
+        "c5de09a5f723e788",
+        "51a1c349e3868357"
+      ],
+      "id": "c5de09a5f723e788"
+    },
+    {
+      "type": "edit",
+      "id": "c5de09a5f723e788",
+      "item": {
+        "type": "federatedWiki",
+        "id": "c5de09a5f723e788",
+        "site": "ward.fed.wiki.org",
+        "slug": "patterns",
+        "title": "patterns",
+        "text": "We recognize patterns in our work and patterns in the work of others we aspire to employ. We'll start with a list but expect this to grow into a system called a pattern language."
+      }
+    }
+  ]
+}

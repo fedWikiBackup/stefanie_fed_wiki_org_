@@ -1,0 +1,645 @@
+{
+  "title": "Science-based Better Materials Score",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "767c098eefc1be60",
+      "text": "Also called the [[Quantitative Score]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "a6cf5086305e2cba",
+      "text": "Each material is assigned a Quantitative value based on an evaluation of the raw material and a supply chain scenario in four different impact areas. "
+    },
+    {
+      "type": "paragraph",
+      "id": "0ce84c58b725099e",
+      "text": "Nike MSI evaluates environmental impact areas relating to both naturally sourced (plant-, animal- or mineral-based) and synthetic (fossil–fuel-based) textiles and component part materials. "
+    },
+    {
+      "type": "paragraph",
+      "id": "44be0ca22966e5ae",
+      "text": "<h3>Impact Areas</h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "672e0c86fd76e2b2",
+      "text": "[[Chemistry]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "9111ad0ea00ee741",
+      "text": "[[Energy and Greenhouse Gas Intensity]]\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "d3c6055ba53c509d",
+      "text": "[[Water and Land Use Intensity]]\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "b0861d20cc1ae1bf",
+      "text": "[[Physical Waste]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "b4d05a5047490601",
+      "text": "The index gives equal weight to these four impact areas, with each contributing 25 percent of the total possible points within the Quantitative framework structure. "
+    },
+    {
+      "type": "paragraph",
+      "id": "d62ff34dd4af99fe",
+      "text": "Nike MSI compiles and scores data for 13 metrics within specific impact areas."
+    },
+    {
+      "type": "paragraph",
+      "id": "6b657fa1a61dbff7",
+      "text": "Add some sort of representation of the Impact Areas and the 13 metrics"
+    },
+    {
+      "type": "paragraph",
+      "id": "937608f150d382e0",
+      "text": "<h3>Materials Scores</h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "a5c2dbbc7dcc1ccb",
+      "text": "[[Base Materials Scores in Rank Order]] from high to low."
+    },
+    {
+      "type": "paragraph",
+      "id": "be2bf7a825d79225",
+      "text": "[[Base Materials Scores in Alphabetical Order]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c70213672845e2d0",
+      "text": "<h3>Tiered Data</h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "37ed50dad4106185",
+      "text": "The [[Data, Algorithms, Assumptions and Frameworks]] for Nike MSI are divided into three tiers, with each progressive tier containing a greater level of detail.\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "id": "d2f0a095668a6bd9",
+      "item": {
+        "title": "Science-based Better Materials Score"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "44be0ca22966e5ae"
+      },
+      "id": "44be0ca22966e5ae",
+      "type": "add"
+    },
+    {
+      "type": "edit",
+      "id": "44be0ca22966e5ae",
+      "item": {
+        "type": "paragraph",
+        "id": "44be0ca22966e5ae",
+        "text": "<h3>Impacts Covered</h3>"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "672e0c86fd76e2b2"
+      },
+      "id": "672e0c86fd76e2b2",
+      "type": "add",
+      "after": "44be0ca22966e5ae"
+    },
+    {
+      "type": "edit",
+      "id": "672e0c86fd76e2b2",
+      "item": {
+        "type": "paragraph",
+        "id": "672e0c86fd76e2b2",
+        "text": "<li>[[Chemistry]]\n<li>[[Energy and Greenhouse Gas Intensity]]\n<li>[[Water and Land Use Intensity]]\n<li>[[Physical Waste]]"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b4d05a5047490601"
+      },
+      "id": "b4d05a5047490601",
+      "type": "add",
+      "after": "672e0c86fd76e2b2"
+    },
+    {
+      "type": "edit",
+      "id": "b4d05a5047490601",
+      "item": {
+        "type": "paragraph",
+        "id": "b4d05a5047490601",
+        "text": "The index gives equal weight to the four impact areas, with each contributing 25 percent of the total possible points within the Quantitative framework structure. "
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a6cf5086305e2cba"
+      },
+      "id": "a6cf5086305e2cba",
+      "type": "add",
+      "after": "b4d05a5047490601"
+    },
+    {
+      "type": "edit",
+      "id": "a6cf5086305e2cba",
+      "item": {
+        "type": "paragraph",
+        "id": "a6cf5086305e2cba",
+        "text": "Each material is assigned a Quantitative value based on an evaluation of the raw material and a supply chain scenario. "
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d62ff34dd4af99fe"
+      },
+      "id": "d62ff34dd4af99fe",
+      "type": "add",
+      "after": "a6cf5086305e2cba"
+    },
+    {
+      "type": "edit",
+      "id": "d62ff34dd4af99fe",
+      "item": {
+        "type": "paragraph",
+        "id": "d62ff34dd4af99fe",
+        "text": "Nike MSI compiles and scores data for 13 metrics in specific impact areas"
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "d62ff34dd4af99fe",
+        "44be0ca22966e5ae",
+        "672e0c86fd76e2b2",
+        "b4d05a5047490601",
+        "a6cf5086305e2cba"
+      ],
+      "id": "d62ff34dd4af99fe"
+    },
+    {
+      "type": "move",
+      "order": [
+        "d62ff34dd4af99fe",
+        "a6cf5086305e2cba",
+        "44be0ca22966e5ae",
+        "672e0c86fd76e2b2",
+        "b4d05a5047490601"
+      ],
+      "id": "a6cf5086305e2cba"
+    },
+    {
+      "type": "edit",
+      "id": "d62ff34dd4af99fe",
+      "item": {
+        "type": "paragraph",
+        "id": "d62ff34dd4af99fe",
+        "text": "Nike MSI compiles and scores data for 13 metrics in specific impact areas."
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "a6cf5086305e2cba",
+        "d62ff34dd4af99fe",
+        "44be0ca22966e5ae",
+        "672e0c86fd76e2b2",
+        "b4d05a5047490601"
+      ],
+      "id": "a6cf5086305e2cba"
+    },
+    {
+      "type": "edit",
+      "id": "d62ff34dd4af99fe",
+      "item": {
+        "type": "paragraph",
+        "id": "d62ff34dd4af99fe",
+        "text": "Nike MSI compiles and scores data for 13 metrics within specific impact areas."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6b657fa1a61dbff7"
+      },
+      "id": "6b657fa1a61dbff7",
+      "type": "add",
+      "after": "b4d05a5047490601"
+    },
+    {
+      "type": "edit",
+      "id": "6b657fa1a61dbff7",
+      "item": {
+        "type": "paragraph",
+        "id": "6b657fa1a61dbff7",
+        "text": "Add some sort of representation of the Impact Areas and the 13 metrics"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0ce84c58b725099e"
+      },
+      "id": "0ce84c58b725099e",
+      "type": "add",
+      "after": "6b657fa1a61dbff7"
+    },
+    {
+      "type": "edit",
+      "id": "0ce84c58b725099e",
+      "item": {
+        "type": "paragraph",
+        "id": "0ce84c58b725099e",
+        "text": "Nike MSI evaluates environmental impact areas relating to both naturally sourced (plant-, animal- or mineral-based) and synthetic (fossil–fuel-based) textiles and component part materials. "
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "0ce84c58b725099e",
+        "a6cf5086305e2cba",
+        "d62ff34dd4af99fe",
+        "44be0ca22966e5ae",
+        "672e0c86fd76e2b2",
+        "b4d05a5047490601",
+        "6b657fa1a61dbff7"
+      ],
+      "id": "0ce84c58b725099e"
+    },
+    {
+      "type": "edit",
+      "id": "44be0ca22966e5ae",
+      "item": {
+        "type": "paragraph",
+        "id": "44be0ca22966e5ae",
+        "text": "<h3>Impact Areas</h3>"
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "a6cf5086305e2cba",
+        "0ce84c58b725099e",
+        "d62ff34dd4af99fe",
+        "44be0ca22966e5ae",
+        "672e0c86fd76e2b2",
+        "b4d05a5047490601",
+        "6b657fa1a61dbff7"
+      ],
+      "id": "a6cf5086305e2cba"
+    },
+    {
+      "type": "move",
+      "order": [
+        "a6cf5086305e2cba",
+        "0ce84c58b725099e",
+        "44be0ca22966e5ae",
+        "672e0c86fd76e2b2",
+        "b4d05a5047490601",
+        "d62ff34dd4af99fe",
+        "6b657fa1a61dbff7"
+      ],
+      "id": "d62ff34dd4af99fe"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "937608f150d382e0"
+      },
+      "id": "937608f150d382e0",
+      "type": "add",
+      "after": "6b657fa1a61dbff7"
+    },
+    {
+      "type": "edit",
+      "id": "937608f150d382e0",
+      "item": {
+        "type": "paragraph",
+        "id": "937608f150d382e0",
+        "text": "<h3>Materials Scores</h3>"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a5c2dbbc7dcc1ccb"
+      },
+      "id": "a5c2dbbc7dcc1ccb",
+      "type": "add",
+      "after": "937608f150d382e0"
+    },
+    {
+      "type": "edit",
+      "id": "a5c2dbbc7dcc1ccb",
+      "item": {
+        "type": "paragraph",
+        "id": "a5c2dbbc7dcc1ccb",
+        "text": "[[Base Materials Scores in Rank Order]] from high to low."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "be2bf7a825d79225"
+      },
+      "id": "be2bf7a825d79225",
+      "type": "add",
+      "after": "a5c2dbbc7dcc1ccb"
+    },
+    {
+      "type": "edit",
+      "id": "be2bf7a825d79225",
+      "item": {
+        "type": "paragraph",
+        "id": "be2bf7a825d79225",
+        "text": "[[Base Materials Scores in Alphabetical Order]]"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c70213672845e2d0"
+      },
+      "id": "c70213672845e2d0",
+      "type": "add",
+      "after": "be2bf7a825d79225"
+    },
+    {
+      "type": "edit",
+      "id": "c70213672845e2d0",
+      "item": {
+        "type": "paragraph",
+        "id": "c70213672845e2d0",
+        "text": "<h3>Tiered Data</h3>"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "37ed50dad4106185"
+      },
+      "id": "37ed50dad4106185",
+      "type": "add",
+      "after": "c70213672845e2d0"
+    },
+    {
+      "type": "edit",
+      "id": "37ed50dad4106185",
+      "item": {
+        "type": "paragraph",
+        "id": "37ed50dad4106185",
+        "text": "The data, algorithms, assumptions and frameworks for Nike MSI are divided into three tiers, with each progressive tier containing a greater level of detail.\n"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a34a96b82fb25eba"
+      },
+      "id": "a34a96b82fb25eba",
+      "type": "add",
+      "after": "37ed50dad4106185"
+    },
+    {
+      "type": "edit",
+      "id": "a34a96b82fb25eba",
+      "item": {
+        "type": "paragraph",
+        "id": "a34a96b82fb25eba",
+        "text": "Tier 1. Results of Quantitative scoring, with sufficient detail to provide a working understanding of the scoring framework. Includes the rank ordering of more than 50 materials and high-level summary impacts of Chemistry, Energy and GHG intensity, Water and Land Use intensity, and Physical Waste.\nTier 2. Comprehensive Quantitative results for each material, presented in a single table with detailed explanations of supply chain assumptions, summary impact values and detailed scoring. Tier 2 provides the materials and life cycle practitioner with sufficient information to understand the Nike MSI.\nTier 3. Includes Nike MSI source data, algorithms and assumptions, and is the information source for Tiers 1 and 2. Tier 3 provides transparency into Nike MSI and is where to add new materials, provide better data and develop alternative supply chain scenarios."
+      }
+    },
+    {
+      "type": "remove",
+      "id": "a34a96b82fb25eba"
+    },
+    {
+      "type": "edit",
+      "id": "37ed50dad4106185",
+      "item": {
+        "type": "paragraph",
+        "id": "37ed50dad4106185",
+        "text": "The [[Data, Algorithms, Assumptions and Frameworks]] for Nike MSI are divided into three tiers, with each progressive tier containing a greater level of detail.\n"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "672e0c86fd76e2b2",
+      "item": {
+        "type": "paragraph",
+        "id": "672e0c86fd76e2b2",
+        "text": "[[Chemistry]]\n[[Energy and Greenhouse Gas Intensity]]\n[[Water and Land Use Intensity]]\n[[Physical Waste]]"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "754a0607ead17caf"
+      },
+      "id": "754a0607ead17caf",
+      "type": "add",
+      "after": "37ed50dad4106185"
+    },
+    {
+      "type": "remove",
+      "id": "754a0607ead17caf"
+    },
+    {
+      "type": "edit",
+      "id": "672e0c86fd76e2b2",
+      "item": {
+        "type": "paragraph",
+        "id": "672e0c86fd76e2b2",
+        "text": "[[Chemistry]]"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9111ad0ea00ee741"
+      },
+      "id": "9111ad0ea00ee741",
+      "type": "add",
+      "after": "37ed50dad4106185"
+    },
+    {
+      "type": "edit",
+      "id": "9111ad0ea00ee741",
+      "item": {
+        "type": "paragraph",
+        "id": "9111ad0ea00ee741",
+        "text": "[[Energy and Greenhouse Gas Intensity]]\n"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d3c6055ba53c509d"
+      },
+      "id": "d3c6055ba53c509d",
+      "type": "add",
+      "after": "9111ad0ea00ee741"
+    },
+    {
+      "type": "edit",
+      "id": "d3c6055ba53c509d",
+      "item": {
+        "type": "paragraph",
+        "id": "d3c6055ba53c509d",
+        "text": "[[Water and Land Use Intensity]]\n"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b0861d20cc1ae1bf"
+      },
+      "id": "b0861d20cc1ae1bf",
+      "type": "add",
+      "after": "d3c6055ba53c509d"
+    },
+    {
+      "type": "edit",
+      "id": "b0861d20cc1ae1bf",
+      "item": {
+        "type": "paragraph",
+        "id": "b0861d20cc1ae1bf",
+        "text": "[[Physical Waste]]"
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "a6cf5086305e2cba",
+        "0ce84c58b725099e",
+        "44be0ca22966e5ae",
+        "672e0c86fd76e2b2",
+        "9111ad0ea00ee741",
+        "b4d05a5047490601",
+        "d62ff34dd4af99fe",
+        "6b657fa1a61dbff7",
+        "937608f150d382e0",
+        "a5c2dbbc7dcc1ccb",
+        "be2bf7a825d79225",
+        "c70213672845e2d0",
+        "37ed50dad4106185",
+        "d3c6055ba53c509d",
+        "b0861d20cc1ae1bf"
+      ],
+      "id": "9111ad0ea00ee741"
+    },
+    {
+      "type": "move",
+      "order": [
+        "a6cf5086305e2cba",
+        "0ce84c58b725099e",
+        "44be0ca22966e5ae",
+        "672e0c86fd76e2b2",
+        "9111ad0ea00ee741",
+        "d3c6055ba53c509d",
+        "b4d05a5047490601",
+        "d62ff34dd4af99fe",
+        "6b657fa1a61dbff7",
+        "937608f150d382e0",
+        "a5c2dbbc7dcc1ccb",
+        "be2bf7a825d79225",
+        "c70213672845e2d0",
+        "37ed50dad4106185",
+        "b0861d20cc1ae1bf"
+      ],
+      "id": "d3c6055ba53c509d"
+    },
+    {
+      "type": "move",
+      "order": [
+        "a6cf5086305e2cba",
+        "0ce84c58b725099e",
+        "44be0ca22966e5ae",
+        "672e0c86fd76e2b2",
+        "9111ad0ea00ee741",
+        "d3c6055ba53c509d",
+        "b0861d20cc1ae1bf",
+        "b4d05a5047490601",
+        "d62ff34dd4af99fe",
+        "6b657fa1a61dbff7",
+        "937608f150d382e0",
+        "a5c2dbbc7dcc1ccb",
+        "be2bf7a825d79225",
+        "c70213672845e2d0",
+        "37ed50dad4106185"
+      ],
+      "id": "b0861d20cc1ae1bf"
+    },
+    {
+      "type": "edit",
+      "id": "a6cf5086305e2cba",
+      "item": {
+        "type": "paragraph",
+        "id": "a6cf5086305e2cba",
+        "text": "Each material is assigned a Quantitative value based on an evaluation of the raw material and a supply chain scenario in four different impact areas. "
+      }
+    },
+    {
+      "type": "edit",
+      "id": "b4d05a5047490601",
+      "item": {
+        "type": "paragraph",
+        "id": "b4d05a5047490601",
+        "text": "The index gives equal weight to these four impact areas, with each contributing 25 percent of the total possible points within the Quantitative framework structure. "
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "767c098eefc1be60"
+      },
+      "id": "767c098eefc1be60",
+      "type": "add",
+      "after": "37ed50dad4106185"
+    },
+    {
+      "type": "move",
+      "order": [
+        "767c098eefc1be60",
+        "a6cf5086305e2cba",
+        "0ce84c58b725099e",
+        "44be0ca22966e5ae",
+        "672e0c86fd76e2b2",
+        "9111ad0ea00ee741",
+        "d3c6055ba53c509d",
+        "b0861d20cc1ae1bf",
+        "b4d05a5047490601",
+        "d62ff34dd4af99fe",
+        "6b657fa1a61dbff7",
+        "937608f150d382e0",
+        "a5c2dbbc7dcc1ccb",
+        "be2bf7a825d79225",
+        "c70213672845e2d0",
+        "37ed50dad4106185"
+      ],
+      "id": "767c098eefc1be60"
+    },
+    {
+      "type": "edit",
+      "id": "767c098eefc1be60",
+      "item": {
+        "type": "paragraph",
+        "id": "767c098eefc1be60",
+        "text": "Also called the [[Quantitative Score]]."
+      }
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "title": "Qualitative Indicator",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "508bf7f4275b05a7",
+      "text": "To align the index with Nike’s long-term sustainability goals and reward suppliers for participating in specific sustainability efforts, we added Qualitative Indicators to the Nike MSI scoring framework. "
+    },
+    {
+      "type": "paragraph",
+      "id": "ff5717010e5b5936",
+      "text": "The Qualitative Indicators are divided into two parts, as follows:\n\t"
+    },
+    {
+      "type": "paragraph",
+      "id": "26a0f9ecac987fc7",
+      "text": "<h3>[[Better Materials]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "1aae59eb5fb94820",
+      "text": "[[Nike Green Chemistry Program Validation - Material Greening Effort]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "9827dce95b2076ad",
+      "text": "[[Water Conservation - Dye Method]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "6dde4f74922d6458",
+      "text": "[[Recycled Content]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "6c0c9fd6cf88a534",
+      "text": "[[Organic Content]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "a020df0ffe2b7667",
+      "text": "[[Blends and Composites]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "e2934d1c46bc3123",
+      "text": "<h3>[[Better Suppliers]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c503ab3aa4908a6b",
+      "text": "[[RSL Tiering]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "137842a8fef4c8ef",
+      "text": "[[Nike Green Chemistry Program Commitment - Self-Evaluation of Chemicals and Facility]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "928307dae066490e",
+      "text": "[[Nike Water Program]]\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "777557fe80cc09bd",
+      "text": "[[Water Conservation - Supplier Facility Water Recycling]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "706980f3ea37b755",
+      "text": "[[Nike Energy and Carbon Program]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ac7bf357386f5b05",
+      "text": "[[Sustainability Certifications and Programs]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "5c1aa28861c27961",
+      "text": "Qualitative Indicator points are awarded on a tiered basis depending on program participation at the material or supplier level."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "id": "5288aaa9e8d6f631",
+      "item": {
+        "title": "Qualitative Indicator"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "508bf7f4275b05a7"
+      },
+      "id": "508bf7f4275b05a7",
+      "type": "add"
+    },
+    {
+      "type": "edit",
+      "id": "508bf7f4275b05a7",
+      "item": {
+        "type": "paragraph",
+        "id": "508bf7f4275b05a7",
+        "text": "To align the index with Nike’s long-term sustainability goals and reward suppliers for participating in specific sustainability efforts, we added Qualitative Indicators to the Nike MSI scoring framework. "
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ff5717010e5b5936"
+      },
+      "id": "ff5717010e5b5936",
+      "type": "add",
+      "after": "508bf7f4275b05a7"
+    },
+    {
+      "type": "edit",
+      "id": "ff5717010e5b5936",
+      "item": {
+        "type": "paragraph",
+        "id": "ff5717010e5b5936",
+        "text": "The Qualitative Indicators are divided into two parts, as follows:\n\t"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "26a0f9ecac987fc7"
+      },
+      "id": "26a0f9ecac987fc7",
+      "type": "add",
+      "after": "ff5717010e5b5936"
+    },
+    {
+      "type": "edit",
+      "id": "26a0f9ecac987fc7",
+      "item": {
+        "type": "paragraph",
+        "id": "26a0f9ecac987fc7",
+        "text": "[[Better Materials]]"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1aae59eb5fb94820"
+      },
+      "id": "1aae59eb5fb94820",
+      "type": "add",
+      "after": "26a0f9ecac987fc7"
+    },
+    {
+      "type": "edit",
+      "id": "1aae59eb5fb94820",
+      "item": {
+        "type": "paragraph",
+        "id": "1aae59eb5fb94820",
+        "text": "Nike Green Chemistry Program"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "26a0f9ecac987fc7",
+      "item": {
+        "type": "paragraph",
+        "id": "26a0f9ecac987fc7",
+        "text": "<h3>[[Better Materials]]"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9827dce95b2076ad"
+      },
+      "id": "9827dce95b2076ad",
+      "type": "add",
+      "after": "1aae59eb5fb94820"
+    },
+    {
+      "type": "edit",
+      "id": "9827dce95b2076ad",
+      "item": {
+        "type": "paragraph",
+        "id": "9827dce95b2076ad",
+        "text": "Water Conservation"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6dde4f74922d6458"
+      },
+      "id": "6dde4f74922d6458",
+      "type": "add",
+      "after": "9827dce95b2076ad"
+    },
+    {
+      "type": "edit",
+      "id": "6dde4f74922d6458",
+      "item": {
+        "type": "paragraph",
+        "id": "6dde4f74922d6458",
+        "text": "Recycled Content"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6c0c9fd6cf88a534"
+      },
+      "id": "6c0c9fd6cf88a534",
+      "type": "add",
+      "after": "6dde4f74922d6458"
+    },
+    {
+      "type": "edit",
+      "id": "6c0c9fd6cf88a534",
+      "item": {
+        "type": "paragraph",
+        "id": "6c0c9fd6cf88a534",
+        "text": "Organic Content"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a020df0ffe2b7667"
+      },
+      "id": "a020df0ffe2b7667",
+      "type": "add",
+      "after": "6c0c9fd6cf88a534"
+    },
+    {
+      "type": "edit",
+      "id": "a020df0ffe2b7667",
+      "item": {
+        "type": "paragraph",
+        "id": "a020df0ffe2b7667",
+        "text": "Blends and Composites (in finished materials)"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e2934d1c46bc3123"
+      },
+      "id": "e2934d1c46bc3123",
+      "type": "add",
+      "after": "a020df0ffe2b7667"
+    },
+    {
+      "type": "edit",
+      "id": "e2934d1c46bc3123",
+      "item": {
+        "type": "paragraph",
+        "id": "e2934d1c46bc3123",
+        "text": "<h3>[[Better Suppliers]]"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c503ab3aa4908a6b"
+      },
+      "id": "c503ab3aa4908a6b",
+      "type": "add",
+      "after": "e2934d1c46bc3123"
+    },
+    {
+      "type": "edit",
+      "id": "c503ab3aa4908a6b",
+      "item": {
+        "type": "paragraph",
+        "id": "c503ab3aa4908a6b",
+        "text": "[[Restricted Substance List (RSL)]]"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "1aae59eb5fb94820",
+      "item": {
+        "type": "paragraph",
+        "id": "1aae59eb5fb94820",
+        "text": "[[Nike Green Chemistry Program"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "1aae59eb5fb94820",
+      "item": {
+        "type": "paragraph",
+        "id": "1aae59eb5fb94820",
+        "text": "[[Nike Green Chemistry Program]]"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "9827dce95b2076ad",
+      "item": {
+        "type": "paragraph",
+        "id": "9827dce95b2076ad",
+        "text": "[[Water Conservation]]"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "6dde4f74922d6458",
+      "item": {
+        "type": "paragraph",
+        "id": "6dde4f74922d6458",
+        "text": "[[Recycled Content]]"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "6c0c9fd6cf88a534",
+      "item": {
+        "type": "paragraph",
+        "id": "6c0c9fd6cf88a534",
+        "text": "[[Organic Content]]"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "a020df0ffe2b7667",
+      "item": {
+        "type": "paragraph",
+        "id": "a020df0ffe2b7667",
+        "text": "[[Blends and Composites (in finished materials)]]"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "928307dae066490e"
+      },
+      "id": "928307dae066490e",
+      "type": "add",
+      "after": "c503ab3aa4908a6b"
+    },
+    {
+      "type": "edit",
+      "id": "928307dae066490e",
+      "item": {
+        "type": "paragraph",
+        "id": "928307dae066490e",
+        "text": "[[Nike Water Program]]\n"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "706980f3ea37b755"
+      },
+      "id": "706980f3ea37b755",
+      "type": "add",
+      "after": "928307dae066490e"
+    },
+    {
+      "type": "edit",
+      "id": "706980f3ea37b755",
+      "item": {
+        "type": "paragraph",
+        "id": "706980f3ea37b755",
+        "text": "[[Nike Energy and Carbon Program]]"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ac7bf357386f5b05"
+      },
+      "id": "ac7bf357386f5b05",
+      "type": "add",
+      "after": "706980f3ea37b755"
+    },
+    {
+      "type": "edit",
+      "id": "ac7bf357386f5b05",
+      "item": {
+        "type": "paragraph",
+        "id": "ac7bf357386f5b05",
+        "text": "[[Sustainability Programs and Certifications]]"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5c1aa28861c27961"
+      },
+      "id": "5c1aa28861c27961",
+      "type": "add",
+      "after": "ac7bf357386f5b05"
+    },
+    {
+      "type": "edit",
+      "id": "5c1aa28861c27961",
+      "item": {
+        "type": "paragraph",
+        "id": "5c1aa28861c27961",
+        "text": "Qualitative Indicator points are awarded on a tiered basis depending on program participation at the material or supplier level."
+      }
+    },
+    {
+      "type": "edit",
+      "id": "ac7bf357386f5b05",
+      "item": {
+        "type": "paragraph",
+        "id": "ac7bf357386f5b05",
+        "text": "[[Sustainability Certifications and Programs]]"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "c503ab3aa4908a6b",
+      "item": {
+        "type": "paragraph",
+        "id": "c503ab3aa4908a6b",
+        "text": "[[RSL Tiering]]"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "1aae59eb5fb94820",
+      "item": {
+        "type": "paragraph",
+        "id": "1aae59eb5fb94820",
+        "text": "[[Nike Green Chemistry Program Validation - Material Greening Effort]]"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "9827dce95b2076ad",
+      "item": {
+        "type": "paragraph",
+        "id": "9827dce95b2076ad",
+        "text": "[[Water Conservation - Dye Method]]"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "a020df0ffe2b7667",
+      "item": {
+        "type": "paragraph",
+        "id": "a020df0ffe2b7667",
+        "text": "[[Blends and Composites]]"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "137842a8fef4c8ef"
+      },
+      "id": "137842a8fef4c8ef",
+      "type": "add",
+      "after": "5c1aa28861c27961"
+    },
+    {
+      "type": "edit",
+      "id": "137842a8fef4c8ef",
+      "item": {
+        "type": "paragraph",
+        "id": "137842a8fef4c8ef",
+        "text": "Nike Green Chemistry Program Commitment - Self-Evaluation of Chemicals and Facility"
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "508bf7f4275b05a7",
+        "ff5717010e5b5936",
+        "26a0f9ecac987fc7",
+        "1aae59eb5fb94820",
+        "9827dce95b2076ad",
+        "6dde4f74922d6458",
+        "6c0c9fd6cf88a534",
+        "a020df0ffe2b7667",
+        "e2934d1c46bc3123",
+        "c503ab3aa4908a6b",
+        "137842a8fef4c8ef",
+        "928307dae066490e",
+        "706980f3ea37b755",
+        "ac7bf357386f5b05",
+        "5c1aa28861c27961"
+      ],
+      "id": "137842a8fef4c8ef"
+    },
+    {
+      "type": "edit",
+      "id": "137842a8fef4c8ef",
+      "item": {
+        "type": "paragraph",
+        "id": "137842a8fef4c8ef",
+        "text": "[[Nike Green Chemistry Program Commitment - Self-Evaluation of Chemicals and Facility]]"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "777557fe80cc09bd"
+      },
+      "id": "777557fe80cc09bd",
+      "type": "add",
+      "after": "5c1aa28861c27961"
+    },
+    {
+      "type": "edit",
+      "id": "777557fe80cc09bd",
+      "item": {
+        "type": "paragraph",
+        "id": "777557fe80cc09bd",
+        "text": "[[Water Conservation - Supplier Facility Water Recycling]]"
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "508bf7f4275b05a7",
+        "ff5717010e5b5936",
+        "26a0f9ecac987fc7",
+        "1aae59eb5fb94820",
+        "9827dce95b2076ad",
+        "6dde4f74922d6458",
+        "6c0c9fd6cf88a534",
+        "a020df0ffe2b7667",
+        "e2934d1c46bc3123",
+        "c503ab3aa4908a6b",
+        "137842a8fef4c8ef",
+        "928307dae066490e",
+        "706980f3ea37b755",
+        "ac7bf357386f5b05",
+        "777557fe80cc09bd",
+        "5c1aa28861c27961"
+      ],
+      "id": "777557fe80cc09bd"
+    },
+    {
+      "type": "move",
+      "order": [
+        "508bf7f4275b05a7",
+        "ff5717010e5b5936",
+        "26a0f9ecac987fc7",
+        "1aae59eb5fb94820",
+        "9827dce95b2076ad",
+        "6dde4f74922d6458",
+        "6c0c9fd6cf88a534",
+        "a020df0ffe2b7667",
+        "e2934d1c46bc3123",
+        "c503ab3aa4908a6b",
+        "137842a8fef4c8ef",
+        "928307dae066490e",
+        "777557fe80cc09bd",
+        "706980f3ea37b755",
+        "ac7bf357386f5b05",
+        "5c1aa28861c27961"
+      ],
+      "id": "777557fe80cc09bd"
+    }
+  ]
+}

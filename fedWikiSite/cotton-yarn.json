@@ -1,0 +1,532 @@
+{
+  "title": "Cotton Yarn",
+  "story": [
+    {
+      "data": [
+        {
+          "wounds": "0",
+          "date": "5/1854",
+          "other": "95",
+          "disease": "105"
+        },
+        {
+          "wounds": "0",
+          "date": "6/1854",
+          "other": "40",
+          "disease": "95"
+        },
+        {
+          "wounds": "0",
+          "date": "7/1854",
+          "other": "140",
+          "disease": "520"
+        },
+        {
+          "wounds": "20",
+          "date": "8/1854",
+          "other": "150",
+          "disease": "800"
+        },
+        {
+          "wounds": "220",
+          "date": "9/1854",
+          "other": "230",
+          "disease": "740"
+        },
+        {
+          "wounds": "305",
+          "date": "10/1854",
+          "other": "310",
+          "disease": "600"
+        },
+        {
+          "wounds": "480",
+          "date": "11/1854",
+          "other": "290",
+          "disease": "820"
+        },
+        {
+          "wounds": "295",
+          "date": "12/1854",
+          "other": "310",
+          "disease": "1100"
+        },
+        {
+          "wounds": "230",
+          "date": "1/1855",
+          "other": "460",
+          "disease": "1440"
+        },
+        {
+          "wounds": "180",
+          "date": "2/1855",
+          "other": "520",
+          "disease": "1270"
+        },
+        {
+          "wounds": "155",
+          "date": "3/1855",
+          "other": "350",
+          "disease": "935"
+        },
+        {
+          "wounds": "195",
+          "date": "4/1855",
+          "other": "195",
+          "disease": "560"
+        },
+        {
+          "wounds": "180",
+          "date": "5/1855",
+          "other": "155",
+          "disease": "550"
+        },
+        {
+          "wounds": "330",
+          "date": "6/1855",
+          "other": "130",
+          "disease": "650"
+        },
+        {
+          "wounds": "260",
+          "date": "7/1855",
+          "other": "130",
+          "disease": "430"
+        },
+        {
+          "wounds": "290",
+          "date": "8/1855",
+          "other": "110",
+          "disease": "490"
+        },
+        {
+          "wounds": "355",
+          "date": "9/1855",
+          "other": "100",
+          "disease": "290"
+        },
+        {
+          "wounds": "135",
+          "date": "10/1855",
+          "other": "95",
+          "disease": "245"
+        },
+        {
+          "wounds": "100",
+          "date": "11/1855",
+          "other": "140",
+          "disease": "325"
+        },
+        {
+          "wounds": "40",
+          "date": "12/1855",
+          "other": "120",
+          "disease": "215"
+        },
+        {
+          "wounds": "0",
+          "date": "1/1856",
+          "other": "160",
+          "disease": "160"
+        },
+        {
+          "wounds": "0",
+          "date": "2/1856",
+          "other": "100",
+          "disease": "100"
+        },
+        {
+          "wounds": "0",
+          "date": "3/1856",
+          "other": "125",
+          "disease": "90"
+        },
+        {}
+      ],
+      "text": "crimea.csv",
+      "id": "f431eb47b13761f1",
+      "type": "data",
+      "columns": [
+        "date",
+        "wounds",
+        "other",
+        "disease"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "3de8ac9ddc267956",
+      "text": "<i>Note: Fabricated content for demonstration purposes only."
+    },
+    {
+      "text": "The cotton gin is where cotton fiber is separated from the cotton seed.  The first step in the ginning process is when the cotton is vacuumed into tubes that carry it to a dryer to reduce moisture and improve the fiber quality.  Then it runs through cleaning equipment to remove leaf trash, sticks and other foreign matter.",
+      "id": "b060c162a9ab0734",
+      "type": "paragraph"
+    },
+    {
+      "text": "Proceed to [[Cotton Fabric]].",
+      "id": "dca1de1147c88b53",
+      "type": "paragraph"
+    },
+    {
+      "text": "<h3>Ginning</h3>",
+      "id": "3191bb204dd2889e",
+      "type": "paragraph"
+    },
+    {
+      "text": "<h3>Combing</h3>",
+      "id": "47f88044e24364fe",
+      "type": "paragraph"
+    },
+    {
+      "text": "<h3>Roving</h3>",
+      "id": "0458597d9d8800ea",
+      "type": "paragraph"
+    },
+    {
+      "text": "<h3>Spinning</h3>",
+      "id": "ddbb449e6ca2cb7f",
+      "type": "paragraph"
+    }
+  ],
+  "journal": [
+    {
+      "id": "8341ce8f0113fcb3",
+      "type": "create",
+      "item": {
+        "title": "Cotton Yarn"
+      }
+    },
+    {
+      "id": "b060c162a9ab0734",
+      "type": "add",
+      "item": {
+        "id": "b060c162a9ab0734",
+        "type": "factory"
+      }
+    },
+    {
+      "id": "b060c162a9ab0734",
+      "type": "edit",
+      "item": {
+        "text": "The cotton gin is where cotton fiber is separated from the cotton seed.  The first step in the ginning process is when the cotton is vacuumed into tubes that carry it to a dryer to reduce moisture and improve the fiber quality.  Then it runs through cleaning equipment to remove leaf trash, sticks and other foreign matter.",
+        "id": "b060c162a9ab0734",
+        "type": "paragraph"
+      }
+    },
+    {
+      "after": "b060c162a9ab0734",
+      "id": "f431eb47b13761f1",
+      "type": "add",
+      "item": {
+        "id": "f431eb47b13761f1",
+        "type": "factory"
+      }
+    },
+    {
+      "id": "f431eb47b13761f1",
+      "type": "edit",
+      "item": {
+        "data": [
+          {
+            "wounds": "0",
+            "date": "5/1854",
+            "other": "95",
+            "disease": "105"
+          },
+          {
+            "wounds": "0",
+            "date": "6/1854",
+            "other": "40",
+            "disease": "95"
+          },
+          {
+            "wounds": "0",
+            "date": "7/1854",
+            "other": "140",
+            "disease": "520"
+          },
+          {
+            "wounds": "20",
+            "date": "8/1854",
+            "other": "150",
+            "disease": "800"
+          },
+          {
+            "wounds": "220",
+            "date": "9/1854",
+            "other": "230",
+            "disease": "740"
+          },
+          {
+            "wounds": "305",
+            "date": "10/1854",
+            "other": "310",
+            "disease": "600"
+          },
+          {
+            "wounds": "480",
+            "date": "11/1854",
+            "other": "290",
+            "disease": "820"
+          },
+          {
+            "wounds": "295",
+            "date": "12/1854",
+            "other": "310",
+            "disease": "1100"
+          },
+          {
+            "wounds": "230",
+            "date": "1/1855",
+            "other": "460",
+            "disease": "1440"
+          },
+          {
+            "wounds": "180",
+            "date": "2/1855",
+            "other": "520",
+            "disease": "1270"
+          },
+          {
+            "wounds": "155",
+            "date": "3/1855",
+            "other": "350",
+            "disease": "935"
+          },
+          {
+            "wounds": "195",
+            "date": "4/1855",
+            "other": "195",
+            "disease": "560"
+          },
+          {
+            "wounds": "180",
+            "date": "5/1855",
+            "other": "155",
+            "disease": "550"
+          },
+          {
+            "wounds": "330",
+            "date": "6/1855",
+            "other": "130",
+            "disease": "650"
+          },
+          {
+            "wounds": "260",
+            "date": "7/1855",
+            "other": "130",
+            "disease": "430"
+          },
+          {
+            "wounds": "290",
+            "date": "8/1855",
+            "other": "110",
+            "disease": "490"
+          },
+          {
+            "wounds": "355",
+            "date": "9/1855",
+            "other": "100",
+            "disease": "290"
+          },
+          {
+            "wounds": "135",
+            "date": "10/1855",
+            "other": "95",
+            "disease": "245"
+          },
+          {
+            "wounds": "100",
+            "date": "11/1855",
+            "other": "140",
+            "disease": "325"
+          },
+          {
+            "wounds": "40",
+            "date": "12/1855",
+            "other": "120",
+            "disease": "215"
+          },
+          {
+            "wounds": "0",
+            "date": "1/1856",
+            "other": "160",
+            "disease": "160"
+          },
+          {
+            "wounds": "0",
+            "date": "2/1856",
+            "other": "100",
+            "disease": "100"
+          },
+          {
+            "wounds": "0",
+            "date": "3/1856",
+            "other": "125",
+            "disease": "90"
+          },
+          {}
+        ],
+        "text": "crimea.csv",
+        "id": "f431eb47b13761f1",
+        "type": "data",
+        "columns": [
+          "date",
+          "wounds",
+          "other",
+          "disease"
+        ]
+      }
+    },
+    {
+      "id": "f431eb47b13761f1",
+      "order": [
+        "f431eb47b13761f1",
+        "b060c162a9ab0734"
+      ],
+      "type": "move"
+    },
+    {
+      "after": "b060c162a9ab0734",
+      "id": "3191bb204dd2889e",
+      "type": "add",
+      "item": {
+        "id": "3191bb204dd2889e",
+        "type": "factory"
+      }
+    },
+    {
+      "id": "3191bb204dd2889e",
+      "type": "edit",
+      "item": {
+        "text": "<h3>Ginning</h3>",
+        "id": "3191bb204dd2889e",
+        "type": "paragraph"
+      }
+    },
+    {
+      "after": "3191bb204dd2889e",
+      "id": "47f88044e24364fe",
+      "type": "add",
+      "item": {
+        "id": "47f88044e24364fe",
+        "type": "factory"
+      }
+    },
+    {
+      "id": "47f88044e24364fe",
+      "type": "edit",
+      "item": {
+        "text": "<h3>Combing</h3>",
+        "id": "47f88044e24364fe",
+        "type": "paragraph"
+      }
+    },
+    {
+      "after": "47f88044e24364fe",
+      "id": "0458597d9d8800ea",
+      "type": "add",
+      "item": {
+        "id": "0458597d9d8800ea",
+        "type": "factory"
+      }
+    },
+    {
+      "id": "0458597d9d8800ea",
+      "type": "edit",
+      "item": {
+        "text": "<h3>Roving, Sliver</h3>",
+        "id": "0458597d9d8800ea",
+        "type": "paragraph"
+      }
+    },
+    {
+      "after": "0458597d9d8800ea",
+      "id": "ddbb449e6ca2cb7f",
+      "type": "add",
+      "item": {
+        "id": "ddbb449e6ca2cb7f",
+        "type": "factory"
+      }
+    },
+    {
+      "id": "ddbb449e6ca2cb7f",
+      "type": "edit",
+      "item": {
+        "text": "<h3>Spinning</h3>",
+        "id": "ddbb449e6ca2cb7f",
+        "type": "paragraph"
+      }
+    },
+    {
+      "id": "0458597d9d8800ea",
+      "type": "edit",
+      "item": {
+        "text": "<h3>Roving</h3>",
+        "id": "0458597d9d8800ea",
+        "type": "paragraph"
+      }
+    },
+    {
+      "after": "b060c162a9ab0734",
+      "id": "dca1de1147c88b53",
+      "type": "add",
+      "item": {
+        "text": "Proceed to [[Cotton Fabric]].",
+        "id": "dca1de1147c88b53",
+        "type": "paragraph"
+      }
+    },
+    {
+      "id": "3191bb204dd2889e",
+      "type": "remove"
+    },
+    {
+      "after": "dca1de1147c88b53",
+      "id": "3191bb204dd2889e",
+      "type": "add",
+      "item": {
+        "text": "<h3>Ginning</h3>",
+        "id": "3191bb204dd2889e",
+        "type": "paragraph"
+      }
+    },
+    {
+      "type": "fork",
+      "site": "nmsi.fed.wiki.org"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3de8ac9ddc267956"
+      },
+      "id": "3de8ac9ddc267956",
+      "type": "add",
+      "after": "ddbb449e6ca2cb7f"
+    },
+    {
+      "type": "edit",
+      "id": "3de8ac9ddc267956",
+      "item": {
+        "type": "paragraph",
+        "id": "3de8ac9ddc267956",
+        "text": "<i>Note: Fabricated content for demonstration purposes only."
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "f431eb47b13761f1",
+        "3de8ac9ddc267956",
+        "b060c162a9ab0734",
+        "dca1de1147c88b53",
+        "3191bb204dd2889e",
+        "47f88044e24364fe",
+        "0458597d9d8800ea",
+        "ddbb449e6ca2cb7f"
+      ],
+      "id": "3de8ac9ddc267956"
+    }
+  ]
+}

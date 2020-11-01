@@ -1,0 +1,96 @@
+{
+  "title": "Supplier Performance",
+  "story": [
+    {
+      "text": "Qualitative Indicators are divided into two parts, Environmental Indicators and Supplier Practices.",
+      "id": "70c429b435657d22",
+      "type": "paragraph"
+    },
+    {
+      "text": "<i>from page 37 of 54</i>",
+      "id": "a57b6aa2580768c4",
+      "type": "paragraph"
+    },
+    {
+      "type": "paragraph",
+      "id": "64fdb5db0243a924",
+      "text": "[[Program Participation Guidelines]]"
+    }
+  ],
+  "journal": [
+    {
+      "id": "75f97a413f8819ef",
+      "type": "create",
+      "item": {
+        "title": "Supplier Performance"
+      }
+    },
+    {
+      "id": "70c429b435657d22",
+      "type": "add",
+      "item": {
+        "id": "70c429b435657d22",
+        "type": "factory"
+      }
+    },
+    {
+      "id": "70c429b435657d22",
+      "type": "edit",
+      "item": {
+        "text": "Qualitative Indicators are divided into two parts, Environmental Attributes and Supplier Practices]].",
+        "id": "70c429b435657d22",
+        "type": "paragraph"
+      }
+    },
+    {
+      "id": "70c429b435657d22",
+      "type": "edit",
+      "item": {
+        "text": "Qualitative Indicators are divided into two parts, Environmental Attributes and Supplier Practices.",
+        "id": "70c429b435657d22",
+        "type": "paragraph"
+      }
+    },
+    {
+      "after": "70c429b435657d22",
+      "id": "a57b6aa2580768c4",
+      "type": "add",
+      "item": {
+        "id": "a57b6aa2580768c4",
+        "type": "factory"
+      }
+    },
+    {
+      "id": "a57b6aa2580768c4",
+      "type": "edit",
+      "item": {
+        "text": "<i>from page 37 of 54</i>",
+        "id": "a57b6aa2580768c4",
+        "type": "paragraph"
+      }
+    },
+    {
+      "type": "fork",
+      "site": "nmsi.fed.wiki.org"
+    },
+    {
+      "type": "edit",
+      "id": "70c429b435657d22",
+      "item": {
+        "text": "Qualitative Indicators are divided into two parts, Environmental Indicators and Supplier Practices.",
+        "id": "70c429b435657d22",
+        "type": "paragraph"
+      }
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "64fdb5db0243a924",
+        "text": "[[Program Participation Guidelines]]"
+      },
+      "after": "a57b6aa2580768c4",
+      "id": "64fdb5db0243a924"
+    }
+  ]
+}

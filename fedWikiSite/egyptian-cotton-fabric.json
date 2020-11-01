@@ -1,0 +1,1626 @@
+{
+  "title": "Egyptian Cotton Fabric",
+  "journal": [
+    {
+      "id": "9653e2b868bfbf3c",
+      "type": "create",
+      "item": {
+        "title": "Cotton Fabric"
+      }
+    },
+    {
+      "id": "b2f8d7080d575aa2",
+      "type": "add",
+      "item": {
+        "id": "b2f8d7080d575aa2",
+        "type": "factory"
+      }
+    },
+    {
+      "id": "b2f8d7080d575aa2",
+      "type": "edit",
+      "item": {
+        "data": [
+          {
+            "wounds": "0",
+            "date": "5/1854",
+            "other": "95",
+            "disease": "105"
+          },
+          {
+            "wounds": "0",
+            "date": "6/1854",
+            "other": "40",
+            "disease": "95"
+          },
+          {
+            "wounds": "0",
+            "date": "7/1854",
+            "other": "140",
+            "disease": "520"
+          },
+          {
+            "wounds": "20",
+            "date": "8/1854",
+            "other": "150",
+            "disease": "800"
+          },
+          {
+            "wounds": "220",
+            "date": "9/1854",
+            "other": "230",
+            "disease": "740"
+          },
+          {
+            "wounds": "305",
+            "date": "10/1854",
+            "other": "310",
+            "disease": "600"
+          },
+          {
+            "wounds": "480",
+            "date": "11/1854",
+            "other": "290",
+            "disease": "820"
+          },
+          {
+            "wounds": "295",
+            "date": "12/1854",
+            "other": "310",
+            "disease": "1100"
+          },
+          {
+            "wounds": "230",
+            "date": "1/1855",
+            "other": "460",
+            "disease": "1440"
+          },
+          {
+            "wounds": "180",
+            "date": "2/1855",
+            "other": "520",
+            "disease": "1270"
+          },
+          {
+            "wounds": "155",
+            "date": "3/1855",
+            "other": "350",
+            "disease": "935"
+          },
+          {
+            "wounds": "195",
+            "date": "4/1855",
+            "other": "195",
+            "disease": "560"
+          },
+          {
+            "wounds": "180",
+            "date": "5/1855",
+            "other": "155",
+            "disease": "550"
+          },
+          {
+            "wounds": "330",
+            "date": "6/1855",
+            "other": "130",
+            "disease": "650"
+          },
+          {
+            "wounds": "260",
+            "date": "7/1855",
+            "other": "130",
+            "disease": "430"
+          },
+          {
+            "wounds": "290",
+            "date": "8/1855",
+            "other": "110",
+            "disease": "490"
+          },
+          {
+            "wounds": "355",
+            "date": "9/1855",
+            "other": "100",
+            "disease": "290"
+          },
+          {
+            "wounds": "135",
+            "date": "10/1855",
+            "other": "95",
+            "disease": "245"
+          },
+          {
+            "wounds": "100",
+            "date": "11/1855",
+            "other": "140",
+            "disease": "325"
+          },
+          {
+            "wounds": "40",
+            "date": "12/1855",
+            "other": "120",
+            "disease": "215"
+          },
+          {
+            "wounds": "0",
+            "date": "1/1856",
+            "other": "160",
+            "disease": "160"
+          },
+          {
+            "wounds": "0",
+            "date": "2/1856",
+            "other": "100",
+            "disease": "100"
+          },
+          {
+            "wounds": "0",
+            "date": "3/1856",
+            "other": "125",
+            "disease": "90"
+          },
+          {}
+        ],
+        "text": "crimea.csv",
+        "id": "b2f8d7080d575aa2",
+        "type": "data",
+        "columns": [
+          "date",
+          "wounds",
+          "other",
+          "disease"
+        ]
+      }
+    },
+    {
+      "after": "b2f8d7080d575aa2",
+      "id": "695cc4d095d8b836",
+      "type": "add",
+      "item": {
+        "id": "695cc4d095d8b836",
+        "type": "factory"
+      }
+    },
+    {
+      "id": "695cc4d095d8b836",
+      "type": "edit",
+      "item": {
+        "text": "The rapier-type weaving machines do not have shuttles, they propel the weft by means of small grippers or rapiers that pick up the filling thread and carry it halfway across the loom where another rapier picks it up and pulls it the rest of the way.[8] Some carry the filling yarns across the loom at rates in excess of 2,000 meters per minute. ",
+        "id": "695cc4d095d8b836",
+        "type": "paragraph"
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "695cc4d095d8b836",
+        "b2f8d7080d575aa2"
+      ],
+      "id": "695cc4d095d8b836"
+    },
+    {
+      "type": "move",
+      "order": [
+        "b2f8d7080d575aa2",
+        "695cc4d095d8b836"
+      ],
+      "id": "b2f8d7080d575aa2"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "aad168178ff46234"
+      },
+      "id": "aad168178ff46234",
+      "type": "add",
+      "after": "695cc4d095d8b836"
+    },
+    {
+      "type": "edit",
+      "id": "aad168178ff46234",
+      "item": {
+        "type": "paragraph",
+        "id": "aad168178ff46234",
+        "text": "See also [[Cotton in Field]]"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "aad168178ff46234",
+      "item": {
+        "type": "paragraph",
+        "id": "aad168178ff46234",
+        "text": "See also [[Cotton in the Field]]"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "aad168178ff46234",
+      "item": {
+        "type": "paragraph",
+        "id": "aad168178ff46234",
+        "text": "Calculations start with  [[Cotton in the Field]]"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "695cc4d095d8b836",
+      "item": {
+        "text": "\"Data sources:  California Department of Pesticide Regulation; “Summary of Pesticide Use Report Data 2006 Indexed by Commodity”; Cotton and Wool Yearbook 2007, Tables 6,7; http://usda.mannlib.cornell.edu/MannUsda/viewDocumentInfo.do?documentID=1282; Cotton Water Use Compared/Other Crops, http://www.cottoninc.com/Water-Management/Cotton-Water-Use-Compared-to-Other-Crops/; Soil Organic Carbon Sequestration Rates by Tillage and Crop Rotation: A Global Data Analysis, Soil Sci. Soc. Am. J. 66:1930–1946 (2002); E. Kalliala, The Environmental Index Model for Textiles and Textile Services; Pyburn in Kooistra and  Termorshuizen, The sustainability of cotton: Consequences for man and environment, 2006; Munk, Irrigation Management Improvements for San Joaquin Valley Pima Cotton Systems, n.d.; Laursen, et al, Danish EPA Environmental Assessment of Textiles (1997); Handbook of Fiber Chemistry (2007); Cotton Inc., “Cotton Production Water Requirements,” http://www.cottoninc.com/Water-Management/Cotton-Water-Requirements/; California Cotton Ginners and Growers Associations, “Cotton Facts,” http://www.ccgga.org/index.html).\n\"",
+        "id": "695cc4d095d8b836",
+        "type": "paragraph"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b97c8c5602f0ea0e"
+      },
+      "id": "b97c8c5602f0ea0e",
+      "type": "add",
+      "after": "aad168178ff46234"
+    },
+    {
+      "type": "edit",
+      "id": "b97c8c5602f0ea0e",
+      "item": {
+        "type": "paragraph",
+        "id": "b97c8c5602f0ea0e",
+        "text": "<h3>Data Sources"
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "b2f8d7080d575aa2",
+        "b97c8c5602f0ea0e",
+        "695cc4d095d8b836",
+        "aad168178ff46234"
+      ],
+      "id": "b97c8c5602f0ea0e"
+    },
+    {
+      "type": "edit",
+      "id": "695cc4d095d8b836",
+      "item": {
+        "text": "California Department of Pesticide Regulation; “Summary of Pesticide Use Report Data 2006 Indexed by Commodity”; Cotton and Wool Yearbook 2007, Tables 6,7; http://usda.mannlib.cornell.edu/MannUsda/viewDocumentInfo.do?documentID=1282; Cotton Water Use Compared/Other Crops, http://www.cottoninc.com/Water-Management/Cotton-Water-Use-Compared-to-Other-Crops/; Soil Organic Carbon Sequestration Rates by Tillage and Crop Rotation: A Global Data Analysis, Soil Sci. Soc. Am. J. 66:1930–1946 (2002); E. Kalliala, The Environmental Index Model for Textiles and Textile Services; Pyburn in Kooistra and  Termorshuizen, The sustainability of cotton: Consequences for man and environment, 2006; Munk, Irrigation Management Improvements for San Joaquin Valley Pima Cotton Systems, n.d.; Laursen, et al, Danish EPA Environmental Assessment of Textiles (1997); Handbook of Fiber Chemistry (2007); Cotton Inc., “Cotton Production Water Requirements,” http://www.cottoninc.com/Water-Management/Cotton-Water-Requirements/; California Cotton Ginners and Growers Associations, “Cotton Facts,” http://www.ccgga.org/index.html).\n\"",
+        "id": "695cc4d095d8b836",
+        "type": "paragraph"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1b1193fe73a468c7"
+      },
+      "id": "1b1193fe73a468c7",
+      "type": "add",
+      "after": "aad168178ff46234"
+    },
+    {
+      "type": "edit",
+      "id": "1b1193fe73a468c7",
+      "item": {
+        "type": "paragraph",
+        "id": "1b1193fe73a468c7",
+        "text": "Woven cotton fabric using conventionally grown cotton"
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "b2f8d7080d575aa2",
+        "b97c8c5602f0ea0e",
+        "1b1193fe73a468c7",
+        "695cc4d095d8b836",
+        "aad168178ff46234"
+      ],
+      "id": "1b1193fe73a468c7"
+    },
+    {
+      "type": "move",
+      "order": [
+        "b2f8d7080d575aa2",
+        "1b1193fe73a468c7",
+        "b97c8c5602f0ea0e",
+        "695cc4d095d8b836",
+        "aad168178ff46234"
+      ],
+      "id": "1b1193fe73a468c7"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "78393defe43abdc4"
+      },
+      "id": "78393defe43abdc4",
+      "type": "add",
+      "after": "aad168178ff46234"
+    },
+    {
+      "type": "edit",
+      "id": "78393defe43abdc4",
+      "item": {
+        "type": "paragraph",
+        "id": "78393defe43abdc4",
+        "text": "<h3>Supply Chain Scenario"
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "b2f8d7080d575aa2",
+        "78393defe43abdc4",
+        "1b1193fe73a468c7",
+        "b97c8c5602f0ea0e",
+        "695cc4d095d8b836",
+        "aad168178ff46234"
+      ],
+      "id": "78393defe43abdc4"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "81b58c618608bfe9"
+      },
+      "id": "81b58c618608bfe9",
+      "type": "add",
+      "after": "aad168178ff46234"
+    },
+    {
+      "type": "edit",
+      "id": "81b58c618608bfe9",
+      "item": {
+        "type": "paragraph",
+        "id": "81b58c618608bfe9",
+        "text": "Kg raw material required for 1 kg yarn/subcomponent:  2.60\n"
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "b2f8d7080d575aa2",
+        "78393defe43abdc4",
+        "1b1193fe73a468c7",
+        "81b58c618608bfe9",
+        "b97c8c5602f0ea0e",
+        "695cc4d095d8b836",
+        "aad168178ff46234"
+      ],
+      "id": "81b58c618608bfe9"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c838fa746db6f714"
+      },
+      "id": "c838fa746db6f714",
+      "type": "add",
+      "after": "aad168178ff46234"
+    },
+    {
+      "type": "edit",
+      "id": "695cc4d095d8b836",
+      "item": {
+        "text": "California Department of Pesticide Regulation; “Summary of Pesticide Use Report Data 2006 Indexed by Commodity”; Cotton and Wool Yearbook 2007, [http://usda.mannlib.cornell.edu/MannUsda/viewDocumentInfo.do?documentID=1282 Tables 6,7]; ;Cotton Water Use Compared/Other Crops , http://www.cottoninc.com/Water-Management/Cotton-Water-Use-Compared-to-Other-Crops/; Soil Organic Carbon Sequestration Rates by Tillage and Crop Rotation: A Global Data Analysis, Soil Sci. Soc. Am. J. 66:1930–1946 (2002); E. Kalliala, The Environmental Index Model for Textiles and Textile Services; Pyburn in Kooistra and  Termorshuizen, The sustainability of cotton: Consequences for man and environment, 2006; Munk, Irrigation Management Improvements for San Joaquin Valley Pima Cotton Systems, n.d.; Laursen, et al, Danish EPA Environmental Assessment of Textiles (1997); Handbook of Fiber Chemistry (2007); Cotton Inc., “Cotton Production Water Requirements,” http://www.cottoninc.com/Water-Management/Cotton-Water-Requirements/; California Cotton Ginners and Growers Associations, “Cotton Facts,” http://www.ccgga.org/index.html).\n\"",
+        "id": "695cc4d095d8b836",
+        "type": "paragraph"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "695cc4d095d8b836",
+      "item": {
+        "text": "California Department of Pesticide Regulation; “Summary of Pesticide Use Report Data 2006 Indexed by Commodity”; [http://usda.mannlib.cornell.edu/MannUsda/viewDocumentInfo.do?documentID=1282 Cotton and Wool Yearbook 2007],  Tables 6,7 ;Cotton Water Use Compared/Other Crops , http://www.cottoninc.com/Water-Management/Cotton-Water-Use-Compared-to-Other-Crops/; Soil Organic Carbon Sequestration Rates by Tillage and Crop Rotation: A Global Data Analysis, Soil Sci. Soc. Am. J. 66:1930–1946 (2002); E. Kalliala, The Environmental Index Model for Textiles and Textile Services; Pyburn in Kooistra and  Termorshuizen, The sustainability of cotton: Consequences for man and environment, 2006; Munk, Irrigation Management Improvements for San Joaquin Valley Pima Cotton Systems, n.d.; Laursen, et al, Danish EPA Environmental Assessment of Textiles (1997); Handbook of Fiber Chemistry (2007); Cotton Inc., “Cotton Production Water Requirements,” http://www.cottoninc.com/Water-Management/Cotton-Water-Requirements/; California Cotton Ginners and Growers Associations, “Cotton Facts,” http://www.ccgga.org/index.html).\n\"",
+        "id": "695cc4d095d8b836",
+        "type": "paragraph"
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "b2f8d7080d575aa2",
+        "78393defe43abdc4",
+        "1b1193fe73a468c7",
+        "81b58c618608bfe9",
+        "b97c8c5602f0ea0e",
+        "c838fa746db6f714",
+        "695cc4d095d8b836",
+        "aad168178ff46234"
+      ],
+      "id": "c838fa746db6f714"
+    },
+    {
+      "type": "edit",
+      "id": "695cc4d095d8b836",
+      "item": {
+        "text": " ;Cotton Water Use Compared/Other Crops , http://www.cottoninc.com/Water-Management/Cotton-Water-Use-Compared-to-Other-Crops/; Soil Organic Carbon Sequestration Rates by Tillage and Crop Rotation: A Global Data Analysis, Soil Sci. Soc. Am. J. 66:1930–1946 (2002); E. Kalliala, The Environmental Index Model for Textiles and Textile Services; Pyburn in Kooistra and  Termorshuizen, The sustainability of cotton: Consequences for man and environment, 2006; Munk, Irrigation Management Improvements for San Joaquin Valley Pima Cotton Systems, n.d.; Laursen, et al, Danish EPA Environmental Assessment of Textiles (1997); Handbook of Fiber Chemistry (2007); Cotton Inc., “Cotton Production Water Requirements,” http://www.cottoninc.com/Water-Management/Cotton-Water-Requirements/; California Cotton Ginners and Growers Associations, “Cotton Facts,” http://www.ccgga.org/index.html).\n\"",
+        "id": "695cc4d095d8b836",
+        "type": "paragraph"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "c838fa746db6f714",
+      "item": {
+        "type": "paragraph",
+        "id": "c838fa746db6f714",
+        "text": "California Department of Pesticide Regulation; “Summary of Pesticide Use Report Data 2006 Indexed by Commodity”; [http://usda.mannlib.cornell.edu/MannUsda/viewDocumentInfo.do?documentID=1282 Cotton and Wool Yearbook 2007],  Tables 6,7"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "695cc4d095d8b836",
+      "item": {
+        "text": "Soil Organic Carbon Sequestration Rates by Tillage and Crop Rotation: A Global Data Analysis, Soil Sci. Soc. Am. J. 66:1930–1946 (2002); E. Kalliala, The Environmental Index Model for Textiles and Textile Services; Pyburn in Kooistra and  Termorshuizen, The sustainability of cotton: Consequences for man and environment, 2006; Munk, Irrigation Management Improvements for San Joaquin Valley Pima Cotton Systems, n.d.; Laursen, et al, Danish EPA Environmental Assessment of Textiles (1997); Handbook of Fiber Chemistry (2007); Cotton Inc., “Cotton Production Water Requirements,” http://www.cottoninc.com/Water-Management/Cotton-Water-Requirements/; California Cotton Ginners and Growers Associations, “Cotton Facts,” http://www.ccgga.org/index.html).\n\"",
+        "id": "695cc4d095d8b836",
+        "type": "paragraph"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f3fe0575a2f55d2f"
+      },
+      "id": "f3fe0575a2f55d2f",
+      "type": "add",
+      "after": "aad168178ff46234"
+    },
+    {
+      "type": "edit",
+      "id": "f3fe0575a2f55d2f",
+      "item": {
+        "type": "paragraph",
+        "id": "f3fe0575a2f55d2f",
+        "text": "Cotton Water Use Compared/Other Crops , [http://www.cottoninc.com/Water-Management/Cotton-Water-Use-Compared-to-Other-Crops/ here]"
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "b2f8d7080d575aa2",
+        "78393defe43abdc4",
+        "1b1193fe73a468c7",
+        "81b58c618608bfe9",
+        "b97c8c5602f0ea0e",
+        "c838fa746db6f714",
+        "f3fe0575a2f55d2f",
+        "695cc4d095d8b836",
+        "aad168178ff46234"
+      ],
+      "id": "f3fe0575a2f55d2f"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "47fdbe82e0ee3c61"
+      },
+      "id": "47fdbe82e0ee3c61",
+      "type": "add",
+      "after": "aad168178ff46234"
+    },
+    {
+      "type": "edit",
+      "id": "47fdbe82e0ee3c61",
+      "item": {
+        "type": "paragraph",
+        "id": "47fdbe82e0ee3c61",
+        "text": "<h3>Data Quality Assessment\n"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6a25105d2a4ad230"
+      },
+      "id": "6a25105d2a4ad230",
+      "type": "add",
+      "after": "47fdbe82e0ee3c61"
+    },
+    {
+      "type": "edit",
+      "id": "6a25105d2a4ad230",
+      "item": {
+        "type": "paragraph",
+        "id": "6a25105d2a4ad230",
+        "text": "Medium"
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "b2f8d7080d575aa2",
+        "78393defe43abdc4",
+        "1b1193fe73a468c7",
+        "b97c8c5602f0ea0e",
+        "c838fa746db6f714",
+        "f3fe0575a2f55d2f",
+        "695cc4d095d8b836",
+        "81b58c618608bfe9",
+        "aad168178ff46234",
+        "47fdbe82e0ee3c61",
+        "6a25105d2a4ad230"
+      ],
+      "id": "81b58c618608bfe9"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bc8b81c9b2500e35"
+      },
+      "id": "bc8b81c9b2500e35",
+      "type": "add",
+      "after": "6a25105d2a4ad230"
+    },
+    {
+      "type": "edit",
+      "id": "bc8b81c9b2500e35",
+      "item": {
+        "type": "paragraph",
+        "id": "bc8b81c9b2500e35",
+        "text": "<h3>Raw Material Factor"
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "b2f8d7080d575aa2",
+        "78393defe43abdc4",
+        "1b1193fe73a468c7",
+        "b97c8c5602f0ea0e",
+        "c838fa746db6f714",
+        "f3fe0575a2f55d2f",
+        "695cc4d095d8b836",
+        "bc8b81c9b2500e35",
+        "81b58c618608bfe9",
+        "aad168178ff46234",
+        "47fdbe82e0ee3c61",
+        "6a25105d2a4ad230"
+      ],
+      "id": "bc8b81c9b2500e35"
+    },
+    {
+      "type": "move",
+      "order": [
+        "b2f8d7080d575aa2",
+        "78393defe43abdc4",
+        "1b1193fe73a468c7",
+        "b97c8c5602f0ea0e",
+        "c838fa746db6f714",
+        "f3fe0575a2f55d2f",
+        "695cc4d095d8b836",
+        "bc8b81c9b2500e35",
+        "81b58c618608bfe9",
+        "47fdbe82e0ee3c61",
+        "6a25105d2a4ad230",
+        "aad168178ff46234"
+      ],
+      "id": "aad168178ff46234"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1baeddeb6f221789"
+      },
+      "id": "1baeddeb6f221789",
+      "type": "add",
+      "after": "aad168178ff46234"
+    },
+    {
+      "type": "edit",
+      "id": "1baeddeb6f221789",
+      "item": {
+        "type": "paragraph",
+        "id": "1baeddeb6f221789",
+        "text": "<h3>Geographic Location"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "eb18767c5b4877a6"
+      },
+      "id": "eb18767c5b4877a6",
+      "type": "add",
+      "after": "1baeddeb6f221789"
+    },
+    {
+      "type": "edit",
+      "id": "eb18767c5b4877a6",
+      "item": {
+        "type": "paragraph",
+        "id": "eb18767c5b4877a6",
+        "text": "<h3>Production Method"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "99309a1c390351b2"
+      },
+      "id": "99309a1c390351b2",
+      "type": "add",
+      "after": "eb18767c5b4877a6"
+    },
+    {
+      "type": "edit",
+      "id": "99309a1c390351b2",
+      "item": {
+        "type": "paragraph",
+        "id": "99309a1c390351b2",
+        "text": "<h3>Chemistry Exposure Assumptions"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a6094827e334344a"
+      },
+      "id": "a6094827e334344a",
+      "type": "add",
+      "after": "99309a1c390351b2"
+    },
+    {
+      "type": "edit",
+      "id": "a6094827e334344a",
+      "item": {
+        "type": "paragraph",
+        "id": "a6094827e334344a",
+        "text": "Fiber in California; yarn and textile in South Carolina"
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "b2f8d7080d575aa2",
+        "78393defe43abdc4",
+        "1b1193fe73a468c7",
+        "b97c8c5602f0ea0e",
+        "c838fa746db6f714",
+        "f3fe0575a2f55d2f",
+        "695cc4d095d8b836",
+        "bc8b81c9b2500e35",
+        "81b58c618608bfe9",
+        "47fdbe82e0ee3c61",
+        "6a25105d2a4ad230",
+        "aad168178ff46234",
+        "1baeddeb6f221789",
+        "a6094827e334344a",
+        "eb18767c5b4877a6",
+        "99309a1c390351b2"
+      ],
+      "id": "a6094827e334344a"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8aa4e9345b3435d8"
+      },
+      "id": "8aa4e9345b3435d8",
+      "type": "add",
+      "after": "99309a1c390351b2"
+    },
+    {
+      "type": "edit",
+      "id": "8aa4e9345b3435d8",
+      "item": {
+        "type": "paragraph",
+        "id": "8aa4e9345b3435d8",
+        "text": "conventionally grown with intensive agricultural chemical use, and ginned in the Central Valley; carding, drawing, ring spun yarn, woven greige, scoured, bleached, mercerized, vat dyes, jet dyed, finished"
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "b2f8d7080d575aa2",
+        "78393defe43abdc4",
+        "1b1193fe73a468c7",
+        "b97c8c5602f0ea0e",
+        "c838fa746db6f714",
+        "f3fe0575a2f55d2f",
+        "695cc4d095d8b836",
+        "bc8b81c9b2500e35",
+        "81b58c618608bfe9",
+        "47fdbe82e0ee3c61",
+        "6a25105d2a4ad230",
+        "aad168178ff46234",
+        "1baeddeb6f221789",
+        "a6094827e334344a",
+        "eb18767c5b4877a6",
+        "8aa4e9345b3435d8",
+        "99309a1c390351b2"
+      ],
+      "id": "8aa4e9345b3435d8"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "eba4ac0e0e066fc7"
+      },
+      "id": "eba4ac0e0e066fc7",
+      "type": "add",
+      "after": "99309a1c390351b2"
+    },
+    {
+      "type": "edit",
+      "id": "eba4ac0e0e066fc7",
+      "item": {
+        "type": "paragraph",
+        "id": "eba4ac0e0e066fc7",
+        "text": "(n/a)"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0fac42871122c6c4"
+      },
+      "id": "0fac42871122c6c4",
+      "type": "add",
+      "after": "eba4ac0e0e066fc7"
+    },
+    {
+      "type": "edit",
+      "id": "0fac42871122c6c4",
+      "item": {
+        "type": "paragraph",
+        "id": "0fac42871122c6c4",
+        "text": "<i>from Tier 2 Dynamic.xls</i>"
+      }
+    },
+    {
+      "type": "fork",
+      "site": "nmsi.fed.wiki.org"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "13701169f593cf48"
+      },
+      "id": "13701169f593cf48",
+      "type": "add",
+      "after": "0fac42871122c6c4"
+    },
+    {
+      "type": "edit",
+      "id": "13701169f593cf48",
+      "item": {
+        "type": "data",
+        "id": "13701169f593cf48",
+        "columns": [
+          "Material name",
+          "Carcinogenicity",
+          "Acute Toxicity",
+          "Chronic Toxicity",
+          "Reproductive/Endocrine Disrupter Toxicity",
+          "Chemistry Total",
+          "Energy Intensity",
+          "GHG Emissions Intensity",
+          "Energy/GHG Emissions Total",
+          "Water Intensity",
+          "Land Use Intensity",
+          "Water/ Land Use Total",
+          "Hazardous Waste",
+          "MSW",
+          "Industrial waste",
+          "Recyclable/ Compostable waste",
+          "Mineral waste",
+          "Physical Waste Total",
+          "Total score"
+        ],
+        "data": [
+          {
+            "Material name": "Cotton fabric",
+            "Carcinogenicity": "3.0",
+            "Acute Toxicity": "2.1",
+            "Chronic Toxicity": "2.1",
+            "Reproductive/Endocrine Disrupter Toxicity": "2.2",
+            "Chemistry Total": "9.4",
+            "Energy Intensity": "2.5",
+            "GHG Emissions Intensity": "3.8",
+            "Energy/GHG Emissions Total": "6.3",
+            "Water Intensity": "0.0",
+            "Land Use Intensity": "5.3",
+            "Water/ Land Use Total": "5.3",
+            "Hazardous Waste": "10.0",
+            "MSW": "5.0",
+            "Industrial waste": "4.0",
+            "Recyclable/ Compostable waste": "0.0",
+            "Mineral waste": "1.3",
+            "Physical Waste Total": "20.3",
+            "Total score": "41.2"
+          }
+        ],
+        "text": "Cotton-Fabric-Tier2.csv"
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "b2f8d7080d575aa2",
+        "13701169f593cf48",
+        "78393defe43abdc4",
+        "1b1193fe73a468c7",
+        "b97c8c5602f0ea0e",
+        "c838fa746db6f714",
+        "f3fe0575a2f55d2f",
+        "695cc4d095d8b836",
+        "bc8b81c9b2500e35",
+        "81b58c618608bfe9",
+        "47fdbe82e0ee3c61",
+        "6a25105d2a4ad230",
+        "aad168178ff46234",
+        "1baeddeb6f221789",
+        "a6094827e334344a",
+        "eb18767c5b4877a6",
+        "8aa4e9345b3435d8",
+        "99309a1c390351b2",
+        "eba4ac0e0e066fc7",
+        "0fac42871122c6c4"
+      ],
+      "id": "13701169f593cf48"
+    },
+    {
+      "type": "remove",
+      "id": "b2f8d7080d575aa2"
+    },
+    {
+      "type": "edit",
+      "id": "f3fe0575a2f55d2f",
+      "item": {
+        "type": "paragraph",
+        "id": "f3fe0575a2f55d2f",
+        "text": "Cotton Water Use Compared/Other Crops , from [http://www.cottoninc.com/Water-Management/Cotton-Water-Use-Compared-to-Other-Crops/ Cotton, Inc]."
+      }
+    },
+    {
+      "type": "fork",
+      "site": "nmsi.fed.wiki.org"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "449fd475c247cca2"
+      },
+      "id": "449fd475c247cca2",
+      "type": "add",
+      "after": "0fac42871122c6c4"
+    },
+    {
+      "type": "move",
+      "order": [
+        "13701169f593cf48",
+        "78393defe43abdc4",
+        "1b1193fe73a468c7",
+        "449fd475c247cca2",
+        "b97c8c5602f0ea0e",
+        "c838fa746db6f714",
+        "f3fe0575a2f55d2f",
+        "695cc4d095d8b836",
+        "bc8b81c9b2500e35",
+        "81b58c618608bfe9",
+        "47fdbe82e0ee3c61",
+        "6a25105d2a4ad230",
+        "aad168178ff46234",
+        "1baeddeb6f221789",
+        "a6094827e334344a",
+        "eb18767c5b4877a6",
+        "8aa4e9345b3435d8",
+        "99309a1c390351b2",
+        "eba4ac0e0e066fc7",
+        "0fac42871122c6c4"
+      ],
+      "id": "449fd475c247cca2"
+    },
+    {
+      "type": "edit",
+      "id": "449fd475c247cca2",
+      "item": {
+        "type": "paragraph",
+        "id": "449fd475c247cca2",
+        "text": "Try [[D3 Radar Chart]]."
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "13701169f593cf48",
+        "78393defe43abdc4",
+        "1b1193fe73a468c7",
+        "449fd475c247cca2",
+        "b97c8c5602f0ea0e",
+        "c838fa746db6f714",
+        "f3fe0575a2f55d2f",
+        "695cc4d095d8b836",
+        "bc8b81c9b2500e35",
+        "81b58c618608bfe9",
+        "47fdbe82e0ee3c61",
+        "6a25105d2a4ad230",
+        "1baeddeb6f221789",
+        "a6094827e334344a",
+        "eb18767c5b4877a6",
+        "8aa4e9345b3435d8",
+        "99309a1c390351b2",
+        "eba4ac0e0e066fc7",
+        "aad168178ff46234",
+        "0fac42871122c6c4"
+      ],
+      "id": "aad168178ff46234"
+    },
+    {
+      "type": "edit",
+      "id": "695cc4d095d8b836",
+      "item": {
+        "text": "E. Kalliala, The Environmental Index Model for Textiles and Textile Services; Pyburn in Kooistra and  Termorshuizen, The sustainability of cotton: Consequences for man and environment, 2006; Munk, Irrigation Management Improvements for San Joaquin Valley Pima Cotton Systems, n.d.; Laursen, et al, Danish EPA Environmental Assessment of Textiles (1997); Handbook of Fiber Chemistry (2007); Cotton Inc., “Cotton Production Water Requirements,” http://www.cottoninc.com/Water-Management/Cotton-Water-Requirements/; California Cotton Ginners and Growers Associations, “Cotton Facts,” http://www.ccgga.org/index.html).\n\"",
+        "id": "695cc4d095d8b836",
+        "type": "paragraph"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3e5d5ff5d34646b6"
+      },
+      "id": "3e5d5ff5d34646b6",
+      "type": "add",
+      "after": "0fac42871122c6c4"
+    },
+    {
+      "type": "edit",
+      "id": "3e5d5ff5d34646b6",
+      "item": {
+        "type": "paragraph",
+        "id": "3e5d5ff5d34646b6",
+        "text": "Soil Organic Carbon Sequestration Rates by Tillage and Crop Rotation: A Global Data Analysis, Soil Sci. Soc. Am. J. 66:1930–1946 (2002)"
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "13701169f593cf48",
+        "78393defe43abdc4",
+        "1b1193fe73a468c7",
+        "449fd475c247cca2",
+        "b97c8c5602f0ea0e",
+        "c838fa746db6f714",
+        "f3fe0575a2f55d2f",
+        "3e5d5ff5d34646b6",
+        "695cc4d095d8b836",
+        "bc8b81c9b2500e35",
+        "81b58c618608bfe9",
+        "47fdbe82e0ee3c61",
+        "6a25105d2a4ad230",
+        "1baeddeb6f221789",
+        "a6094827e334344a",
+        "eb18767c5b4877a6",
+        "8aa4e9345b3435d8",
+        "99309a1c390351b2",
+        "eba4ac0e0e066fc7",
+        "aad168178ff46234",
+        "0fac42871122c6c4"
+      ],
+      "id": "3e5d5ff5d34646b6"
+    },
+    {
+      "type": "edit",
+      "id": "695cc4d095d8b836",
+      "item": {
+        "text": "Pyburn in Kooistra and  Termorshuizen, The sustainability of cotton: Consequences for man and environment, 2006; Munk, Irrigation Management Improvements for San Joaquin Valley Pima Cotton Systems, n.d.; Laursen, et al, Danish EPA Environmental Assessment of Textiles (1997); Handbook of Fiber Chemistry (2007); Cotton Inc., “Cotton Production Water Requirements,” http://www.cottoninc.com/Water-Management/Cotton-Water-Requirements/; California Cotton Ginners and Growers Associations, “Cotton Facts,” http://www.ccgga.org/index.html).\n\"",
+        "id": "695cc4d095d8b836",
+        "type": "paragraph"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "50c4e6e1dec3f0ed"
+      },
+      "id": "50c4e6e1dec3f0ed",
+      "type": "add",
+      "after": "0fac42871122c6c4"
+    },
+    {
+      "type": "move",
+      "order": [
+        "13701169f593cf48",
+        "78393defe43abdc4",
+        "1b1193fe73a468c7",
+        "449fd475c247cca2",
+        "b97c8c5602f0ea0e",
+        "c838fa746db6f714",
+        "f3fe0575a2f55d2f",
+        "3e5d5ff5d34646b6",
+        "50c4e6e1dec3f0ed",
+        "695cc4d095d8b836",
+        "bc8b81c9b2500e35",
+        "81b58c618608bfe9",
+        "47fdbe82e0ee3c61",
+        "6a25105d2a4ad230",
+        "1baeddeb6f221789",
+        "a6094827e334344a",
+        "eb18767c5b4877a6",
+        "8aa4e9345b3435d8",
+        "99309a1c390351b2",
+        "eba4ac0e0e066fc7",
+        "aad168178ff46234",
+        "0fac42871122c6c4"
+      ],
+      "id": "50c4e6e1dec3f0ed"
+    },
+    {
+      "type": "edit",
+      "id": "50c4e6e1dec3f0ed",
+      "item": {
+        "type": "paragraph",
+        "id": "50c4e6e1dec3f0ed",
+        "text": "E. Kalliala, The Environmental Index Model for Textiles and Textile Services"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "695cc4d095d8b836",
+      "item": {
+        "text": "Munk, Irrigation Management Improvements for San Joaquin Valley Pima Cotton Systems, n.d.; Laursen, et al, Danish EPA Environmental Assessment of Textiles (1997); Handbook of Fiber Chemistry (2007); Cotton Inc., “Cotton Production Water Requirements,” http://www.cottoninc.com/Water-Management/Cotton-Water-Requirements/; California Cotton Ginners and Growers Associations, “Cotton Facts,” http://www.ccgga.org/index.html).\n\"",
+        "id": "695cc4d095d8b836",
+        "type": "paragraph"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "851a5fb15a98ff7f"
+      },
+      "id": "851a5fb15a98ff7f",
+      "type": "add",
+      "after": "0fac42871122c6c4"
+    },
+    {
+      "type": "move",
+      "order": [
+        "13701169f593cf48",
+        "78393defe43abdc4",
+        "1b1193fe73a468c7",
+        "449fd475c247cca2",
+        "b97c8c5602f0ea0e",
+        "c838fa746db6f714",
+        "f3fe0575a2f55d2f",
+        "3e5d5ff5d34646b6",
+        "50c4e6e1dec3f0ed",
+        "851a5fb15a98ff7f",
+        "695cc4d095d8b836",
+        "bc8b81c9b2500e35",
+        "81b58c618608bfe9",
+        "47fdbe82e0ee3c61",
+        "6a25105d2a4ad230",
+        "1baeddeb6f221789",
+        "a6094827e334344a",
+        "eb18767c5b4877a6",
+        "8aa4e9345b3435d8",
+        "99309a1c390351b2",
+        "eba4ac0e0e066fc7",
+        "aad168178ff46234",
+        "0fac42871122c6c4"
+      ],
+      "id": "851a5fb15a98ff7f"
+    },
+    {
+      "type": "edit",
+      "id": "851a5fb15a98ff7f",
+      "item": {
+        "type": "paragraph",
+        "id": "851a5fb15a98ff7f",
+        "text": "Pyburn in Kooistra and  Termorshuizen, The sustainability of cotton: Consequences for man and environment, 2006"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "695cc4d095d8b836",
+      "item": {
+        "text": "Laursen, et al, Danish EPA Environmental Assessment of Textiles (1997); Handbook of Fiber Chemistry (2007); Cotton Inc., “Cotton Production Water Requirements,” http://www.cottoninc.com/Water-Management/Cotton-Water-Requirements/; California Cotton Ginners and Growers Associations, “Cotton Facts,” http://www.ccgga.org/index.html).\n\"",
+        "id": "695cc4d095d8b836",
+        "type": "paragraph"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "957123c7d34feddf"
+      },
+      "id": "957123c7d34feddf",
+      "type": "add",
+      "after": "0fac42871122c6c4"
+    },
+    {
+      "type": "edit",
+      "id": "957123c7d34feddf",
+      "item": {
+        "type": "paragraph",
+        "id": "957123c7d34feddf",
+        "text": "Munk, Irrigation Management Improvements for San Joaquin Valley Pima Cotton Systems, n.d.; "
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "13701169f593cf48",
+        "78393defe43abdc4",
+        "1b1193fe73a468c7",
+        "449fd475c247cca2",
+        "b97c8c5602f0ea0e",
+        "c838fa746db6f714",
+        "f3fe0575a2f55d2f",
+        "3e5d5ff5d34646b6",
+        "50c4e6e1dec3f0ed",
+        "851a5fb15a98ff7f",
+        "957123c7d34feddf",
+        "695cc4d095d8b836",
+        "bc8b81c9b2500e35",
+        "81b58c618608bfe9",
+        "47fdbe82e0ee3c61",
+        "6a25105d2a4ad230",
+        "1baeddeb6f221789",
+        "a6094827e334344a",
+        "eb18767c5b4877a6",
+        "8aa4e9345b3435d8",
+        "99309a1c390351b2",
+        "eba4ac0e0e066fc7",
+        "aad168178ff46234",
+        "0fac42871122c6c4"
+      ],
+      "id": "957123c7d34feddf"
+    },
+    {
+      "type": "edit",
+      "id": "957123c7d34feddf",
+      "item": {
+        "type": "paragraph",
+        "id": "957123c7d34feddf",
+        "text": "Munk, Irrigation Management Improvements for San Joaquin Valley Pima Cotton Systems, n.d."
+      }
+    },
+    {
+      "type": "edit",
+      "id": "695cc4d095d8b836",
+      "item": {
+        "text": "Handbook of Fiber Chemistry (2007); Cotton Inc., “Cotton Production Water Requirements,” http://www.cottoninc.com/Water-Management/Cotton-Water-Requirements/; California Cotton Ginners and Growers Associations, “Cotton Facts,” http://www.ccgga.org/index.html).\n\"",
+        "id": "695cc4d095d8b836",
+        "type": "paragraph"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "83190a1e78a94c96"
+      },
+      "id": "83190a1e78a94c96",
+      "type": "add",
+      "after": "0fac42871122c6c4"
+    },
+    {
+      "type": "edit",
+      "id": "83190a1e78a94c96",
+      "item": {
+        "type": "paragraph",
+        "id": "83190a1e78a94c96",
+        "text": "Laursen, et al, Danish EPA Environmental Assessment of Textiles (1997)"
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "13701169f593cf48",
+        "78393defe43abdc4",
+        "1b1193fe73a468c7",
+        "449fd475c247cca2",
+        "b97c8c5602f0ea0e",
+        "c838fa746db6f714",
+        "f3fe0575a2f55d2f",
+        "3e5d5ff5d34646b6",
+        "50c4e6e1dec3f0ed",
+        "851a5fb15a98ff7f",
+        "957123c7d34feddf",
+        "83190a1e78a94c96",
+        "695cc4d095d8b836",
+        "bc8b81c9b2500e35",
+        "81b58c618608bfe9",
+        "47fdbe82e0ee3c61",
+        "6a25105d2a4ad230",
+        "1baeddeb6f221789",
+        "a6094827e334344a",
+        "eb18767c5b4877a6",
+        "8aa4e9345b3435d8",
+        "99309a1c390351b2",
+        "eba4ac0e0e066fc7",
+        "aad168178ff46234",
+        "0fac42871122c6c4"
+      ],
+      "id": "83190a1e78a94c96"
+    },
+    {
+      "type": "remove",
+      "id": "13701169f593cf48"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3f6267a5a910d761"
+      },
+      "id": "3f6267a5a910d761",
+      "type": "add",
+      "after": "0fac42871122c6c4"
+    },
+    {
+      "type": "move",
+      "order": [
+        "3f6267a5a910d761",
+        "78393defe43abdc4",
+        "1b1193fe73a468c7",
+        "449fd475c247cca2",
+        "b97c8c5602f0ea0e",
+        "c838fa746db6f714",
+        "f3fe0575a2f55d2f",
+        "3e5d5ff5d34646b6",
+        "50c4e6e1dec3f0ed",
+        "851a5fb15a98ff7f",
+        "957123c7d34feddf",
+        "83190a1e78a94c96",
+        "695cc4d095d8b836",
+        "bc8b81c9b2500e35",
+        "81b58c618608bfe9",
+        "47fdbe82e0ee3c61",
+        "6a25105d2a4ad230",
+        "1baeddeb6f221789",
+        "a6094827e334344a",
+        "eb18767c5b4877a6",
+        "8aa4e9345b3435d8",
+        "99309a1c390351b2",
+        "eba4ac0e0e066fc7",
+        "aad168178ff46234",
+        "0fac42871122c6c4"
+      ],
+      "id": "3f6267a5a910d761"
+    },
+    {
+      "type": "edit",
+      "id": "3f6267a5a910d761",
+      "item": {
+        "type": "data",
+        "id": "3f6267a5a910d761",
+        "columns": [
+          "Material name",
+          "Carcinogenicity",
+          "Acute Toxicity",
+          "Chronic Toxicity",
+          "Reproductive/Endocrine Disrupter Toxicity",
+          "Chemistry Total",
+          "Energy Intensity",
+          "GHG Emissions Intensity",
+          "Energy/GHG Emissions Total",
+          "Water Intensity",
+          "Land Use Intensity",
+          "Water/ Land Use Total",
+          "Hazardous Waste",
+          "MSW",
+          "Industrial waste",
+          "Recyclable/ Compostable waste",
+          "Mineral waste",
+          "Physical Waste Total",
+          "Total score"
+        ],
+        "data": [
+          {
+            "Material name": "Cotton fabric - Egyptian Grown (example, not real data)",
+            "Carcinogenicity": "3",
+            "Acute Toxicity": "2.1",
+            "Chronic Toxicity": "2.1",
+            "Reproductive/Endocrine Disrupter Toxicity": "2.2",
+            "Chemistry Total": "9.4",
+            "Energy Intensity": "2.1",
+            "GHG Emissions Intensity": "3.2",
+            "Energy/GHG Emissions Total": "5.3",
+            "Water Intensity": "0",
+            "Land Use Intensity": "6.2",
+            "Water/ Land Use Total": "6.2",
+            "Hazardous Waste": "11",
+            "MSW": "5",
+            "Industrial waste": "4",
+            "Recyclable/ Compostable waste": "0",
+            "Mineral waste": "1.3",
+            "Physical Waste Total": "21.3",
+            "Total score": "42.2"
+          }
+        ],
+        "text": "Cotton-Fabric-Egyptian Cotton-Tier2.csv"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "449fd475c247cca2",
+      "item": {
+        "type": "paragraph",
+        "id": "449fd475c247cca2",
+        "text": "Try [[D3 Radar Chart]] or compare to [[Cotton Fabric]] first."
+      }
+    },
+    {
+      "type": "fork",
+      "site": "nmsi.fed.wiki.org"
+    },
+    {
+      "type": "edit",
+      "id": "1b1193fe73a468c7",
+      "item": {
+        "type": "paragraph",
+        "id": "1b1193fe73a468c7",
+        "text": "Cotton grown in Egypt."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6ab53c559eb6913a"
+      },
+      "id": "6ab53c559eb6913a",
+      "type": "add",
+      "after": "0fac42871122c6c4"
+    },
+    {
+      "type": "edit",
+      "id": "6ab53c559eb6913a",
+      "item": {
+        "type": "paragraph",
+        "id": "6ab53c559eb6913a",
+        "text": "<i>Note: Fabricated data for demonstration purposes only."
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "3f6267a5a910d761",
+        "78393defe43abdc4",
+        "1b1193fe73a468c7",
+        "449fd475c247cca2",
+        "b97c8c5602f0ea0e",
+        "c838fa746db6f714",
+        "f3fe0575a2f55d2f",
+        "3e5d5ff5d34646b6",
+        "50c4e6e1dec3f0ed",
+        "851a5fb15a98ff7f",
+        "957123c7d34feddf",
+        "83190a1e78a94c96",
+        "695cc4d095d8b836",
+        "bc8b81c9b2500e35",
+        "81b58c618608bfe9",
+        "47fdbe82e0ee3c61",
+        "6ab53c559eb6913a",
+        "6a25105d2a4ad230",
+        "1baeddeb6f221789",
+        "a6094827e334344a",
+        "eb18767c5b4877a6",
+        "8aa4e9345b3435d8",
+        "99309a1c390351b2",
+        "eba4ac0e0e066fc7",
+        "aad168178ff46234",
+        "0fac42871122c6c4"
+      ],
+      "id": "6ab53c559eb6913a"
+    },
+    {
+      "type": "move",
+      "order": [
+        "3f6267a5a910d761",
+        "78393defe43abdc4",
+        "1b1193fe73a468c7",
+        "6ab53c559eb6913a",
+        "449fd475c247cca2",
+        "b97c8c5602f0ea0e",
+        "c838fa746db6f714",
+        "f3fe0575a2f55d2f",
+        "3e5d5ff5d34646b6",
+        "50c4e6e1dec3f0ed",
+        "851a5fb15a98ff7f",
+        "957123c7d34feddf",
+        "83190a1e78a94c96",
+        "695cc4d095d8b836",
+        "bc8b81c9b2500e35",
+        "81b58c618608bfe9",
+        "47fdbe82e0ee3c61",
+        "6a25105d2a4ad230",
+        "1baeddeb6f221789",
+        "a6094827e334344a",
+        "eb18767c5b4877a6",
+        "8aa4e9345b3435d8",
+        "99309a1c390351b2",
+        "eba4ac0e0e066fc7",
+        "aad168178ff46234",
+        "0fac42871122c6c4"
+      ],
+      "id": "6ab53c559eb6913a"
+    },
+    {
+      "type": "edit",
+      "id": "1b1193fe73a468c7",
+      "item": {
+        "type": "paragraph",
+        "id": "1b1193fe73a468c7",
+        "text": "Woven cotton fabric using cotton grown in Egypt."
+      }
+    }
+  ],
+  "story": [
+    {
+      "type": "data",
+      "id": "3f6267a5a910d761",
+      "columns": [
+        "Material name",
+        "Carcinogenicity",
+        "Acute Toxicity",
+        "Chronic Toxicity",
+        "Reproductive/Endocrine Disrupter Toxicity",
+        "Chemistry Total",
+        "Energy Intensity",
+        "GHG Emissions Intensity",
+        "Energy/GHG Emissions Total",
+        "Water Intensity",
+        "Land Use Intensity",
+        "Water/ Land Use Total",
+        "Hazardous Waste",
+        "MSW",
+        "Industrial waste",
+        "Recyclable/ Compostable waste",
+        "Mineral waste",
+        "Physical Waste Total",
+        "Total score"
+      ],
+      "data": [
+        {
+          "Material name": "Cotton fabric - Egyptian Grown (example, not real data)",
+          "Carcinogenicity": "3",
+          "Acute Toxicity": "2.1",
+          "Chronic Toxicity": "2.1",
+          "Reproductive/Endocrine Disrupter Toxicity": "2.2",
+          "Chemistry Total": "9.4",
+          "Energy Intensity": "2.1",
+          "GHG Emissions Intensity": "3.2",
+          "Energy/GHG Emissions Total": "5.3",
+          "Water Intensity": "0",
+          "Land Use Intensity": "6.2",
+          "Water/ Land Use Total": "6.2",
+          "Hazardous Waste": "11",
+          "MSW": "5",
+          "Industrial waste": "4",
+          "Recyclable/ Compostable waste": "0",
+          "Mineral waste": "1.3",
+          "Physical Waste Total": "21.3",
+          "Total score": "42.2"
+        }
+      ],
+      "text": "Cotton-Fabric-Egyptian Cotton-Tier2.csv"
+    },
+    {
+      "type": "paragraph",
+      "id": "78393defe43abdc4",
+      "text": "<h3>Supply Chain Scenario"
+    },
+    {
+      "type": "paragraph",
+      "id": "1b1193fe73a468c7",
+      "text": "Woven cotton fabric using cotton grown in Egypt."
+    },
+    {
+      "type": "paragraph",
+      "id": "6ab53c559eb6913a",
+      "text": "<i>Note: Fabricated data for demonstration purposes only."
+    },
+    {
+      "type": "paragraph",
+      "id": "449fd475c247cca2",
+      "text": "Try [[D3 Radar Chart]] or compare to [[Cotton Fabric]] first."
+    },
+    {
+      "type": "paragraph",
+      "id": "b97c8c5602f0ea0e",
+      "text": "<h3>Data Sources"
+    },
+    {
+      "type": "paragraph",
+      "id": "c838fa746db6f714",
+      "text": "California Department of Pesticide Regulation; “Summary of Pesticide Use Report Data 2006 Indexed by Commodity”; [http://usda.mannlib.cornell.edu/MannUsda/viewDocumentInfo.do?documentID=1282 Cotton and Wool Yearbook 2007],  Tables 6,7"
+    },
+    {
+      "type": "paragraph",
+      "id": "f3fe0575a2f55d2f",
+      "text": "Cotton Water Use Compared/Other Crops , from [http://www.cottoninc.com/Water-Management/Cotton-Water-Use-Compared-to-Other-Crops/ Cotton, Inc]."
+    },
+    {
+      "type": "paragraph",
+      "id": "3e5d5ff5d34646b6",
+      "text": "Soil Organic Carbon Sequestration Rates by Tillage and Crop Rotation: A Global Data Analysis, Soil Sci. Soc. Am. J. 66:1930–1946 (2002)"
+    },
+    {
+      "type": "paragraph",
+      "id": "50c4e6e1dec3f0ed",
+      "text": "E. Kalliala, The Environmental Index Model for Textiles and Textile Services"
+    },
+    {
+      "type": "paragraph",
+      "id": "851a5fb15a98ff7f",
+      "text": "Pyburn in Kooistra and  Termorshuizen, The sustainability of cotton: Consequences for man and environment, 2006"
+    },
+    {
+      "type": "paragraph",
+      "id": "957123c7d34feddf",
+      "text": "Munk, Irrigation Management Improvements for San Joaquin Valley Pima Cotton Systems, n.d."
+    },
+    {
+      "type": "paragraph",
+      "id": "83190a1e78a94c96",
+      "text": "Laursen, et al, Danish EPA Environmental Assessment of Textiles (1997)"
+    },
+    {
+      "text": "Handbook of Fiber Chemistry (2007); Cotton Inc., “Cotton Production Water Requirements,” http://www.cottoninc.com/Water-Management/Cotton-Water-Requirements/; California Cotton Ginners and Growers Associations, “Cotton Facts,” http://www.ccgga.org/index.html).\n\"",
+      "id": "695cc4d095d8b836",
+      "type": "paragraph"
+    },
+    {
+      "type": "paragraph",
+      "id": "bc8b81c9b2500e35",
+      "text": "<h3>Raw Material Factor"
+    },
+    {
+      "type": "paragraph",
+      "id": "81b58c618608bfe9",
+      "text": "Kg raw material required for 1 kg yarn/subcomponent:  2.60\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "47fdbe82e0ee3c61",
+      "text": "<h3>Data Quality Assessment\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "6a25105d2a4ad230",
+      "text": "Medium"
+    },
+    {
+      "type": "paragraph",
+      "id": "1baeddeb6f221789",
+      "text": "<h3>Geographic Location"
+    },
+    {
+      "type": "paragraph",
+      "id": "a6094827e334344a",
+      "text": "Fiber in California; yarn and textile in South Carolina"
+    },
+    {
+      "type": "paragraph",
+      "id": "eb18767c5b4877a6",
+      "text": "<h3>Production Method"
+    },
+    {
+      "type": "paragraph",
+      "id": "8aa4e9345b3435d8",
+      "text": "conventionally grown with intensive agricultural chemical use, and ginned in the Central Valley; carding, drawing, ring spun yarn, woven greige, scoured, bleached, mercerized, vat dyes, jet dyed, finished"
+    },
+    {
+      "type": "paragraph",
+      "id": "99309a1c390351b2",
+      "text": "<h3>Chemistry Exposure Assumptions"
+    },
+    {
+      "type": "paragraph",
+      "id": "eba4ac0e0e066fc7",
+      "text": "(n/a)"
+    },
+    {
+      "type": "paragraph",
+      "id": "aad168178ff46234",
+      "text": "Calculations start with  [[Cotton in the Field]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "0fac42871122c6c4",
+      "text": "<i>from Tier 2 Dynamic.xls</i>"
+    }
+  ]
+}

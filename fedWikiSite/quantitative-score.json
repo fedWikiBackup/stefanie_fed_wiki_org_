@@ -1,0 +1,36 @@
+{
+  "title": "Quantitative Score",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "064506a34b5224fb",
+      "text": "See [[Science-based Better Materials Score]]."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "id": "718ac8a984ac73c2",
+      "item": {
+        "title": "Quantitative Score"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "064506a34b5224fb"
+      },
+      "id": "064506a34b5224fb",
+      "type": "add"
+    },
+    {
+      "type": "edit",
+      "id": "064506a34b5224fb",
+      "item": {
+        "type": "paragraph",
+        "id": "064506a34b5224fb",
+        "text": "See [[Science-based Better Materials Score]]."
+      }
+    }
+  ]
+}

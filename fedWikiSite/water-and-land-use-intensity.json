@@ -1,0 +1,148 @@
+{
+  "title": "Water and Land Use Intensity",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b6d693f00e18ea33",
+      "text": "Water includes primary process water, such as irrigation for agricultural crops, and does not include water used in transportation; where PlasticsEurope Eco-Profile  data are used, water includes cooling water."
+    },
+    {
+      "type": "paragraph",
+      "id": "eb561ac402ddfd1e",
+      "text": "Rainfall is not included in the water calculations for agricultural crops. Water embodied in significant chemical substances, capital equipment, etc. is not included. Nike does not consider the data to be of sufficient value for making a business decision given the added complexity, cost and time required to gather the data."
+    },
+    {
+      "type": "paragraph",
+      "id": "ebeab0baef18d0d5",
+      "text": "Nike is concerned about the potential for fiber materials to displace food from productive land; our desire is to create an incentive for efficient use of land for fiber production."
+    },
+    {
+      "type": "paragraph",
+      "id": "c8aa0fce7c134bc6",
+      "text": "Land Use intensity is the amount of bio-based or inorganic (e.g., limestone) “raw” fiber/material that is produced per hectare; fossil–fuel-based materials receive a zero score."
+    },
+    {
+      "type": "paragraph",
+      "id": "8e64a101e9c1e990",
+      "text": "We could not identify an appropriate method for calculating the amount of fossil–fuel-based “raw” fiber/material per hectare. Neither could we address the potential displacement of food production. We therefore decided to minimize fossil–fuel-based fiber incentives by assigning a zero score for fossil–fuel-derived, raw material land-use footprints. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "id": "4bc0b0550d953140",
+      "item": {
+        "title": "Water and Land Use Intensity"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b6d693f00e18ea33"
+      },
+      "id": "b6d693f00e18ea33",
+      "type": "add"
+    },
+    {
+      "type": "edit",
+      "id": "b6d693f00e18ea33",
+      "item": {
+        "type": "paragraph",
+        "id": "b6d693f00e18ea33",
+        "text": "Water includes primary process water, such as irrigation for agricultural crops, and does not include water used in transportation; where PlasticsEurope Eco-Profile  data are used, water includes cooling water."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "eb561ac402ddfd1e"
+      },
+      "id": "eb561ac402ddfd1e",
+      "type": "add",
+      "after": "b6d693f00e18ea33"
+    },
+    {
+      "type": "edit",
+      "id": "eb561ac402ddfd1e",
+      "item": {
+        "type": "paragraph",
+        "id": "eb561ac402ddfd1e",
+        "text": "Rainfall is not included in the water calculations for agricultural crops. Water embodied in significant chemical substances, capital equipment, etc. is not included. Nike does not consider the data to be of sufficient value for making a business decision given the added complexity, cost and time required to gather the data."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c8aa0fce7c134bc6"
+      },
+      "id": "c8aa0fce7c134bc6",
+      "type": "add",
+      "after": "eb561ac402ddfd1e"
+    },
+    {
+      "type": "edit",
+      "id": "c8aa0fce7c134bc6",
+      "item": {
+        "type": "paragraph",
+        "id": "c8aa0fce7c134bc6",
+        "text": "Land Use intensity is the amount of bio-based or inorganic (e.g., limestone) “raw” fiber/material that is produced per hectare; fossil–fuel-based materials receive a zero score.\nNike is concerned about the potential for fiber materials to displace food from productive land; our desire is to create an incentive for efficient use of land for fiber production."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8e64a101e9c1e990"
+      },
+      "id": "8e64a101e9c1e990",
+      "type": "add",
+      "after": "c8aa0fce7c134bc6"
+    },
+    {
+      "type": "edit",
+      "id": "8e64a101e9c1e990",
+      "item": {
+        "type": "paragraph",
+        "id": "8e64a101e9c1e990",
+        "text": "We could not identify an appropriate method for calculating the amount of fossil–fuel-based “raw” fiber/material per hectare. Neither could we address the potential displacement of food production. We therefore decided to minimize fossil–fuel-based fiber incentives by assigning a zero score for fossil–fuel-derived, raw material land-use footprints. "
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ebeab0baef18d0d5"
+      },
+      "id": "ebeab0baef18d0d5",
+      "type": "add",
+      "after": "8e64a101e9c1e990"
+    },
+    {
+      "type": "edit",
+      "id": "c8aa0fce7c134bc6",
+      "item": {
+        "type": "paragraph",
+        "id": "c8aa0fce7c134bc6",
+        "text": "Land Use intensity is the amount of bio-based or inorganic (e.g., limestone) “raw” fiber/material that is produced per hectare; fossil–fuel-based materials receive a zero score."
+      }
+    },
+    {
+      "type": "edit",
+      "id": "ebeab0baef18d0d5",
+      "item": {
+        "type": "paragraph",
+        "id": "ebeab0baef18d0d5",
+        "text": "Nike is concerned about the potential for fiber materials to displace food from productive land; our desire is to create an incentive for efficient use of land for fiber production."
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "b6d693f00e18ea33",
+        "eb561ac402ddfd1e",
+        "ebeab0baef18d0d5",
+        "c8aa0fce7c134bc6",
+        "8e64a101e9c1e990"
+      ],
+      "id": "ebeab0baef18d0d5"
+    }
+  ]
+}

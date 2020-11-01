@@ -1,0 +1,82 @@
+{
+  "title": "Energy and Greenhouse Gas Intensity",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "05ed1db195f2c6ca",
+      "text": "Energy includes primary process energy plus transportation; it does not include feedstock energy value. Feedstock (caloric value) energy is not included as a typical end-of-life outcome or strategy for Nike Footwear and Apparel groups, so the impact evaluation does not include energy recovery. \n"
+    },
+    {
+      "type": "paragraph",
+      "id": "851b0fabcc2c06a5",
+      "text": "We do not include the Energy and GHG intensity embodied in significant chemical substances or capital equipment. Nike does not consider the data to be of sufficient value for making business decisions given the added complexity, cost and time required to gather the data."
+    },
+    {
+      "type": "paragraph",
+      "id": "f70e0bbba4580786",
+      "text": "We calculate GHG intensity with commonly used GHG Protocol methods and emission factors where possible. We make assumptions about the split between electric and thermal energy when general data is available; for example, megajoules (MJ) for a process without identifying the source of the MJ. Assumptions for electric and thermal are roughly based on heating use in a process."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "id": "39e8d4db5a156376",
+      "item": {
+        "title": "Energy and Greenhouse Gas Intensity"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "05ed1db195f2c6ca"
+      },
+      "id": "05ed1db195f2c6ca",
+      "type": "add"
+    },
+    {
+      "type": "edit",
+      "id": "05ed1db195f2c6ca",
+      "item": {
+        "type": "paragraph",
+        "id": "05ed1db195f2c6ca",
+        "text": "Energy includes primary process energy plus transportation; it does not include feedstock energy value. Feedstock (caloric value) energy is not included as a typical end-of-life outcome or strategy for Nike Footwear and Apparel groups, so the impact evaluation does not include energy recovery. \n"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "851b0fabcc2c06a5"
+      },
+      "id": "851b0fabcc2c06a5",
+      "type": "add",
+      "after": "05ed1db195f2c6ca"
+    },
+    {
+      "type": "edit",
+      "id": "851b0fabcc2c06a5",
+      "item": {
+        "type": "paragraph",
+        "id": "851b0fabcc2c06a5",
+        "text": "We do not include the Energy and GHG intensity embodied in significant chemical substances or capital equipment. Nike does not consider the data to be of sufficient value for making business decisions given the added complexity, cost and time required to gather the data."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f70e0bbba4580786"
+      },
+      "id": "f70e0bbba4580786",
+      "type": "add",
+      "after": "851b0fabcc2c06a5"
+    },
+    {
+      "type": "edit",
+      "id": "f70e0bbba4580786",
+      "item": {
+        "type": "paragraph",
+        "id": "f70e0bbba4580786",
+        "text": "We calculate GHG intensity with commonly used GHG Protocol methods and emission factors where possible. We make assumptions about the split between electric and thermal energy when general data is available; for example, megajoules (MJ) for a process without identifying the source of the MJ. Assumptions for electric and thermal are roughly based on heating use in a process."
+      }
+    }
+  ]
+}

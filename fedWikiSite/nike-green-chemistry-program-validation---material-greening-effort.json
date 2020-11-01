@@ -1,0 +1,146 @@
+{
+  "title": "Nike Green Chemistry Program Validation - Material Greening Effort",
+  "journal": [
+    {
+      "id": "637eb5fb70a54ffc",
+      "type": "create",
+      "item": {
+        "title": "Nike Green Chemistry Program Validation - Material Greening Effort"
+      }
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "1ad83a0be7dfed52",
+        "text": "The goal of the Nike material chemistry program is to protect consumers, workers, the environment and brand reputation. \n"
+      },
+      "id": "1ad83a0be7dfed52"
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "a7ae0a23b70dd1d4",
+        "text": "Represents work toward a systematic, risk-based (hazard and exposure) approach to assessing toxic chemicals in a material or process."
+      },
+      "after": "1ad83a0be7dfed52",
+      "id": "a7ae0a23b70dd1d4"
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "7ad40c93f9e69135",
+        "text": "Assesses exposure potential in order to prioritize the elimination of chemicals (through reformulation or control via an RSL program) that pose the greatest risk."
+      },
+      "after": "a7ae0a23b70dd1d4",
+      "id": "7ad40c93f9e69135"
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "4c5698fbc444653d",
+        "text": "Awards points for evaluating chemical use within a supplier facility and for using processes and technologies that reduce or eliminate toxic chemicals in materials production."
+      },
+      "after": "7ad40c93f9e69135",
+      "id": "4c5698fbc444653d"
+    },
+    {
+      "type": "fork",
+      "site": "nmsi.fed.wiki.org"
+    },
+    {
+      "type": "move",
+      "order": [
+        "1ad83a0be7dfed52",
+        "7ad40c93f9e69135",
+        "a7ae0a23b70dd1d4",
+        "4c5698fbc444653d",
+        "961de0bc076d83e5",
+        "b4f94bab3637e382",
+        "58846c614dbbf69f",
+        "9f8f2530e786b4f4",
+        "52691e068e75423b",
+        "71fcfd563639f6e7",
+        "42aa3f1d347aba3f"
+      ],
+      "id": "a7ae0a23b70dd1d4"
+    },
+    {
+      "type": "move",
+      "order": [
+        "1ad83a0be7dfed52",
+        "a7ae0a23b70dd1d4",
+        "7ad40c93f9e69135",
+        "4c5698fbc444653d",
+        "961de0bc076d83e5",
+        "b4f94bab3637e382",
+        "58846c614dbbf69f",
+        "9f8f2530e786b4f4",
+        "52691e068e75423b",
+        "71fcfd563639f6e7",
+        "42aa3f1d347aba3f"
+      ],
+      "id": "a7ae0a23b70dd1d4"
+    }
+  ],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1ad83a0be7dfed52",
+      "text": "The goal of the Nike material chemistry program is to protect consumers, workers, the environment and brand reputation. \n"
+    },
+    {
+      "type": "paragraph",
+      "id": "a7ae0a23b70dd1d4",
+      "text": "Represents work toward a systematic, risk-based (hazard and exposure) approach to assessing toxic chemicals in a material or process."
+    },
+    {
+      "type": "paragraph",
+      "id": "7ad40c93f9e69135",
+      "text": "Assesses exposure potential in order to prioritize the elimination of chemicals (through reformulation or control via an RSL program) that pose the greatest risk."
+    },
+    {
+      "type": "paragraph",
+      "id": "4c5698fbc444653d",
+      "text": "Awards points for evaluating chemical use within a supplier facility and for using processes and technologies that reduce or eliminate toxic chemicals in materials production."
+    },
+    {
+      "text": "<b>Q:</b> Min points?<br><b>A:</b> 0",
+      "id": "961de0bc076d83e5",
+      "type": "paragraph"
+    },
+    {
+      "text": "<b>Q:</b> Max points?<br><b>A:</b> 7",
+      "id": "b4f94bab3637e382",
+      "type": "paragraph"
+    },
+    {
+      "text": "<b>Q:</b> BASIS FOR POINTS/EXPLANATION OF PROGRAM?<br><b>A:</b> Based on toxicology results of materials submitted for Green Chemistry Program. ",
+      "id": "58846c614dbbf69f",
+      "type": "paragraph"
+    },
+    {
+      "text": "<b>Q:</b> CAN SUPPLIERS INFLUENCE?<br><b>A:</b> Yes; supplier can submit material-specific green chemistry achievements for consideration.",
+      "id": "9f8f2530e786b4f4",
+      "type": "paragraph"
+    },
+    {
+      "text": "<b>Q:</b> WHAT DOES SUPPLIER HAVE TO DO?<br><b>A:</b> Submit green chemistry material formulations for evaluation by Nike-approved toxicologist and convey results to Nike Green Chemistry Program Manager.",
+      "id": "52691e068e75423b",
+      "type": "paragraph"
+    },
+    {
+      "text": "<b>Q:</b> MATERIAL TYPE RELEVANCE?<br><b>A:</b> FW & AP materials",
+      "id": "71fcfd563639f6e7",
+      "type": "paragraph"
+    },
+    {
+      "text": "<b>Q:</b> RESOURCES?<br><b>A:</b> [http:\\/\\/www.nikeresponsibility.com/rsl www.nikeresponsibility.com/rsl]",
+      "id": "42aa3f1d347aba3f",
+      "type": "paragraph"
+    }
+  ]
+}

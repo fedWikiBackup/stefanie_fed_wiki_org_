@@ -1,0 +1,137 @@
+{
+  "title": "Cradle to Gate",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "34fb047811ce1748",
+      "text": "Chemistry, Energy and GHG intensity, and Water intensity are examined across all the cradle-to-gate life cycle stages. "
+    },
+    {
+      "type": "paragraph",
+      "id": "4f04ad4e779e220f",
+      "text": "The Chemistry portion divides the cradle-to-gate life cycle (Figure 2) into two phases:  \nPhase 1: Farm/wellhead to an intermediate stage \nPhase 2: The intermediate stage to the finished textile or component part \n"
+    },
+    {
+      "type": "paragraph",
+      "id": "106e89c8baec7977",
+      "text": "Land Use intensity focuses solely on the origin of the raw materials and does not consider land use elsewhere in the cradle-to-gate life cycle. "
+    },
+    {
+      "type": "paragraph",
+      "id": "52dafd3b9174a44b",
+      "text": "Physical Waste is covered from the raw material origin—farm, forest, or wellhead—to an intermediate stage of a fiber or polymer ready for further processing (for example, spun into a yarn).  "
+    },
+    {
+      "type": "paragraph",
+      "id": "eaf114f1913b69c2",
+      "text": "Transportation of raw materials and intermediates are incorporated where applicable. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "id": "dc8378b3395fe4b2",
+      "item": {
+        "title": "Cradle to Gate"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "34fb047811ce1748"
+      },
+      "id": "34fb047811ce1748",
+      "type": "add"
+    },
+    {
+      "type": "edit",
+      "id": "34fb047811ce1748",
+      "item": {
+        "type": "paragraph",
+        "id": "34fb047811ce1748",
+        "text": "Chemistry, Energy and GHG intensity, and Water intensity are examined across all the cradle-to-gate life cycle stages. Land Use intensity focuses solely on the origin of the raw materials and does not consider land use elsewhere in the cradle-to-gate life cycle. Physical Waste is covered from the raw material origin—farm, forest, or wellhead—to an intermediate stage of a fiber or polymer ready for further processing (for example, spun into a yarn).  Transportation of raw materials and intermediates are incorporated where applicable. "
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4f04ad4e779e220f"
+      },
+      "id": "4f04ad4e779e220f",
+      "type": "add",
+      "after": "34fb047811ce1748"
+    },
+    {
+      "type": "edit",
+      "id": "4f04ad4e779e220f",
+      "item": {
+        "type": "paragraph",
+        "id": "4f04ad4e779e220f",
+        "text": "The Chemistry portion divides the cradle-to-gate life cycle (Figure 2) into two phases:  \nPhase 1: Farm/wellhead to an intermediate stage \nPhase 2: The intermediate stage to the finished textile or component part \n"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "34fb047811ce1748",
+      "item": {
+        "type": "paragraph",
+        "id": "34fb047811ce1748",
+        "text": "Chemistry, Energy and GHG intensity, and Water intensity are examined across all the cradle-to-gate life cycle stages. "
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "106e89c8baec7977"
+      },
+      "id": "106e89c8baec7977",
+      "type": "add",
+      "after": "4f04ad4e779e220f"
+    },
+    {
+      "type": "edit",
+      "id": "106e89c8baec7977",
+      "item": {
+        "type": "paragraph",
+        "id": "106e89c8baec7977",
+        "text": "Land Use intensity focuses solely on the origin of the raw materials and does not consider land use elsewhere in the cradle-to-gate life cycle. "
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "52dafd3b9174a44b"
+      },
+      "id": "52dafd3b9174a44b",
+      "type": "add",
+      "after": "106e89c8baec7977"
+    },
+    {
+      "type": "edit",
+      "id": "52dafd3b9174a44b",
+      "item": {
+        "type": "paragraph",
+        "id": "52dafd3b9174a44b",
+        "text": "Physical Waste is covered from the raw material origin—farm, forest, or wellhead—to an intermediate stage of a fiber or polymer ready for further processing (for example, spun into a yarn).  "
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "eaf114f1913b69c2"
+      },
+      "id": "eaf114f1913b69c2",
+      "type": "add",
+      "after": "52dafd3b9174a44b"
+    },
+    {
+      "type": "edit",
+      "id": "eaf114f1913b69c2",
+      "item": {
+        "type": "paragraph",
+        "id": "eaf114f1913b69c2",
+        "text": "Transportation of raw materials and intermediates are incorporated where applicable. "
+      }
+    }
+  ]
+}

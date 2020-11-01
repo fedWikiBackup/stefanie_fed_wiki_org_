@@ -1,0 +1,90 @@
+{
+  "title": "ADD E-Learn",
+  "story": [
+    {
+      "type": "bytebeat",
+      "id": "bcebe434a8dede58",
+      "text": "<iframe src=\"http://www.slideshare.net/slideshow/embed_code/27532331\" width=\"427\" height=\"356\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px\" allowfullscreen> </iframe> <div style=\"margin-bottom:5px\"> <strong> <a href=\"https://www.slideshare.net/stefaniepanke/aace-elearn-special-interest-group-on-designing-developing-and-assessing-elearning-sig-3\" title=\"AACE E-Learn Special Interest Group on Designing, Developing, and Assessing E-Learning (SIG 3)\" target=\"_blank\">AACE E-Learn Special Interest Group on Designing, Developing, and Assessing E-Learning (SIG 3)</a> </strong> from <strong><a href=\"http://www.slideshare.net/stefaniepanke\" target=\"_blank\">Stefanie Panke</a></strong> </div>"
+    },
+    {
+      "type": "factory",
+      "id": "36e44926860c08a9"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "ADD E-Learn"
+      },
+      "date": 1384272981170
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2a9a84fd0be205da"
+      },
+      "id": "2a9a84fd0be205da",
+      "type": "add",
+      "date": 1384272982788
+    },
+    {
+      "type": "remove",
+      "id": "2a9a84fd0be205da",
+      "date": 1384272999551
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ac28b145ae1d3736"
+      },
+      "id": "ac28b145ae1d3736",
+      "type": "add",
+      "date": 1384273002421
+    },
+    {
+      "type": "remove",
+      "id": "ac28b145ae1d3736",
+      "date": 1384273022481
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bcebe434a8dede58"
+      },
+      "id": "bcebe434a8dede58",
+      "type": "add",
+      "date": 1384275615587
+    },
+    {
+      "type": "edit",
+      "id": "bcebe434a8dede58",
+      "item": {
+        "type": "bytebeat",
+        "id": "bcebe434a8dede58",
+        "text": "<iframe width=\"400\" height=\"250\" frameborder=\"0\" src=\"http://player.vimeo.com/video/27671065?title=0&byline=0&portrait=0\" style=\"-moz-box-shadow: 5px 8px 10px 5px #888;-webkit-box-shadow: 5px 8px 10px 5px #888;box-shadow: 5px 8px 10px 5px #888;\"></iframe>"
+      },
+      "date": 1384275619612
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "36e44926860c08a9"
+      },
+      "id": "36e44926860c08a9",
+      "type": "add",
+      "after": "bcebe434a8dede58",
+      "date": 1384275758502
+    },
+    {
+      "type": "edit",
+      "id": "bcebe434a8dede58",
+      "item": {
+        "type": "bytebeat",
+        "id": "bcebe434a8dede58",
+        "text": "<iframe src=\"http://www.slideshare.net/slideshow/embed_code/27532331\" width=\"427\" height=\"356\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px\" allowfullscreen> </iframe> <div style=\"margin-bottom:5px\"> <strong> <a href=\"https://www.slideshare.net/stefaniepanke/aace-elearn-special-interest-group-on-designing-developing-and-assessing-elearning-sig-3\" title=\"AACE E-Learn Special Interest Group on Designing, Developing, and Assessing E-Learning (SIG 3)\" target=\"_blank\">AACE E-Learn Special Interest Group on Designing, Developing, and Assessing E-Learning (SIG 3)</a> </strong> from <strong><a href=\"http://www.slideshare.net/stefaniepanke\" target=\"_blank\">Stefanie Panke</a></strong> </div>"
+      },
+      "date": 1384275839034
+    }
+  ]
+}

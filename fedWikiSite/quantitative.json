@@ -1,0 +1,70 @@
+{
+  "title": "Quantitative",
+  "story": [
+    {
+      "text": "<h3>Impacts Covered</h3>",
+      "id": "7c9fbd813e359f3b",
+      "type": "paragraph"
+    },
+    {
+      "text": "<li>[[Chemistry]]\n<li>[[Energy and Greenhouse Gas Intensity]]\n<li>[[Water and Land Use Intensity]]\n<li>[[Physical Waste]]",
+      "id": "ccf87f21211d688c",
+      "type": "paragraph"
+    },
+    {
+      "type": "factory",
+      "id": "c9edb016351d5bc1"
+    },
+    {
+      "text": "<h3>Life Cycle Phase</h3>",
+      "id": "35946843e001777b",
+      "type": "paragraph"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "id": "a0bfdfa61c7d34c6",
+      "item": {
+        "title": "Quantitative"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c9edb016351d5bc1"
+      },
+      "id": "c9edb016351d5bc1",
+      "type": "add"
+    },
+    {
+      "type": "add",
+      "item": {
+        "text": "<h3>Impacts Covered</h3>",
+        "id": "7c9fbd813e359f3b",
+        "type": "paragraph"
+      },
+      "id": "7c9fbd813e359f3b"
+    },
+    {
+      "type": "add",
+      "item": {
+        "text": "<li>[[Chemistry]]\n<li>[[Energy and Greenhouse Gas Intensity]]\n<li>[[Water and Land Use Intensity]]\n<li>[[Physical Waste]]",
+        "id": "ccf87f21211d688c",
+        "type": "paragraph"
+      },
+      "after": "7c9fbd813e359f3b",
+      "id": "ccf87f21211d688c"
+    },
+    {
+      "type": "add",
+      "item": {
+        "text": "<h3>Life Cycle Phase</h3>",
+        "id": "35946843e001777b",
+        "type": "paragraph"
+      },
+      "after": "c9edb016351d5bc1",
+      "id": "35946843e001777b"
+    }
+  ]
+}

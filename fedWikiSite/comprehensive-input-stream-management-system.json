@@ -1,0 +1,26 @@
+{
+  "title": "Comprehensive Input Stream Management System",
+  "story": [
+    {
+      "type": "factory",
+      "id": "5bbb20af3e659d77"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "id": "d2120f6104e2c6cc",
+      "item": {
+        "title": "Comprehensive Input Stream Management System"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5bbb20af3e659d77"
+      },
+      "id": "5bbb20af3e659d77",
+      "type": "add"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "title": "Data, Algorithms, Assumptions and Frameworks",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "78ca4c9450b508f2",
+      "text": "The Data, Algorithms, Assumptions and Frameworks for Nike MSI are divided into three tiers, with each progressive tier containing a greater level of detail.\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "9524f53130679f17",
+      "text": "<h3>[[Tier 1]]</h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "2903658c21184b2e",
+      "text": "Results of Quantitative scoring, with sufficient detail to provide a working understanding of the scoring framework. Includes the rank ordering of more than 50 materials and high-level summary impacts of Chemistry, Energy and GHG Intensity, Water and Land Use Intensity, and Physical Waste."
+    },
+    {
+      "type": "paragraph",
+      "id": "df60558b4f4e8a2c",
+      "text": "<h3>[[Tier 2]]</h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "c610dee7a9421b3c",
+      "text": "Comprehensive Quantitative results for each material, presented in a single table with detailed explanations of supply chain assumptions, summary impact values and detailed scoring. Tier 2 provides the materials and life cycle practitioner with sufficient information to understand the Nike MSI."
+    },
+    {
+      "type": "paragraph",
+      "id": "c3c1ed15cedfd633",
+      "text": "<h3>[[Tier 3]]</h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "c467f55057e9f3b3",
+      "text": "Includes Nike MSI source data, algorithms and assumptions, and is the information source for Tiers 1 and 2. Tier 3 provides transparency into Nike MSI and is where to add new materials, provide better data and develop alternative supply chain scenarios."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "id": "382d1ee5179b7dd9",
+      "item": {
+        "title": "Data, Algorithms, Assumptions and Frameworks"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2903658c21184b2e"
+      },
+      "id": "2903658c21184b2e",
+      "type": "add"
+    },
+    {
+      "type": "edit",
+      "id": "2903658c21184b2e",
+      "item": {
+        "type": "paragraph",
+        "id": "2903658c21184b2e",
+        "text": "Tier 1. Results of Quantitative scoring, with sufficient detail to provide a working understanding of the scoring framework. Includes the rank ordering of more than 50 materials and high-level summary impacts of Chemistry, Energy and GHG intensity, Water and Land Use intensity, and Physical Waste."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c610dee7a9421b3c"
+      },
+      "id": "c610dee7a9421b3c",
+      "type": "add",
+      "after": "2903658c21184b2e"
+    },
+    {
+      "type": "edit",
+      "id": "c610dee7a9421b3c",
+      "item": {
+        "type": "paragraph",
+        "id": "c610dee7a9421b3c",
+        "text": "Tier 2. Comprehensive Quantitative results for each material, presented in a single table with detailed explanations of supply chain assumptions, summary impact values and detailed scoring. Tier 2 provides the materials and life cycle practitioner with sufficient information to understand the Nike MSI."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c467f55057e9f3b3"
+      },
+      "id": "c467f55057e9f3b3",
+      "type": "add",
+      "after": "c610dee7a9421b3c"
+    },
+    {
+      "type": "edit",
+      "id": "c467f55057e9f3b3",
+      "item": {
+        "type": "paragraph",
+        "id": "c467f55057e9f3b3",
+        "text": "Tier 3. Includes Nike MSI source data, algorithms and assumptions, and is the information source for Tiers 1 and 2. Tier 3 provides transparency into Nike MSI and is where to add new materials, provide better data and develop alternative supply chain scenarios."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "78ca4c9450b508f2"
+      },
+      "id": "78ca4c9450b508f2",
+      "type": "add",
+      "after": "c467f55057e9f3b3"
+    },
+    {
+      "type": "edit",
+      "id": "78ca4c9450b508f2",
+      "item": {
+        "type": "paragraph",
+        "id": "78ca4c9450b508f2",
+        "text": "The Data, Algorithms, Assumptions and Frameworks for Nike MSI are divided into three tiers, with each progressive tier containing a greater level of detail.\n"
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "78ca4c9450b508f2",
+        "2903658c21184b2e",
+        "c610dee7a9421b3c",
+        "c467f55057e9f3b3"
+      ],
+      "id": "78ca4c9450b508f2"
+    },
+    {
+      "type": "edit",
+      "id": "2903658c21184b2e",
+      "item": {
+        "type": "paragraph",
+        "id": "2903658c21184b2e",
+        "text": "Results of Quantitative scoring, with sufficient detail to provide a working understanding of the scoring framework. Includes the rank ordering of more than 50 materials and high-level summary impacts of Chemistry, Energy and GHG intensity, Water and Land Use intensity, and Physical Waste."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9524f53130679f17"
+      },
+      "id": "9524f53130679f17",
+      "type": "add",
+      "after": "c467f55057e9f3b3"
+    },
+    {
+      "type": "edit",
+      "id": "9524f53130679f17",
+      "item": {
+        "type": "paragraph",
+        "id": "9524f53130679f17",
+        "text": "<h3>Tier 1</h3>"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "df60558b4f4e8a2c"
+      },
+      "id": "df60558b4f4e8a2c",
+      "type": "add",
+      "after": "9524f53130679f17"
+    },
+    {
+      "type": "edit",
+      "id": "df60558b4f4e8a2c",
+      "item": {
+        "type": "paragraph",
+        "id": "df60558b4f4e8a2c",
+        "text": "<h3>Tier 2</h3>"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c3c1ed15cedfd633"
+      },
+      "id": "c3c1ed15cedfd633",
+      "type": "add",
+      "after": "df60558b4f4e8a2c"
+    },
+    {
+      "type": "edit",
+      "id": "c3c1ed15cedfd633",
+      "item": {
+        "type": "paragraph",
+        "id": "c3c1ed15cedfd633",
+        "text": "<h3>Tier 3</h3>"
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "78ca4c9450b508f2",
+        "9524f53130679f17",
+        "2903658c21184b2e",
+        "c610dee7a9421b3c",
+        "c467f55057e9f3b3",
+        "df60558b4f4e8a2c",
+        "c3c1ed15cedfd633"
+      ],
+      "id": "9524f53130679f17"
+    },
+    {
+      "type": "edit",
+      "id": "c610dee7a9421b3c",
+      "item": {
+        "type": "paragraph",
+        "id": "c610dee7a9421b3c",
+        "text": "Comprehensive Quantitative results for each material, presented in a single table with detailed explanations of supply chain assumptions, summary impact values and detailed scoring. Tier 2 provides the materials and life cycle practitioner with sufficient information to understand the Nike MSI."
+      }
+    },
+    {
+      "type": "edit",
+      "id": "c467f55057e9f3b3",
+      "item": {
+        "type": "paragraph",
+        "id": "c467f55057e9f3b3",
+        "text": "Includes Nike MSI source data, algorithms and assumptions, and is the information source for Tiers 1 and 2. Tier 3 provides transparency into Nike MSI and is where to add new materials, provide better data and develop alternative supply chain scenarios."
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "78ca4c9450b508f2",
+        "9524f53130679f17",
+        "2903658c21184b2e",
+        "df60558b4f4e8a2c",
+        "c610dee7a9421b3c",
+        "c467f55057e9f3b3",
+        "c3c1ed15cedfd633"
+      ],
+      "id": "df60558b4f4e8a2c"
+    },
+    {
+      "type": "move",
+      "order": [
+        "78ca4c9450b508f2",
+        "9524f53130679f17",
+        "2903658c21184b2e",
+        "df60558b4f4e8a2c",
+        "c610dee7a9421b3c",
+        "c3c1ed15cedfd633",
+        "c467f55057e9f3b3"
+      ],
+      "id": "c3c1ed15cedfd633"
+    },
+    {
+      "type": "edit",
+      "id": "2903658c21184b2e",
+      "item": {
+        "type": "paragraph",
+        "id": "2903658c21184b2e",
+        "text": "Results of Quantitative scoring, with sufficient detail to provide a working understanding of the scoring framework. Includes the rank ordering of more than 50 materials and high-level summary impacts of Chemistry, Energy and GHG Intensity, Water and Land Use Intensity, and Physical Waste."
+      }
+    },
+    {
+      "type": "edit",
+      "id": "9524f53130679f17",
+      "item": {
+        "type": "paragraph",
+        "id": "9524f53130679f17",
+        "text": "<h3>[[Tier 1]]</h3>"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "df60558b4f4e8a2c",
+      "item": {
+        "type": "paragraph",
+        "id": "df60558b4f4e8a2c",
+        "text": "<h3>[[Tier 2]]</h3>"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "c3c1ed15cedfd633",
+      "item": {
+        "type": "paragraph",
+        "id": "c3c1ed15cedfd633",
+        "text": "<h3>[[Tier 3]]</h3>"
+      }
+    }
+  ]
+}

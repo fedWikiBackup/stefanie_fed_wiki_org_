@@ -1,0 +1,118 @@
+{
+  "title": "Nike Green Chemistry Program",
+  "story": [],
+  "journal": [
+    {
+      "type": "create",
+      "id": "4cdd4ea33323fbbf",
+      "item": {
+        "title": "Nike Green Chemistry Program"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1ad83a0be7dfed52"
+      },
+      "id": "1ad83a0be7dfed52",
+      "type": "add"
+    },
+    {
+      "type": "edit",
+      "id": "1ad83a0be7dfed52",
+      "item": {
+        "type": "paragraph",
+        "id": "1ad83a0be7dfed52",
+        "text": "The goal of the Nike material chemistry program is to protect consumers, workers, the environment and brand reputation. \n"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a7ae0a23b70dd1d4"
+      },
+      "id": "a7ae0a23b70dd1d4",
+      "type": "add",
+      "after": "1ad83a0be7dfed52"
+    },
+    {
+      "type": "edit",
+      "id": "a7ae0a23b70dd1d4",
+      "item": {
+        "type": "paragraph",
+        "id": "a7ae0a23b70dd1d4",
+        "text": "<il>Represents work toward a systematic, risk-based (hazard and exposure) approach to assessing toxic chemicals in a material or process. \n\n\t• Assesses exposure potential in order to prioritize the elimination of chemicals (through reformulation or control via an RSL program) that pose the greatest risk.\n\n\t• Awards points for evaluating chemical use within a supplier facility and for using processes and technologies that reduce or eliminate toxic chemicals in materials production."
+      }
+    },
+    {
+      "type": "edit",
+      "id": "a7ae0a23b70dd1d4",
+      "item": {
+        "type": "paragraph",
+        "id": "a7ae0a23b70dd1d4",
+        "text": "<li>Represents work toward a systematic, risk-based (hazard and exposure) approach to assessing toxic chemicals in a material or process. \n\n\t• Assesses exposure potential in order to prioritize the elimination of chemicals (through reformulation or control via an RSL program) that pose the greatest risk.\n\n\t• Awards points for evaluating chemical use within a supplier facility and for using processes and technologies that reduce or eliminate toxic chemicals in materials production."
+      }
+    },
+    {
+      "type": "edit",
+      "id": "a7ae0a23b70dd1d4",
+      "item": {
+        "type": "paragraph",
+        "id": "a7ae0a23b70dd1d4",
+        "text": "Represents work toward a systematic, risk-based (hazard and exposure) approach to assessing toxic chemicals in a material or process."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7ad40c93f9e69135"
+      },
+      "id": "7ad40c93f9e69135",
+      "type": "add",
+      "after": "a7ae0a23b70dd1d4"
+    },
+    {
+      "type": "edit",
+      "id": "7ad40c93f9e69135",
+      "item": {
+        "type": "paragraph",
+        "id": "7ad40c93f9e69135",
+        "text": "Assesses exposure potential in order to prioritize the elimination of chemicals (through reformulation or control via an RSL program) that pose the greatest risk."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4c5698fbc444653d"
+      },
+      "id": "4c5698fbc444653d",
+      "type": "add",
+      "after": "7ad40c93f9e69135"
+    },
+    {
+      "type": "edit",
+      "id": "4c5698fbc444653d",
+      "item": {
+        "type": "paragraph",
+        "id": "4c5698fbc444653d",
+        "text": "Awards points for evaluating chemical use within a supplier facility and for using processes and technologies that reduce or eliminate toxic chemicals in materials production."
+      }
+    },
+    {
+      "type": "remove",
+      "id": "1ad83a0be7dfed52"
+    },
+    {
+      "type": "remove",
+      "id": "a7ae0a23b70dd1d4"
+    },
+    {
+      "type": "remove",
+      "id": "7ad40c93f9e69135"
+    },
+    {
+      "type": "remove",
+      "id": "4c5698fbc444653d"
+    }
+  ]
+}

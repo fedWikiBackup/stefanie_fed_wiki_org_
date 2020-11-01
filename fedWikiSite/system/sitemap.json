@@ -1,0 +1,248 @@
+[
+  {
+    "slug": "add-e-learn",
+    "title": "ADD E-Learn",
+    "date": 1384275839000,
+    "synopsis": "<iframe src=\"http://www.slideshare.net/slideshow/embed_code/27532331\" width=\"427\" height=\"356\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px\" allowfullscreen> </iframe> <div style=\"margin-bottom:5px\"> <strong> <a href=\"https://www.slideshare.net/stefaniepanke/aace-elearn-special-interest-group-on-designing-developing-and-assessing-elearning-sig-3\" title=\"AACE E-Learn Special Interest Group on Designing, Developing, and Assessing E-Learning (SIG 3)\" target=\"_blank\">AACE E-Learn Special Interest Group on Designing, Developing, and Assessing E-Learning (SIG 3)</a> </strong> from <strong><a href=\"http://www.slideshare.net/stefaniepanke\" target=\"_blank\">Stefanie Panke</a></strong> </div>"
+  },
+  {
+    "slug": "base-materials-scores-in-alphabetical-order",
+    "title": "Base Materials Scores in Alphabetical Order",
+    "date": 1333390666000,
+    "synopsis": "Expect to see a list of scores in alphabetical order in the future."
+  },
+  {
+    "slug": "base-materials-scores-in-rank-order",
+    "title": "Base Materials Scores in Rank Order",
+    "date": 1333390593000,
+    "synopsis": "Expect to see a list of rank-order scores in the future."
+  },
+  {
+    "slug": "better-materials",
+    "title": "Better Materials",
+    "date": 1332392654000,
+    "synopsis": "A page with 0 paragraphs."
+  },
+  {
+    "slug": "better-suppliers",
+    "title": "Better Suppliers",
+    "date": 1332392656000,
+    "synopsis": "A page with 0 paragraphs."
+  },
+  {
+    "slug": "bo",
+    "title": "Bo",
+    "date": 1384272574000,
+    "synopsis": "First year pictures:"
+  },
+  {
+    "slug": "bowen",
+    "title": "Bowen",
+    "date": 1384882599000,
+    "synopsis": "Zorba"
+  },
+  {
+    "slug": "chemistry",
+    "title": "Chemistry",
+    "date": 1332396612000,
+    "synopsis": "The Chemistry algorithm assesses significant chemical substances across a material’s life cycle, from [[Cradle to Gate]] (ready to ship to the product assembly factory). "
+  },
+  {
+    "slug": "comprehensive-input-stream-management-system",
+    "title": "Comprehensive Input Stream Management System",
+    "date": 1332479035000,
+    "synopsis": "A page with 1 paragraphs."
+  },
+  {
+    "slug": "cotton-fabric",
+    "title": "Cotton Fabric",
+    "date": 1333391272000,
+    "synopsis": "<h3>Supply Chain Scenario"
+  },
+  {
+    "slug": "cotton-in-the-field",
+    "title": "Cotton in the Field",
+    "date": 1333392167000,
+    "synopsis": "<i>Note: Fabricated content for demonstration purposes only."
+  },
+  {
+    "slug": "cotton-yarn",
+    "title": "Cotton Yarn",
+    "date": 1333392192000,
+    "synopsis": "<i>Note: Fabricated content for demonstration purposes only."
+  },
+  {
+    "slug": "cradle-to-gate",
+    "title": "Cradle to Gate",
+    "date": 1332395073000,
+    "synopsis": "Chemistry, Energy and GHG intensity, and Water intensity are examined across all the cradle-to-gate life cycle stages. "
+  },
+  {
+    "slug": "data-algorithms-assumptions-and-frameworks",
+    "title": "Data, Algorithms, Assumptions and Frameworks",
+    "date": 1332431469000,
+    "synopsis": "The Data, Algorithms, Assumptions and Frameworks for Nike MSI are divided into three tiers, with each progressive tier containing a greater level of detail.\n"
+  },
+  {
+    "slug": "egyptian-cotton-fabric",
+    "title": "Egyptian Cotton Fabric",
+    "date": 1333392093000,
+    "synopsis": "<h3>Supply Chain Scenario"
+  },
+  {
+    "slug": "energy-and-greenhouse-gas-intensity",
+    "title": "Energy and Greenhouse Gas Intensity",
+    "date": 1332395612000,
+    "synopsis": "Energy includes primary process energy plus transportation; it does not include feedstock energy value. Feedstock (caloric value) energy is not included as a typical end-of-life outcome or strategy for Nike Footwear and Apparel groups, so the impact evaluation does not include energy recovery. \n"
+  },
+  {
+    "slug": "environmental-indicator-scores",
+    "title": "Environmental Indicator Scores",
+    "date": 1333389390000,
+    "synopsis": "To align the index with Nike’s long-term sustainability goals and reward suppliers for participating in specific sustainability efforts, we added Qualitative Indicators to the Nike MSI scoring framework. "
+  },
+  {
+    "slug": "example-reference",
+    "title": "Example Reference",
+    "date": 1384272854000,
+    "synopsis": "You can add references to other Federated Wiki sites. Here we show what a reference looks like."
+  },
+  {
+    "slug": "green-building-impacts",
+    "title": "Green Building Impacts",
+    "date": 1333389983000,
+    "synopsis": "A page with 0 paragraphs."
+  },
+  {
+    "slug": "import-documents",
+    "title": "Import Documents",
+    "date": 1384271023000,
+    "synopsis": "Consider the strengths and weaknesses of federated wiki before choosing an import strategy."
+  },
+  {
+    "slug": "material-specific-data",
+    "title": "Material-Specific Data",
+    "date": 1332390445000,
+    "synopsis": "Each material is assigned a Base Material Score using Life Cycle Inventory information that covers the life cycle from Cradle to Gate."
+  },
+  {
+    "slug": "materials-sustainability-index",
+    "title": "Materials Sustainability Index",
+    "date": 1332479701000,
+    "synopsis": "The origin and manufacture of raw materials account for up to 60 percent of the environmental impacts of apparel and footwear products. "
+  },
+  {
+    "slug": "nike-green-chemistry-program",
+    "title": "Nike Green Chemistry Program",
+    "date": 1333389641000,
+    "synopsis": "A page with 0 paragraphs."
+  },
+  {
+    "slug": "nike-green-chemistry-program-validation---material-greening-effort",
+    "title": "Nike Green Chemistry Program Validation - Material Greening Effort",
+    "date": 1333389769000,
+    "synopsis": "The goal of the Nike material chemistry program is to protect consumers, workers, the environment and brand reputation. \n"
+  },
+  {
+    "slug": "physical-waste",
+    "title": "Physical Waste",
+    "date": 1332396035000,
+    "synopsis": "Solid waste is the waste generated from raw material or chemical origin to yarn, based on aggregating the European Union waste categories used in Eco-Profiles. Eco-Profile data is available for commonly used fossil–fuel-based fibers and for some bio-based fibers. The waste is divided into the following categories: Hazardous, Municipal, Industrial, Recyclable/Compostable, and Mineral.\n"
+  },
+  {
+    "slug": "plumbing-the-depths-of-nike-msi",
+    "title": "Plumbing the depths of Nike MSI",
+    "date": 1332222705000,
+    "synopsis": "Here are some citations to other sites related to the MSI demo."
+  },
+  {
+    "slug": "program-participation-guidelines",
+    "title": "Program Participation Guidelines",
+    "date": 1332376258000,
+    "synopsis": "Some introductory text."
+  },
+  {
+    "slug": "qualitative-indicator",
+    "title": "Qualitative Indicator",
+    "date": 1332478710000,
+    "synopsis": "To align the index with Nike’s long-term sustainability goals and reward suppliers for participating in specific sustainability efforts, we added Qualitative Indicators to the Nike MSI scoring framework. "
+  },
+  {
+    "slug": "quantitative",
+    "title": "Quantitative",
+    "date": 1332392018000,
+    "synopsis": "<h3>Impacts Covered</h3>"
+  },
+  {
+    "slug": "quantitative-score",
+    "title": "Quantitative Score",
+    "date": 1332455280000,
+    "synopsis": "See [[Science-based Better Materials Score]]."
+  },
+  {
+    "slug": "science-based-better-materials-score",
+    "title": "Science-based Better Materials Score",
+    "date": 1332455226000,
+    "synopsis": "Also called the [[Quantitative Score]]."
+  },
+  {
+    "slug": "smallest-federated-wiki",
+    "title": "Smallest Federated Wiki",
+    "date": 1332212792000,
+    "synopsis": "Our new wiki innovates three ways. It shares through federation, composes by refactoring and wraps data with visualization. Follow our open development on GitHub or just watch our work in progress videos here."
+  },
+  {
+    "slug": "stefanie",
+    "title": "stefanie",
+    "date": 1384882819000,
+    "synopsis": "[http://panke.web.unc.edu UNC Homepage]"
+  },
+  {
+    "slug": "supplier-performance",
+    "title": "Supplier Performance",
+    "date": 1332375522000,
+    "synopsis": "Qualitative Indicators are divided into two parts, Environmental Indicators and Supplier Practices."
+  },
+  {
+    "slug": "sustainability-certifications-and-programs",
+    "title": "Sustainability Certifications and Programs",
+    "date": 1333389995000,
+    "synopsis": "We encourage material suppliers to participate in sustainability programs and third-party certifications across a variety of environmental management systems and protocols. This effort represents active participation and better practices within the material supply chain.\n"
+  },
+  {
+    "slug": "tier-1",
+    "title": "Tier 1",
+    "date": 1333391532000,
+    "synopsis": "A page with 0 paragraphs."
+  },
+  {
+    "slug": "tier-1-material-summary",
+    "title": "Tier 1 Material Summary",
+    "date": 1333393138000,
+    "synopsis": "This table uses data from the Nike MSI Summary spreadsheet from the Tier 1 Static Excel workbook."
+  },
+  {
+    "slug": "tier-2",
+    "title": "Tier 2",
+    "date": 1333391525000,
+    "synopsis": "A page with 0 paragraphs."
+  },
+  {
+    "slug": "tier-2-material-scores",
+    "title": "Tier 2 Material Scores",
+    "date": 1333391100000,
+    "synopsis": "Here we will enumerate the materials by name and link to individual pages for each material. Individual material pages will describe how we arrived at particular sustainability scores."
+  },
+  {
+    "slug": "water-and-land-use-intensity",
+    "title": "Water and Land Use Intensity",
+    "date": 1332395775000,
+    "synopsis": "Water includes primary process water, such as irrigation for agricultural crops, and does not include water used in transportation; where PlasticsEurope Eco-Profile  data are used, water includes cooling water."
+  },
+  {
+    "slug": "welcome-visitors",
+    "title": "Welcome Visitors",
+    "date": 1384882669000,
+    "synopsis": "Just started to add to [[Smallest Federated Wiki]] and keep a link to the [[How to Wiki]] on the homepage for now."
+  }
+]
