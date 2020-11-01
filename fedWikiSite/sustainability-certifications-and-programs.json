@@ -1,0 +1,408 @@
+{
+  "title": "Sustainability Certifications and Programs",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e7d3533a2d3325dc",
+      "text": "We encourage material suppliers to participate in sustainability programs and third-party certifications across a variety of environmental management systems and protocols. This effort represents active participation and better practices within the material supply chain.\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "c567bd10ffb87ddf",
+      "text": "Nike MSI tiers Sustainability Certifications and Programs based on the level of process rigor, effort, independence, transparency and performance thresholds."
+    },
+    {
+      "type": "paragraph",
+      "id": "257dff506e462c53",
+      "text": "[[Comprehensive Input Stream Management System - bluesign Standard]] *"
+    },
+    {
+      "type": "paragraph",
+      "id": "1ebfc42d08cf8cdf",
+      "text": "[[Sustainable Cotton Agriculture - Better Cotton Initiative]] *"
+    },
+    {
+      "type": "paragraph",
+      "id": "a99af2f984dadacb",
+      "text": "[[Organic Certification]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "6e7ded2b59859f66",
+      "text": "[[Recycled Certifications]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "09379502e59b4b94",
+      "text": "[[Nike Closed-Loop Material Program]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "411f8514c5ebb9ae",
+      "text": "[[Content Claim Certification]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "7b5b5807d8f79fea",
+      "text": "[[Sustainable Leather Production]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "b6d3f3d3827cb632",
+      "text": "[[Sustainable Forestry Certification]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "2f359997589dd76c",
+      "text": "[[Climate Change Transparency]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "46c2356edb7bb413",
+      "text": "[[Environmental Management Systems]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "152f0981a017840d",
+      "text": "[[Green Building Impacts]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "391eada1fe5dba18",
+      "text": "* Starred items are more complete at the time of our first demonstration."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "id": "0afe6b9c3d49a0c4",
+      "item": {
+        "title": "Sustainability Certifications and Programs"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e7d3533a2d3325dc"
+      },
+      "id": "e7d3533a2d3325dc",
+      "type": "add"
+    },
+    {
+      "type": "edit",
+      "id": "e7d3533a2d3325dc",
+      "item": {
+        "type": "paragraph",
+        "id": "e7d3533a2d3325dc",
+        "text": "We encourage material suppliers to participate in sustainability programs and third-party certifications across a variety of environmental management systems and protocols. This effort represents active participation and better practices within the material supply chain.\n"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c567bd10ffb87ddf"
+      },
+      "id": "c567bd10ffb87ddf",
+      "type": "add",
+      "after": "e7d3533a2d3325dc"
+    },
+    {
+      "type": "edit",
+      "id": "c567bd10ffb87ddf",
+      "item": {
+        "type": "paragraph",
+        "id": "c567bd10ffb87ddf",
+        "text": "Nike MSI tiers Sustainability Certifications and Programs based on the level of process rigor, effort, independence, transparency and performance thresholds."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "257dff506e462c53"
+      },
+      "id": "257dff506e462c53",
+      "type": "add",
+      "after": "c567bd10ffb87ddf"
+    },
+    {
+      "type": "edit",
+      "id": "257dff506e462c53",
+      "item": {
+        "type": "paragraph",
+        "id": "257dff506e462c53",
+        "text": "[[Comprehensive Input Stream Management System]]"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a99af2f984dadacb"
+      },
+      "id": "a99af2f984dadacb",
+      "type": "add",
+      "after": "257dff506e462c53"
+    },
+    {
+      "type": "edit",
+      "id": "a99af2f984dadacb",
+      "item": {
+        "type": "paragraph",
+        "id": "a99af2f984dadacb",
+        "text": "[[Organic Certification]]"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6e7ded2b59859f66"
+      },
+      "id": "6e7ded2b59859f66",
+      "type": "add",
+      "after": "a99af2f984dadacb"
+    },
+    {
+      "type": "edit",
+      "id": "6e7ded2b59859f66",
+      "item": {
+        "type": "paragraph",
+        "id": "6e7ded2b59859f66",
+        "text": "[[Recycled Certifications]]"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "09379502e59b4b94"
+      },
+      "id": "09379502e59b4b94",
+      "type": "add",
+      "after": "6e7ded2b59859f66"
+    },
+    {
+      "type": "edit",
+      "id": "09379502e59b4b94",
+      "item": {
+        "type": "paragraph",
+        "id": "09379502e59b4b94",
+        "text": "[[Nike Closed-Loop Material Program]]"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1ebfc42d08cf8cdf"
+      },
+      "id": "1ebfc42d08cf8cdf",
+      "type": "add",
+      "after": "09379502e59b4b94"
+    },
+    {
+      "type": "edit",
+      "id": "1ebfc42d08cf8cdf",
+      "item": {
+        "type": "paragraph",
+        "id": "1ebfc42d08cf8cdf",
+        "text": "[[Sustainable Cotton Agriculture]]"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "411f8514c5ebb9ae"
+      },
+      "id": "411f8514c5ebb9ae",
+      "type": "add",
+      "after": "1ebfc42d08cf8cdf"
+    },
+    {
+      "type": "edit",
+      "id": "411f8514c5ebb9ae",
+      "item": {
+        "type": "paragraph",
+        "id": "411f8514c5ebb9ae",
+        "text": "[[Content Claim Certification]]"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7b5b5807d8f79fea"
+      },
+      "id": "7b5b5807d8f79fea",
+      "type": "add",
+      "after": "411f8514c5ebb9ae"
+    },
+    {
+      "type": "edit",
+      "id": "7b5b5807d8f79fea",
+      "item": {
+        "type": "paragraph",
+        "id": "7b5b5807d8f79fea",
+        "text": "[[Sustainable Leather Production]]"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b6d3f3d3827cb632"
+      },
+      "id": "b6d3f3d3827cb632",
+      "type": "add",
+      "after": "7b5b5807d8f79fea"
+    },
+    {
+      "type": "edit",
+      "id": "b6d3f3d3827cb632",
+      "item": {
+        "type": "paragraph",
+        "id": "b6d3f3d3827cb632",
+        "text": "[[Sustainable Forestry Certification]]"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2f359997589dd76c"
+      },
+      "id": "2f359997589dd76c",
+      "type": "add",
+      "after": "b6d3f3d3827cb632"
+    },
+    {
+      "type": "edit",
+      "id": "2f359997589dd76c",
+      "item": {
+        "type": "paragraph",
+        "id": "2f359997589dd76c",
+        "text": "[[Climate Change Transparency]]"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "46c2356edb7bb413"
+      },
+      "id": "46c2356edb7bb413",
+      "type": "add",
+      "after": "2f359997589dd76c"
+    },
+    {
+      "type": "edit",
+      "id": "46c2356edb7bb413",
+      "item": {
+        "type": "paragraph",
+        "id": "46c2356edb7bb413",
+        "text": "[[Environmental Management Systems]]"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "152f0981a017840d"
+      },
+      "id": "152f0981a017840d",
+      "type": "add",
+      "after": "46c2356edb7bb413"
+    },
+    {
+      "type": "edit",
+      "id": "152f0981a017840d",
+      "item": {
+        "type": "paragraph",
+        "id": "152f0981a017840d",
+        "text": "[[Green Building Impacts]]"
+      }
+    },
+    {
+      "type": "fork",
+      "site": "stefanie.fed.wiki.org"
+    },
+    {
+      "type": "edit",
+      "id": "1ebfc42d08cf8cdf",
+      "item": {
+        "type": "paragraph",
+        "id": "1ebfc42d08cf8cdf",
+        "text": "[[Sustainable Cotton Agriculture - Better Cotton Initiative]]"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "257dff506e462c53",
+      "item": {
+        "type": "paragraph",
+        "id": "257dff506e462c53",
+        "text": "[[Comprehensive Input Stream Management System - bluesign Standard]]"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "1ebfc42d08cf8cdf",
+      "item": {
+        "type": "paragraph",
+        "id": "1ebfc42d08cf8cdf",
+        "text": "[[Sustainable Cotton Agriculture - Better Cotton Initiative]] *"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "257dff506e462c53",
+      "item": {
+        "type": "paragraph",
+        "id": "257dff506e462c53",
+        "text": "[[Comprehensive Input Stream Management System - bluesign Standard]] *"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "391eada1fe5dba18"
+      },
+      "id": "391eada1fe5dba18",
+      "type": "add",
+      "after": "152f0981a017840d"
+    },
+    {
+      "type": "edit",
+      "id": "391eada1fe5dba18",
+      "item": {
+        "type": "paragraph",
+        "id": "391eada1fe5dba18",
+        "text": "* Stared items are more complete at the time of our first demonstration."
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "e7d3533a2d3325dc",
+        "c567bd10ffb87ddf",
+        "257dff506e462c53",
+        "1ebfc42d08cf8cdf",
+        "a99af2f984dadacb",
+        "6e7ded2b59859f66",
+        "09379502e59b4b94",
+        "411f8514c5ebb9ae",
+        "7b5b5807d8f79fea",
+        "b6d3f3d3827cb632",
+        "2f359997589dd76c",
+        "46c2356edb7bb413",
+        "152f0981a017840d",
+        "391eada1fe5dba18"
+      ],
+      "id": "1ebfc42d08cf8cdf"
+    },
+    {
+      "type": "fork",
+      "site": "nmsi.fed.wiki.org"
+    },
+    {
+      "type": "edit",
+      "id": "391eada1fe5dba18",
+      "item": {
+        "type": "paragraph",
+        "id": "391eada1fe5dba18",
+        "text": "* Starred items are more complete at the time of our first demonstration."
+      }
+    }
+  ]
+}
