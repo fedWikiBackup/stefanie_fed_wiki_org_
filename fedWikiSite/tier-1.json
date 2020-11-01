@@ -1,0 +1,13 @@
+{
+  "title": "Tier 1",
+  "story": [],
+  "journal": [
+    {
+      "type": "create",
+      "id": "9d57bea64f2414ea",
+      "item": {
+        "title": "Tier 1"
+      }
+    }
+  ]
+}
