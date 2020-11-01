@@ -1,0 +1,251 @@
+{
+  "title": "Tier 2 Material Scores",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "9a2924bef46cfd5d",
+      "text": "Here we will enumerate the materials by name and link to individual pages for each material. Individual material pages will describe how we arrived at particular sustainability scores."
+    },
+    {
+      "type": "paragraph",
+      "id": "fdce388a7477f9a1",
+      "text": "<h3>Materials"
+    },
+    {
+      "type": "paragraph",
+      "id": "b77976e308c2da9c",
+      "text": "[[Cotton Fabric]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "38df1fcaa89af44d",
+      "text": "[[Polyester Fabric]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "3959e87b7e647fa8",
+      "text": "[[Egyptian Cotton Fabric]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "6ae2e9f43642a4f1",
+      "text": "Compare materials graphically by selecting multiple pages from the list above and then choose [[D3 Radar Chart]] to visualize the scores. Use Shift-Click to open more than one link at a time."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "id": "1a34c53179a4a012",
+      "item": {
+        "title": "Tier 2 Material Scores"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9a2924bef46cfd5d"
+      },
+      "id": "9a2924bef46cfd5d",
+      "type": "add"
+    },
+    {
+      "type": "edit",
+      "id": "9a2924bef46cfd5d",
+      "item": {
+        "type": "paragraph",
+        "id": "9a2924bef46cfd5d",
+        "text": "Here we enumerate the materials by name and link to individual pages for each material that describes how we arrive at particular sustainability scores."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fdce388a7477f9a1"
+      },
+      "id": "fdce388a7477f9a1",
+      "type": "add",
+      "after": "9a2924bef46cfd5d"
+    },
+    {
+      "type": "edit",
+      "id": "fdce388a7477f9a1",
+      "item": {
+        "type": "paragraph",
+        "id": "fdce388a7477f9a1",
+        "text": "<h3>Fabrics"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b77976e308c2da9c"
+      },
+      "id": "b77976e308c2da9c",
+      "type": "add",
+      "after": "fdce388a7477f9a1"
+    },
+    {
+      "type": "edit",
+      "id": "b77976e308c2da9c",
+      "item": {
+        "type": "paragraph",
+        "id": "b77976e308c2da9c",
+        "text": "[[Cotton Fabric]]"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "38df1fcaa89af44d"
+      },
+      "id": "38df1fcaa89af44d",
+      "type": "add",
+      "after": "b77976e308c2da9c"
+    },
+    {
+      "type": "edit",
+      "id": "38df1fcaa89af44d",
+      "item": {
+        "type": "paragraph",
+        "id": "38df1fcaa89af44d",
+        "text": "[[Polyester Fabric]]"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "32378b2977bd87e6"
+      },
+      "id": "32378b2977bd87e6",
+      "type": "add",
+      "after": "38df1fcaa89af44d"
+    },
+    {
+      "type": "edit",
+      "id": "32378b2977bd87e6",
+      "item": {
+        "type": "paragraph",
+        "id": "32378b2977bd87e6",
+        "text": "<i>Note: With time this page will include all NMSI materials."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6ae2e9f43642a4f1"
+      },
+      "id": "6ae2e9f43642a4f1",
+      "type": "add",
+      "after": "32378b2977bd87e6"
+    },
+    {
+      "type": "move",
+      "order": [
+        "9a2924bef46cfd5d",
+        "32378b2977bd87e6",
+        "fdce388a7477f9a1",
+        "b77976e308c2da9c",
+        "38df1fcaa89af44d",
+        "6ae2e9f43642a4f1"
+      ],
+      "id": "32378b2977bd87e6"
+    },
+    {
+      "type": "edit",
+      "id": "6ae2e9f43642a4f1",
+      "item": {
+        "type": "paragraph",
+        "id": "6ae2e9f43642a4f1",
+        "text": "Compare materials graphically by selecting multiple pages from the list above and then choose [[D3 Radar Chart]] to visualize the scores. Use Shift-Click to open more than one link at a time."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3959e87b7e647fa8"
+      },
+      "id": "3959e87b7e647fa8",
+      "type": "add",
+      "after": "6ae2e9f43642a4f1"
+    },
+    {
+      "type": "edit",
+      "id": "3959e87b7e647fa8",
+      "item": {
+        "type": "paragraph",
+        "id": "3959e87b7e647fa8",
+        "text": "[[Egyptian Cotton Fabric]]"
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "9a2924bef46cfd5d",
+        "32378b2977bd87e6",
+        "fdce388a7477f9a1",
+        "b77976e308c2da9c",
+        "3959e87b7e647fa8",
+        "38df1fcaa89af44d",
+        "6ae2e9f43642a4f1"
+      ],
+      "id": "3959e87b7e647fa8"
+    },
+    {
+      "type": "move",
+      "order": [
+        "9a2924bef46cfd5d",
+        "32378b2977bd87e6",
+        "fdce388a7477f9a1",
+        "b77976e308c2da9c",
+        "38df1fcaa89af44d",
+        "3959e87b7e647fa8",
+        "6ae2e9f43642a4f1"
+      ],
+      "id": "38df1fcaa89af44d"
+    },
+    {
+      "type": "fork",
+      "site": "nmsi.fed.wiki.org"
+    },
+    {
+      "type": "edit",
+      "id": "9a2924bef46cfd5d",
+      "item": {
+        "type": "paragraph",
+        "id": "9a2924bef46cfd5d",
+        "text": "Here we will enumerate the materials by name and link to individual pages for each material. Individual material pages will describe how we arrive at particular sustainability scores."
+      }
+    },
+    {
+      "type": "edit",
+      "id": "32378b2977bd87e6",
+      "item": {
+        "type": "paragraph",
+        "id": "32378b2977bd87e6",
+        "text": "<i>Note: With time this page will include all Nike MSI materials."
+      }
+    },
+    {
+      "type": "edit",
+      "id": "9a2924bef46cfd5d",
+      "item": {
+        "type": "paragraph",
+        "id": "9a2924bef46cfd5d",
+        "text": "Here we will enumerate the materials by name and link to individual pages for each material. Individual material pages will describe how we arrived at particular sustainability scores."
+      }
+    },
+    {
+      "type": "remove",
+      "id": "32378b2977bd87e6"
+    },
+    {
+      "type": "edit",
+      "id": "fdce388a7477f9a1",
+      "item": {
+        "type": "paragraph",
+        "id": "fdce388a7477f9a1",
+        "text": "<h3>Materials"
+      }
+    }
+  ]
+}
