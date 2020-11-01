@@ -1,0 +1,225 @@
+{
+  "title": "stefanie",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f36620676279127f",
+      "text": "[http://panke.web.unc.edu UNC Homepage]"
+    },
+    {
+      "type": "paragraph",
+      "id": "a609c6d6995fcbb2",
+      "text": "In January 2012, I began working as instructional analyst at UNC School of Government providing instructional design consultation and guidance for faculty and teaching professionals and an instructional design perspective for IT projects. My projects comprise web content development,piloting emerging educational technologies and applying pedagogical techniques. I am currently particularly interested in e-books, rubric design and e-portfolios. "
+    },
+    {
+      "type": "paragraph",
+      "id": "ed696fd3ea6ef7b7",
+      "text": "I am native German and the past years have been marked by several transatlantic trajectories. Prior to my current position at UNC, I served as Director of E-Learning at Ulm University, Germany. In 2010-2011, I joined the Institute of Psychology and Education at Ulm University, where I implemented university-wide e-learning projects, consulted with faculty, and taught courses on instructional design, computer mediated communication and webnography. In 2009, I received my PhD in Applied Linguistics from the University of Bielefeld with a thesis on the information design of educational websites. From 2008 to 2010 I lived in Austin, TX, where I worked as a freelance e-learning consultant and conducted research on instructional design projects at St. Edward’s University. From 2003 to 2008 I worked with the academic staff of the Knowledge Media Research Center in Tuebingen, Germany, an interdisciplinary institute for research on educational technology. During this time, my team developed an award-winning portal on e-learning in higher education (e-teaching.org), and I lectured media psychology courses at Neu-Ulm University.\n\nI am passionate about applied research in the field of educational technology and serve as a member of several conference program committees (ED-MEDIA, E-LEARN, SITE, ECEL), as a reviewer for e-journals (MERLOT Journal of Online Learning and Teaching, Digital Humanities Quarterly) and as editor for social software at the Educational Technology and Change Journal (ETC)."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "id": "0f289b6ea742d2a4",
+      "item": {
+        "title": "stefanie"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a609c6d6995fcbb2"
+      },
+      "id": "a609c6d6995fcbb2",
+      "type": "add"
+    },
+    {
+      "type": "edit",
+      "id": "a609c6d6995fcbb2",
+      "item": {
+        "type": "paragraph",
+        "id": "a609c6d6995fcbb2",
+        "text": "Principal of Verb Farm, a full-service editorial shop; one-time interactive designer and two-times seamstress."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f36620676279127f"
+      },
+      "id": "f36620676279127f",
+      "type": "add",
+      "after": "a609c6d6995fcbb2"
+    },
+    {
+      "type": "edit",
+      "id": "f36620676279127f",
+      "item": {
+        "type": "paragraph",
+        "id": "f36620676279127f",
+        "text": "[[nmsi]]"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "f36620676279127f",
+      "item": {
+        "type": "paragraph",
+        "id": "f36620676279127f",
+        "text": "[[Material Sustainability Index]]"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "f36620676279127f",
+      "item": {
+        "type": "paragraph",
+        "id": "f36620676279127f",
+        "text": "[[NMSI]]"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "f36620676279127f",
+      "item": {
+        "type": "paragraph",
+        "id": "f36620676279127f",
+        "text": "[[http://nmsi.fed.wiki.org/view/welcome-visitors/view/materials-sustainability-index Nike MSI]]"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "f36620676279127f",
+      "item": {
+        "type": "paragraph",
+        "id": "f36620676279127f",
+        "text": "[[http://nmsi.fed.wiki.org/view/welcome-visitors/view/materials-sustainability-index]]"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "f36620676279127f",
+      "item": {
+        "type": "paragraph",
+        "id": "f36620676279127f",
+        "text": "[[http://nmsi.fed.wiki.org]]"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "a609c6d6995fcbb2",
+      "item": {
+        "type": "paragraph",
+        "id": "a609c6d6995fcbb2",
+        "text": "I am native German and the past years have been marked by several transatlantic trajectories. Prior to my current position at UNC, I served as Director of E-Learning at Ulm University, Germany. In 2010-2011, I joined the Institute of Psychology and Education at Ulm University, where I implemented university-wide e-learning projects, consulted with faculty, and taught courses on instructional design, computer mediated communication and webnography. In 2009, I received my PhD in Applied Linguistics from the University of Bielefeld with a thesis on the information design of educational websites. From 2008 to 2010 I lived in Austin, TX, where I worked as a freelance e-learning consultant and conducted research on instructional design projects at St. Edward’s University. From 2003 to 2008 I worked with the academic staff of the Knowledge Media Research Center in Tuebingen, Germany, an interdisciplinary institute for research on educational technology. During this time, my team developed an award-winning portal on e-learning in higher education (e-teaching.org), and I lectured media psychology courses at Neu-Ulm University.\n\nI am passionate about applied research in the field of educational technology and serve as a member of several conference program committees (ED-MEDIA, E-LEARN, SITE, ECEL), as a reviewer for e-journals (MERLOT Journal of Online Learning and Teaching, Digital Humanities Quarterly) and as editor for social software at the Educational Technology and Change Journal (ETC)."
+      },
+      "date": 1384268642509
+    },
+    {
+      "type": "move",
+      "order": [
+        "f36620676279127f",
+        "a609c6d6995fcbb2"
+      ],
+      "id": "a609c6d6995fcbb2",
+      "date": 1384268716495
+    },
+    {
+      "type": "edit",
+      "id": "f36620676279127f",
+      "item": {
+        "type": "paragraph",
+        "id": "f36620676279127f",
+        "text": "[http://panke.web.unc.edu]"
+      },
+      "date": 1384268763710
+    },
+    {
+      "type": "edit",
+      "id": "a609c6d6995fcbb2",
+      "item": {
+        "type": "paragraph",
+        "id": "a609c6d6995fcbb2",
+        "text": "In January 2012, I began working as the lead instructional designer at UNC School of Government on the Instructional Support team, providing instructional design consultation and guidance for faculty and teaching professionals as well as project management for instructional technology initiatives."
+      },
+      "date": 1384268785087
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ed696fd3ea6ef7b7",
+        "text": "I am native German and the past years have been marked by several transatlantic trajectories. Prior to my current position at UNC, I served as Director of E-Learning at Ulm University, Germany. In 2010-2011, I joined the Institute of Psychology and Education at Ulm University, where I implemented university-wide e-learning projects, consulted with faculty, and taught courses on instructional design, computer mediated communication and webnography. In 2009, I received my PhD in Applied Linguistics from the University of Bielefeld with a thesis on the information design of educational websites. From 2008 to 2010 I lived in Austin, TX, where I worked as a freelance e-learning consultant and conducted research on instructional design projects at St. Edward’s University. From 2003 to 2008 I worked with the academic staff of the Knowledge Media Research Center in Tuebingen, Germany, an interdisciplinary institute for research on educational technology. During this time, my team developed an award-winning portal on e-learning in higher education (e-teaching.org), and I lectured media psychology courses at Neu-Ulm University.\n\nI am passionate about applied research in the field of educational technology and serve as a member of several conference program committees (ED-MEDIA, E-LEARN, SITE, ECEL), as a reviewer for e-journals (MERLOT Journal of Online Learning and Teaching, Digital Humanities Quarterly) and as editor for social software at the Educational Technology and Change Journal (ETC)."
+      },
+      "id": "ed696fd3ea6ef7b7",
+      "type": "add",
+      "after": "a609c6d6995fcbb2",
+      "date": 1384268785601
+    },
+    {
+      "type": "edit",
+      "id": "a609c6d6995fcbb2",
+      "item": {
+        "type": "paragraph",
+        "id": "a609c6d6995fcbb2",
+        "text": "In January 2012, I began working as instructional analyst at UNC School of Government providing instructional design consultation and guidance for faculty and teaching professionals and an instructional design perspective for IT projects."
+      },
+      "date": 1384268892842
+    },
+    {
+      "type": "edit",
+      "id": "f36620676279127f",
+      "item": {
+        "type": "paragraph",
+        "id": "f36620676279127f",
+        "text": "[http://panke.web.unc.edu UNC Homepage]"
+      },
+      "date": 1384269091755
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7fa910f1488d40af",
+        "text": ""
+      },
+      "id": "7fa910f1488d40af",
+      "type": "add",
+      "after": "a609c6d6995fcbb2",
+      "date": 1384270944528
+    },
+    {
+      "type": "remove",
+      "id": "7fa910f1488d40af",
+      "date": 1384270946088
+    },
+    {
+      "type": "edit",
+      "id": "a609c6d6995fcbb2",
+      "item": {
+        "type": "paragraph",
+        "id": "a609c6d6995fcbb2",
+        "text": "In January 2012, I began working as instructional analyst at UNC School of Government providing instructional design consultation and guidance for faculty and teaching professionals and an instructional design perspective for IT projects. My projects comprise web content development,piloting emerging educational technologies and applying pedagogical techniques. I am currently particularly interested in e-books, rubric design and e-portfolios. "
+      },
+      "date": 1384271451647
+    },
+    {
+      "type": "move",
+      "order": [
+        "f36620676279127f",
+        "ed696fd3ea6ef7b7",
+        "a609c6d6995fcbb2"
+      ],
+      "id": "a609c6d6995fcbb2",
+      "date": 1384882797683
+    },
+    {
+      "type": "move",
+      "order": [
+        "f36620676279127f",
+        "a609c6d6995fcbb2",
+        "ed696fd3ea6ef7b7"
+      ],
+      "id": "a609c6d6995fcbb2",
+      "date": 1384882819778
+    }
+  ]
+}
