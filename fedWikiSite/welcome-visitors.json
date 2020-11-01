@@ -1,0 +1,1025 @@
+{
+  "title": "Welcome Visitors",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "57b206a5457d1b73",
+      "text": "Just started to add to [[Smallest Federated Wiki]] and keep a link to the [[How to Wiki]] on the homepage for now."
+    },
+    {
+      "type": "paragraph",
+      "id": "63ad2e58eecdd9e5",
+      "text": "Learn more about me on my page: [[Stefanie]] ... "
+    },
+    {
+      "type": "paragraph",
+      "id": "821827c99b90cfd1",
+      "text": "I will use this Wiki space as a scrapbook for personal as well as professional content. Chiefly, I am trying to wrap my head around this new Ward Cunningham project by playing with it. "
+    },
+    {
+      "type": "paragraph",
+      "id": "954b37a157dd5506",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "0a3906b6c3c8b397",
+      "text": "<li> I successfully claimed the page [[Stefanie]] <li> I have changed the landing page's content <li>I like the ease of creating new paragraphs. <li>I really like how easily one can create new pages. <li> To include videos or PDFs, one can simply use the iframe embed code <li> creating a picture gallery seemed easy, but now my pics are gone hrrpmph. I came to the conclusion that picture galleries do not work in this setup. <li> I have not figured out how to reference pages yet <li> no clue how the plugins work"
+    },
+    {
+      "type": "paragraph",
+      "id": "1bba1346d221d1df",
+      "text": "It took me a little while to figure out the image drag and drop process (the trick is to land in the grey square). To get started, I created a picture gallery of [[Bowen]] and Zorba. Also see [[Bo]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "ddd6f7bd453aa61d",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "67439d6e9cccc71b",
+      "text": "I am currently working on getting the AACE Special Interest [[ADD E-Learn]] (Assessing, Designing and Developing E-Learning) off the ground."
+    }
+  ],
+  "journal": [
+    {
+      "id": "7b56f22a4b9ee974",
+      "type": "edit",
+      "item": {
+        "text": "Welcome to the [[Smallest Federated Wiki]]. This page was first drafted Sunday, June 26th, 2011, at [[Indie Web Camp]]. You are welcome to copy this page to any server you own and revise its welcoming message as you see fit. You can assume this has happened many times already. See also [[",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      }
+    },
+    {
+      "id": "7b56f22a4b9ee974",
+      "type": "edit",
+      "item": {
+        "text": "Welcome to the [[Smallest Federated Wiki]]. This page was first drafted Sunday, June 26th, 2011, at [[Indie Web Camp]]. You are welcome to copy this page to any server you own and revise its welcoming message as you see fit. You can assume this has happened many times already, most likely among the [[List of Pioneers]].",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "57b206a5457d1b73"
+      },
+      "id": "57b206a5457d1b73",
+      "type": "add",
+      "after": "7b56f22a4b9ee974"
+    },
+    {
+      "type": "move",
+      "order": [
+        "57b206a5457d1b73",
+        "7b56f22a4b9ee974"
+      ],
+      "id": "57b206a5457d1b73"
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "This page was first drafted Sunday, June 26th, 2011, at [[Indie Web Camp]]. You are welcome to copy this page to any server you own and revise its welcoming message as you see fit. You can assume this has happened many times already.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "57b206a5457d1b73",
+      "item": {
+        "type": "paragraph",
+        "id": "57b206a5457d1b73",
+        "text": "Welcome to the [[Smallest Federated Wiki]]. You may be seeing this page because you have just entered a wiki of your own. If so, you have three things to do before you go on."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "821827c99b90cfd1"
+      },
+      "id": "821827c99b90cfd1",
+      "type": "add",
+      "after": "7b56f22a4b9ee974"
+    },
+    {
+      "type": "move",
+      "order": [
+        "57b206a5457d1b73",
+        "821827c99b90cfd1",
+        "7b56f22a4b9ee974"
+      ],
+      "id": "821827c99b90cfd1"
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "<b>One:</b> Create a page about yourself. Start by making a link to that page right here. Double-click the gray box below. That opens an editor. Type your name enclosed in double square brackets. Then press Command/CTRL-S to save."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "63ad2e58eecdd9e5"
+      },
+      "id": "63ad2e58eecdd9e5",
+      "type": "add",
+      "after": "7b56f22a4b9ee974"
+    },
+    {
+      "type": "move",
+      "order": [
+        "57b206a5457d1b73",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "7b56f22a4b9ee974"
+      ],
+      "id": "63ad2e58eecdd9e5"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2bbd646ff3f44b51"
+      },
+      "id": "2bbd646ff3f44b51",
+      "type": "add",
+      "after": "7b56f22a4b9ee974"
+    },
+    {
+      "type": "move",
+      "order": [
+        "57b206a5457d1b73",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "2bbd646ff3f44b51",
+        "7b56f22a4b9ee974"
+      ],
+      "id": "2bbd646ff3f44b51"
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "<b>Two:</b> Create a page about things you do on this wiki. Double-click the gray box below. Type a descriptive name of something you will be writing aout. Enclose it in square brackets. Then press Command/CTRL-S to save."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "05e2fa92643677ca"
+      },
+      "id": "05e2fa92643677ca",
+      "type": "add",
+      "after": "7b56f22a4b9ee974"
+    },
+    {
+      "type": "move",
+      "order": [
+        "57b206a5457d1b73",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "7b56f22a4b9ee974"
+      ],
+      "id": "05e2fa92643677ca"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0cbb4ef5f5d7e472"
+      },
+      "id": "0cbb4ef5f5d7e472",
+      "type": "add",
+      "after": "7b56f22a4b9ee974"
+    },
+    {
+      "type": "move",
+      "order": [
+        "57b206a5457d1b73",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "0cbb4ef5f5d7e472",
+        "7b56f22a4b9ee974"
+      ],
+      "id": "0cbb4ef5f5d7e472"
+    },
+    {
+      "type": "edit",
+      "id": "0cbb4ef5f5d7e472",
+      "item": {
+        "type": "paragraph",
+        "id": "0cbb4ef5f5d7e472",
+        "text": "<b>Three:</b> Look for the <i>claim</i> button below this page. If you have your own OpenID you can use it to claim these pages so that only you can edit them. If you have a Google account you can use that too. Press the (G) button. Press the (Y) button to use your Yahoo account. You get the idea."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ee416d431ebf4fb4"
+      },
+      "id": "ee416d431ebf4fb4",
+      "type": "add",
+      "after": "7b56f22a4b9ee974"
+    },
+    {
+      "type": "move",
+      "order": [
+        "57b206a5457d1b73",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "0cbb4ef5f5d7e472",
+        "ee416d431ebf4fb4",
+        "7b56f22a4b9ee974"
+      ],
+      "id": "ee416d431ebf4fb4"
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "Start writing. Click either link. Press [+] to add more writing spaces. "
+      }
+    },
+    {
+      "type": "fork",
+      "site": "new.fed.wiki.org"
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "Start writing. Click either link. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas."
+      }
+    },
+    {
+      "type": "edit",
+      "id": "63ad2e58eecdd9e5",
+      "item": {
+        "type": "paragraph",
+        "id": "63ad2e58eecdd9e5",
+        "text": "[[stefanie]]"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "05e2fa92643677ca",
+      "item": {
+        "type": "paragraph",
+        "id": "05e2fa92643677ca",
+        "text": "[Plumbing the depths of Nike MSI]"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "05e2fa92643677ca",
+      "item": {
+        "type": "paragraph",
+        "id": "05e2fa92643677ca",
+        "text": "[[Plumbing the depths of Nike MSI]]"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "05e2fa92643677ca",
+      "item": {
+        "type": "paragraph",
+        "id": "05e2fa92643677ca",
+        "text": "[[Plumbing the depths of Nike MSI]] ... fixed by Ward"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "63ad2e58eecdd9e5",
+      "item": {
+        "type": "paragraph",
+        "id": "63ad2e58eecdd9e5",
+        "text": "[[Stefanie]] ... case insensitive, but new pages use the original case."
+      }
+    },
+    {
+      "type": "edit",
+      "id": "05e2fa92643677ca",
+      "item": {
+        "type": "paragraph",
+        "id": "05e2fa92643677ca",
+        "text": "[[Plumbing the depths of Nike MSI]] ... fixed by Ward ... doubled the square brackets."
+      }
+    },
+    {
+      "type": "edit",
+      "id": "05e2fa92643677ca",
+      "item": {
+        "type": "paragraph",
+        "id": "05e2fa92643677ca",
+        "text": "[[Plumbing the depths of Nike MSI]] ... Ward made this link by doubling the square brackets."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3e9bd23ea26256af"
+      },
+      "id": "3e9bd23ea26256af",
+      "type": "add",
+      "after": "7b56f22a4b9ee974"
+    },
+    {
+      "type": "edit",
+      "id": "3e9bd23ea26256af",
+      "item": {
+        "type": "paragraph",
+        "id": "3e9bd23ea26256af",
+        "text": "[[Recent Changes]] to this site."
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "57b206a5457d1b73",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "3e9bd23ea26256af",
+        "0cbb4ef5f5d7e472",
+        "ee416d431ebf4fb4",
+        "7b56f22a4b9ee974"
+      ],
+      "id": "3e9bd23ea26256af"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d93314fd51b247a1"
+      },
+      "id": "d93314fd51b247a1",
+      "type": "add",
+      "after": "7b56f22a4b9ee974"
+    },
+    {
+      "type": "edit",
+      "id": "d93314fd51b247a1",
+      "item": {
+        "type": "paragraph",
+        "id": "d93314fd51b247a1",
+        "text": "[[Materials Sustainability Index]] draft for demonstration."
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "57b206a5457d1b73",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "2bbd646ff3f44b51",
+        "d93314fd51b247a1",
+        "05e2fa92643677ca",
+        "3e9bd23ea26256af",
+        "0cbb4ef5f5d7e472",
+        "ee416d431ebf4fb4",
+        "7b56f22a4b9ee974"
+      ],
+      "id": "d93314fd51b247a1"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8e14cfeb46e36ddf"
+      },
+      "id": "8e14cfeb46e36ddf",
+      "type": "add",
+      "after": "7b56f22a4b9ee974",
+      "date": 1384268550994
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ddd6f7bd453aa61d"
+      },
+      "id": "ddd6f7bd453aa61d",
+      "type": "add",
+      "after": "8e14cfeb46e36ddf",
+      "date": 1384269177820
+    },
+    {
+      "type": "remove",
+      "id": "8e14cfeb46e36ddf",
+      "date": 1384269200455
+    },
+    {
+      "type": "move",
+      "order": [
+        "57b206a5457d1b73",
+        "63ad2e58eecdd9e5",
+        "821827c99b90cfd1",
+        "2bbd646ff3f44b51",
+        "d93314fd51b247a1",
+        "05e2fa92643677ca",
+        "3e9bd23ea26256af",
+        "0cbb4ef5f5d7e472",
+        "ee416d431ebf4fb4",
+        "7b56f22a4b9ee974",
+        "ddd6f7bd453aa61d"
+      ],
+      "id": "821827c99b90cfd1",
+      "date": 1384269220721
+    },
+    {
+      "type": "edit",
+      "id": "ddd6f7bd453aa61d",
+      "item": {
+        "type": "paragraph",
+        "id": "ddd6f7bd453aa61d",
+        "text": " "
+      },
+      "date": 1384269289598
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0d362eafba1dde6f",
+        "text": "I will use this Wiki space as a scrapbook for personal as well as professional content."
+      },
+      "id": "0d362eafba1dde6f",
+      "type": "add",
+      "after": "ddd6f7bd453aa61d",
+      "date": 1384269290107
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "59c76ddfe6b3fc02",
+        "text": ""
+      },
+      "id": "59c76ddfe6b3fc02",
+      "type": "add",
+      "after": "ddd6f7bd453aa61d",
+      "date": 1384269290114
+    },
+    {
+      "type": "remove",
+      "id": "59c76ddfe6b3fc02",
+      "date": 1384269294396
+    },
+    {
+      "type": "remove",
+      "id": "0d362eafba1dde6f",
+      "date": 1384269313954
+    },
+    {
+      "type": "edit",
+      "id": "57b206a5457d1b73",
+      "item": {
+        "type": "paragraph",
+        "id": "57b206a5457d1b73",
+        "text": "Just started to add to [[Smallest Federated Wiki]]."
+      },
+      "date": 1384269376449
+    },
+    {
+      "type": "edit",
+      "id": "63ad2e58eecdd9e5",
+      "item": {
+        "type": "paragraph",
+        "id": "63ad2e58eecdd9e5",
+        "text": "Learn more about me on my page: [[Stefanie]] ... "
+      },
+      "date": 1384269394858
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "I will use this Wiki space as a scrapbook for personal as well as professional content."
+      },
+      "date": 1384269421295
+    },
+    {
+      "type": "remove",
+      "id": "2bbd646ff3f44b51",
+      "date": 1384269433908
+    },
+    {
+      "type": "remove",
+      "id": "d93314fd51b247a1",
+      "date": 1384269447883
+    },
+    {
+      "type": "remove",
+      "id": "05e2fa92643677ca",
+      "date": 1384269451196
+    },
+    {
+      "type": "remove",
+      "id": "0cbb4ef5f5d7e472",
+      "date": 1384269455116
+    },
+    {
+      "type": "remove",
+      "id": "3e9bd23ea26256af",
+      "date": 1384269470815
+    },
+    {
+      "type": "remove",
+      "id": "7b56f22a4b9ee974",
+      "date": 1384269482935
+    },
+    {
+      "type": "remove",
+      "id": "ee416d431ebf4fb4",
+      "date": 1384269530666
+    },
+    {
+      "type": "edit",
+      "id": "57b206a5457d1b73",
+      "item": {
+        "type": "paragraph",
+        "id": "57b206a5457d1b73",
+        "text": "Just started to add to [[Smallest Federated Wiki]] and keep a link to the [[How to Wiki]] on the homepage for now."
+      },
+      "date": 1384269536407
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1bba1346d221d1df",
+        "text": ""
+      },
+      "id": "1bba1346d221d1df",
+      "type": "add",
+      "after": "821827c99b90cfd1",
+      "date": 1384269545053
+    },
+    {
+      "type": "edit",
+      "id": "1bba1346d221d1df",
+      "item": {
+        "type": "paragraph",
+        "id": "1bba1346d221d1df",
+        "text": "[[Bo]]"
+      },
+      "date": 1384269577489
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d209005c1e455e2a",
+        "text": ""
+      },
+      "id": "d209005c1e455e2a",
+      "type": "add",
+      "after": "1bba1346d221d1df",
+      "date": 1384269577997
+    },
+    {
+      "type": "remove",
+      "id": "d209005c1e455e2a",
+      "date": 1384269583693
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "67439d6e9cccc71b"
+      },
+      "id": "67439d6e9cccc71b",
+      "type": "add",
+      "after": "ddd6f7bd453aa61d",
+      "date": 1384271069510
+    },
+    {
+      "type": "edit",
+      "id": "1bba1346d221d1df",
+      "item": {
+        "type": "paragraph",
+        "id": "1bba1346d221d1df",
+        "text": "It took me a little while to figure out the image drag and drop process (the trick is to land in the grey square). To get started, I created a picture gallery of [[Bo]]."
+      },
+      "date": 1384272700365
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a7374466d1b846b4"
+      },
+      "id": "a7374466d1b846b4",
+      "type": "add",
+      "after": "67439d6e9cccc71b",
+      "date": 1384272904910
+    },
+    {
+      "type": "edit",
+      "id": "67439d6e9cccc71b",
+      "item": {
+        "type": "paragraph",
+        "id": "67439d6e9cccc71b",
+        "text": "I am currently working on getting the AACE Special Interest [[ADD E-Learn]] (Assessing, Designing and Developing E-Learning) off the ground."
+      },
+      "date": 1384272974527
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "I will use this Wiki space as a scrapbook for personal as well as professional content. Chiefly, I am trying to wrap my head around this new Ward Cunningham project by playing with it."
+      },
+      "date": 1384273841425
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "I will use this Wiki space as a scrapbook for personal as well as professional content. Chiefly, I am trying to wrap my head around this new Ward Cunningham project by playing with it. "
+      },
+      "date": 1384273860288
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "954b37a157dd5506",
+        "text": ""
+      },
+      "id": "954b37a157dd5506",
+      "type": "add",
+      "after": "821827c99b90cfd1",
+      "date": 1384273860797
+    },
+    {
+      "type": "edit",
+      "id": "954b37a157dd5506",
+      "item": {
+        "type": "paragraph",
+        "id": "954b37a157dd5506",
+        "text": "I like the ease of creating new paragraphs."
+      },
+      "date": 1384273878607
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "96abef6a4faf672d",
+        "text": ""
+      },
+      "id": "96abef6a4faf672d",
+      "type": "add",
+      "after": "954b37a157dd5506",
+      "date": 1384273879116
+    },
+    {
+      "type": "edit",
+      "id": "96abef6a4faf672d",
+      "item": {
+        "type": "paragraph",
+        "id": "96abef6a4faf672d",
+        "text": "<li> List"
+      },
+      "date": 1384273888365
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1290b72de03f448f",
+        "text": ""
+      },
+      "id": "1290b72de03f448f",
+      "type": "add",
+      "after": "96abef6a4faf672d",
+      "date": 1384273888871
+    },
+    {
+      "type": "remove",
+      "id": "1290b72de03f448f",
+      "date": 1384273890346
+    },
+    {
+      "type": "remove",
+      "id": "96abef6a4faf672d",
+      "date": 1384273894491
+    },
+    {
+      "type": "edit",
+      "id": "954b37a157dd5506",
+      "item": {
+        "type": "paragraph",
+        "id": "954b37a157dd5506",
+        "text": " "
+      },
+      "date": 1384274047013
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0a3906b6c3c8b397",
+        "text": "<li>I like the ease of creating new paragraphs. <li>I really like how easily one can create new pages. <li> I have not figured out yet how to include videos or embed code <li> creating a picture gallery works nicely "
+      },
+      "id": "0a3906b6c3c8b397",
+      "type": "add",
+      "after": "954b37a157dd5506",
+      "date": 1384274047522
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "76d8182371948493",
+        "text": ""
+      },
+      "id": "76d8182371948493",
+      "type": "add",
+      "after": "954b37a157dd5506",
+      "date": 1384274047529
+    },
+    {
+      "type": "remove",
+      "id": "76d8182371948493",
+      "date": 1384274048965
+    },
+    {
+      "type": "edit",
+      "id": "0a3906b6c3c8b397",
+      "item": {
+        "type": "paragraph",
+        "id": "0a3906b6c3c8b397",
+        "text": "<li> I successfully claimed a page http://stefanie.fed.wiki.org <li> I have changed the landing page's content <li>I like the ease of creating new paragraphs. <li>I really like how easily one can create new pages. <li> I have not figured out yet how to include videos or embed code <li> creating a picture gallery works nicely"
+      },
+      "date": 1384274131314
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a93dee50168c6c87",
+        "text": ""
+      },
+      "id": "a93dee50168c6c87",
+      "type": "add",
+      "after": "0a3906b6c3c8b397",
+      "date": 1384274131823
+    },
+    {
+      "type": "remove",
+      "id": "a93dee50168c6c87",
+      "date": 1384275177142
+    },
+    {
+      "type": "edit",
+      "id": "0a3906b6c3c8b397",
+      "item": {
+        "type": "paragraph",
+        "id": "0a3906b6c3c8b397",
+        "text": "<li> I successfully claimed a page [[stefanie]] <li> I have changed the landing page's content <li>I like the ease of creating new paragraphs. <li>I really like how easily one can create new pages. <li> To include videos or PDFs, one can simply use the iframe embed code <li> creating a picture gallery works nicely"
+      },
+      "date": 1384275704806
+    },
+    {
+      "type": "edit",
+      "id": "0a3906b6c3c8b397",
+      "item": {
+        "type": "paragraph",
+        "id": "0a3906b6c3c8b397",
+        "text": "<li> I successfully claimed the page [[Stefanie] stefanie.fed.wiki.org] <li> I have changed the landing page's content <li>I like the ease of creating new paragraphs. <li>I really like how easily one can create new pages. <li> To include videos or PDFs, one can simply use the iframe embed code <li> creating a picture gallery works nicely"
+      },
+      "date": 1384275902226
+    },
+    {
+      "type": "edit",
+      "id": "0a3906b6c3c8b397",
+      "item": {
+        "type": "paragraph",
+        "id": "0a3906b6c3c8b397",
+        "text": "<li> I successfully claimed the page [Stefanie stefanie.fed.wiki.org] <li> I have changed the landing page's content <li>I like the ease of creating new paragraphs. <li>I really like how easily one can create new pages. <li> To include videos or PDFs, one can simply use the iframe embed code <li> creating a picture gallery works nicely"
+      },
+      "date": 1384275913390
+    },
+    {
+      "type": "edit",
+      "id": "0a3906b6c3c8b397",
+      "item": {
+        "type": "paragraph",
+        "id": "0a3906b6c3c8b397",
+        "text": "<li> I successfully claimed the page [[ stefanie.fed.wiki.org Stefanie] <li> I have changed the landing page's content <li>I like the ease of creating new paragraphs. <li>I really like how easily one can create new pages. <li> To include videos or PDFs, one can simply use the iframe embed code <li> creating a picture gallery works nicely"
+      },
+      "date": 1384275929981
+    },
+    {
+      "type": "edit",
+      "id": "0a3906b6c3c8b397",
+      "item": {
+        "type": "paragraph",
+        "id": "0a3906b6c3c8b397",
+        "text": "<li> I successfully claimed the page [ stefanie.fed.wiki.org Stefanie] <li> I have changed the landing page's content <li>I like the ease of creating new paragraphs. <li>I really like how easily one can create new pages. <li> To include videos or PDFs, one can simply use the iframe embed code <li> creating a picture gallery works nicely"
+      },
+      "date": 1384275933846
+    },
+    {
+      "type": "edit",
+      "id": "0a3906b6c3c8b397",
+      "item": {
+        "type": "paragraph",
+        "id": "0a3906b6c3c8b397",
+        "text": "<li> I successfully claimed the page [ http://stefanie.fed.wiki.org Stefanie] <li> I have changed the landing page's content <li>I like the ease of creating new paragraphs. <li>I really like how easily one can create new pages. <li> To include videos or PDFs, one can simply use the iframe embed code <li> creating a picture gallery works nicely"
+      },
+      "date": 1384275941867
+    },
+    {
+      "type": "edit",
+      "id": "0a3906b6c3c8b397",
+      "item": {
+        "type": "paragraph",
+        "id": "0a3906b6c3c8b397",
+        "text": "<li> I successfully claimed the page [[Stefanie]] <li> I have changed the landing page's content <li>I like the ease of creating new paragraphs. <li>I really like how easily one can create new pages. <li> To include videos or PDFs, one can simply use the iframe embed code <li> creating a picture gallery works nicely"
+      },
+      "date": 1384275963827
+    },
+    {
+      "type": "edit",
+      "id": "0a3906b6c3c8b397",
+      "item": {
+        "type": "paragraph",
+        "id": "0a3906b6c3c8b397",
+        "text": "<li> I successfully claimed the page [[Stefanie]] <li> I have changed the landing page's content <li>I like the ease of creating new paragraphs. <li>I really like how easily one can create new pages. <li> To include videos or PDFs, one can simply use the iframe embed code <li> creating a picture gallery works nicely <li> I have not figured out how to reference pages yet"
+      },
+      "date": 1384278610442
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "46b4899ddb21c3c2",
+        "text": ""
+      },
+      "id": "46b4899ddb21c3c2",
+      "type": "add",
+      "after": "0a3906b6c3c8b397",
+      "date": 1384278610948
+    },
+    {
+      "type": "remove",
+      "id": "46b4899ddb21c3c2",
+      "date": 1384278613467
+    },
+    {
+      "type": "edit",
+      "id": "0a3906b6c3c8b397",
+      "item": {
+        "type": "paragraph",
+        "id": "0a3906b6c3c8b397",
+        "text": "<li> I successfully claimed the page [[Stefanie]] <li> I have changed the landing page's content <li>I like the ease of creating new paragraphs. <li>I really like how easily one can create new pages. <li> To include videos or PDFs, one can simply use the iframe embed code <li> creating a picture gallery works nicely <li> I have not figured out how to reference pages yet <li> no clue how the plugins work"
+      },
+      "date": 1384278631880
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d5c1805a2469ad1c",
+        "text": ""
+      },
+      "id": "d5c1805a2469ad1c",
+      "type": "add",
+      "after": "0a3906b6c3c8b397",
+      "date": 1384278632386
+    },
+    {
+      "type": "remove",
+      "id": "d5c1805a2469ad1c",
+      "date": 1384278655869
+    },
+    {
+      "type": "edit",
+      "id": "0a3906b6c3c8b397",
+      "item": {
+        "type": "paragraph",
+        "id": "0a3906b6c3c8b397",
+        "text": "<li> I successfully claimed the page [[Stefanie]] <li> I have changed the landing page's content <li>I like the ease of creating new paragraphs. <li>I really like how easily one can create new pages. <li> To include videos or PDFs, one can simply use the iframe embed code <li> creating a picture gallery is easy <li> I have not figured out how to reference pages yet <li> no clue how the plugins work"
+      },
+      "date": 1384278663968
+    },
+    {
+      "type": "edit",
+      "id": "0a3906b6c3c8b397",
+      "item": {
+        "type": "paragraph",
+        "id": "0a3906b6c3c8b397",
+        "text": "<li> I successfully claimed the page [[Stefanie]] <li> I have changed the landing page's content <li>I like the ease of creating new paragraphs. <li>I really like how easily one can create new pages. <li> To include videos or PDFs, one can simply use the iframe embed code <li> creating a picture gallery seemed easy, but now my pics are gone hrrpmph <li> I have not figured out how to reference pages yet <li> no clue how the plugins work"
+      },
+      "date": 1384278808899
+    },
+    {
+      "type": "edit",
+      "id": "1bba1346d221d1df",
+      "item": {
+        "type": "paragraph",
+        "id": "1bba1346d221d1df",
+        "text": "It took me a little while to figure out the image drag and drop process (the trick is to land in the grey square). To get started, I created a picture gallery of [[Bo]]. "
+      },
+      "date": 1384279033068
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "359d87f851180a90",
+        "text": ""
+      },
+      "id": "359d87f851180a90",
+      "type": "add",
+      "after": "1bba1346d221d1df",
+      "date": 1384279033577
+    },
+    {
+      "type": "remove",
+      "id": "359d87f851180a90",
+      "date": 1384279037756
+    },
+    {
+      "type": "remove",
+      "id": "a7374466d1b846b4",
+      "date": 1384279057723
+    },
+    {
+      "type": "edit",
+      "id": "1bba1346d221d1df",
+      "item": {
+        "type": "paragraph",
+        "id": "1bba1346d221d1df",
+        "text": "It took me a little while to figure out the image drag and drop process (the trick is to land in the grey square). To get started, I created a picture gallery of [[Bo]]. [[Bo]]"
+      },
+      "date": 1384279448852
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "fa40ed7bbe20f992",
+        "text": ""
+      },
+      "id": "fa40ed7bbe20f992",
+      "type": "add",
+      "after": "1bba1346d221d1df",
+      "date": 1384279449363
+    },
+    {
+      "type": "remove",
+      "id": "fa40ed7bbe20f992",
+      "date": 1384279453474
+    },
+    {
+      "type": "edit",
+      "id": "1bba1346d221d1df",
+      "item": {
+        "type": "paragraph",
+        "id": "1bba1346d221d1df",
+        "text": "It took me a little while to figure out the image drag and drop process (the trick is to land in the grey square). To get started, I created a picture gallery of [[Bowen]]."
+      },
+      "date": 1384882461698
+    },
+    {
+      "type": "edit",
+      "id": "1bba1346d221d1df",
+      "item": {
+        "type": "paragraph",
+        "id": "1bba1346d221d1df",
+        "text": "It took me a little while to figure out the image drag and drop process (the trick is to land in the grey square). To get started, I created a picture gallery of [[Bowen]] and Zorba."
+      },
+      "date": 1384882520887
+    },
+    {
+      "type": "edit",
+      "id": "1bba1346d221d1df",
+      "item": {
+        "type": "paragraph",
+        "id": "1bba1346d221d1df",
+        "text": "It took me a little while to figure out the image drag and drop process (the trick is to land in the grey square). To get started, I created a picture gallery of [[Bowen]] and Zorba. Also see [[Bo]]."
+      },
+      "date": 1384882640171
+    },
+    {
+      "type": "edit",
+      "id": "0a3906b6c3c8b397",
+      "item": {
+        "type": "paragraph",
+        "id": "0a3906b6c3c8b397",
+        "text": "<li> I successfully claimed the page [[Stefanie]] <li> I have changed the landing page's content <li>I like the ease of creating new paragraphs. <li>I really like how easily one can create new pages. <li> To include videos or PDFs, one can simply use the iframe embed code <li> creating a picture gallery seemed easy, but now my pics are gone hrrpmph. I came to the conclusion that picture galleries do not work in this setup. <li> I have not figured out how to reference pages yet <li> no clue how the plugins work"
+      },
+      "date": 1384882669635
+    }
+  ],
+  "synopsys": "The first federated wiki page written and often first page viewed."
+}
