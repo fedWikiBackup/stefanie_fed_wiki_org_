@@ -1,0 +1,219 @@
+{
+  "title": "Material-Specific Data",
+  "journal": [
+    {
+      "id": "4721b81f58f969db",
+      "type": "create",
+      "item": {
+        "title": "Material-Specific Data"
+      }
+    },
+    {
+      "id": "66c7cebc69f3e3ad",
+      "type": "add",
+      "item": {
+        "id": "66c7cebc69f3e3ad",
+        "type": "factory"
+      }
+    },
+    {
+      "id": "66c7cebc69f3e3ad",
+      "type": "edit",
+      "item": {
+        "text": "Each material is assigned a Base Score using Life Cycle Inventory information that convers the life cycle from Cradle to Gate.",
+        "id": "66c7cebc69f3e3ad",
+        "type": "paragraph"
+      }
+    },
+    {
+      "after": "66c7cebc69f3e3ad",
+      "id": "7dde8a173fc853c8",
+      "type": "add",
+      "item": {
+        "id": "7dde8a173fc853c8",
+        "type": "factory"
+      }
+    },
+    {
+      "id": "7dde8a173fc853c8",
+      "type": "edit",
+      "item": {
+        "text": "<i>from page 14 of 54</i>",
+        "id": "7dde8a173fc853c8",
+        "type": "paragraph"
+      }
+    },
+    {
+      "after": "7dde8a173fc853c8",
+      "id": "30b6bdfa13d3f04c",
+      "type": "add",
+      "item": {
+        "id": "30b6bdfa13d3f04c",
+        "type": "factory"
+      }
+    },
+    {
+      "id": "30b6bdfa13d3f04c",
+      "type": "edit",
+      "item": {
+        "text": "This Quantitative Score using the same environmental impact areas and scale to enable relative comparisons.",
+        "id": "30b6bdfa13d3f04c",
+        "type": "paragraph"
+      }
+    },
+    {
+      "id": "30b6bdfa13d3f04c",
+      "order": [
+        "66c7cebc69f3e3ad",
+        "30b6bdfa13d3f04c",
+        "7dde8a173fc853c8"
+      ],
+      "type": "move"
+    },
+    {
+      "after": "7dde8a173fc853c8",
+      "id": "210e523d20b5bda4",
+      "type": "add",
+      "item": {
+        "id": "210e523d20b5bda4",
+        "type": "factory"
+      }
+    },
+    {
+      "id": "210e523d20b5bda4",
+      "type": "edit",
+      "item": {
+        "text": "We can start our analysis with a material. We'll follow that material through processing steps and accumulate the information we use for scoring along the way. Let's say we start with [[Cotton in the Field]].",
+        "id": "210e523d20b5bda4",
+        "type": "paragraph"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "210e523d20b5bda4",
+      "item": {
+        "text": "We can start our analysis with a material. We can start with, say, [[Cotton Fabric]]. Or we can follow a material through processing steps and accumulate the information we use for scoring along the way as we do with [[Cotton in the Field]].",
+        "id": "210e523d20b5bda4",
+        "type": "paragraph"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "210e523d20b5bda4",
+      "item": {
+        "text": "We can start our analysis with a material. We can start with, say, [[Cotton Fabric]].",
+        "id": "210e523d20b5bda4",
+        "type": "paragraph"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "edd2c0de80632b22"
+      },
+      "id": "edd2c0de80632b22",
+      "type": "add",
+      "after": "210e523d20b5bda4"
+    },
+    {
+      "type": "edit",
+      "id": "edd2c0de80632b22",
+      "item": {
+        "type": "paragraph",
+        "id": "edd2c0de80632b22",
+        "text": "We can follow a material through processing steps and accumulate the information we use for scoring along the way as we do with [[Cotton in the Field]]."
+      }
+    },
+    {
+      "type": "edit",
+      "id": "210e523d20b5bda4",
+      "item": {
+        "text": "We can drill down on a specific material such as [[Cotton Fabric]].",
+        "id": "210e523d20b5bda4",
+        "type": "paragraph"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "210e523d20b5bda4",
+      "item": {
+        "text": "We can see a summary of indicators  on a material by material basis, such as [[Cotton Fabric]].",
+        "id": "210e523d20b5bda4",
+        "type": "paragraph"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "66c7cebc69f3e3ad",
+      "item": {
+        "text": "Each material is assigned a Base Score using Life Cycle Inventory information that covers the life cycle from Cradle to Gate.",
+        "id": "66c7cebc69f3e3ad",
+        "type": "paragraph"
+      }
+    },
+    {
+      "type": "fork",
+      "site": "nmsi.fed.wiki.org"
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "c3e443af8e20478b",
+        "text": "[[Tier 1 Material Summary]]"
+      },
+      "after": "7dde8a173fc853c8",
+      "id": "c3e443af8e20478b"
+    },
+    {
+      "type": "edit",
+      "id": "66c7cebc69f3e3ad",
+      "item": {
+        "text": "Each material is assigned a Base Material Score using Life Cycle Inventory information that covers the life cycle from Cradle to Gate.",
+        "id": "66c7cebc69f3e3ad",
+        "type": "paragraph"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "30b6bdfa13d3f04c",
+      "item": {
+        "text": "This Quantitative Score uses the same environmental impact areas and scale to enable relative comparisons.",
+        "id": "30b6bdfa13d3f04c",
+        "type": "paragraph"
+      }
+    }
+  ],
+  "story": [
+    {
+      "text": "Each material is assigned a Base Material Score using Life Cycle Inventory information that covers the life cycle from Cradle to Gate.",
+      "id": "66c7cebc69f3e3ad",
+      "type": "paragraph"
+    },
+    {
+      "text": "This Quantitative Score uses the same environmental impact areas and scale to enable relative comparisons.",
+      "id": "30b6bdfa13d3f04c",
+      "type": "paragraph"
+    },
+    {
+      "text": "<i>from page 14 of 54</i>",
+      "id": "7dde8a173fc853c8",
+      "type": "paragraph"
+    },
+    {
+      "type": "paragraph",
+      "id": "c3e443af8e20478b",
+      "text": "[[Tier 1 Material Summary]]"
+    },
+    {
+      "text": "We can see a summary of indicators  on a material by material basis, such as [[Cotton Fabric]].",
+      "id": "210e523d20b5bda4",
+      "type": "paragraph"
+    },
+    {
+      "type": "paragraph",
+      "id": "edd2c0de80632b22",
+      "text": "We can follow a material through processing steps and accumulate the information we use for scoring along the way as we do with [[Cotton in the Field]]."
+    }
+  ]
+}
