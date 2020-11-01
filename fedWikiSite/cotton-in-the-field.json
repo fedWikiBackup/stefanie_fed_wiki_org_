@@ -1,0 +1,423 @@
+{
+  "title": "Cotton in the Field",
+  "journal": [
+    {
+      "id": "89982a477a1a8959",
+      "type": "create",
+      "item": {
+        "title": "Cotton in the Field"
+      }
+    },
+    {
+      "id": "861637f8ce0e4874",
+      "type": "add",
+      "item": {
+        "id": "861637f8ce0e4874",
+        "type": "factory"
+      }
+    },
+    {
+      "id": "861637f8ce0e4874",
+      "type": "edit",
+      "item": {
+        "data": [
+          {
+            "wounds": "0",
+            "date": "5/1854",
+            "other": "95",
+            "disease": "105"
+          },
+          {
+            "wounds": "0",
+            "date": "6/1854",
+            "other": "40",
+            "disease": "95"
+          },
+          {
+            "wounds": "0",
+            "date": "7/1854",
+            "other": "140",
+            "disease": "520"
+          },
+          {
+            "wounds": "20",
+            "date": "8/1854",
+            "other": "150",
+            "disease": "800"
+          },
+          {
+            "wounds": "220",
+            "date": "9/1854",
+            "other": "230",
+            "disease": "740"
+          },
+          {
+            "wounds": "305",
+            "date": "10/1854",
+            "other": "310",
+            "disease": "600"
+          },
+          {
+            "wounds": "480",
+            "date": "11/1854",
+            "other": "290",
+            "disease": "820"
+          },
+          {
+            "wounds": "295",
+            "date": "12/1854",
+            "other": "310",
+            "disease": "1100"
+          },
+          {
+            "wounds": "230",
+            "date": "1/1855",
+            "other": "460",
+            "disease": "1440"
+          },
+          {
+            "wounds": "180",
+            "date": "2/1855",
+            "other": "520",
+            "disease": "1270"
+          },
+          {
+            "wounds": "155",
+            "date": "3/1855",
+            "other": "350",
+            "disease": "935"
+          },
+          {
+            "wounds": "195",
+            "date": "4/1855",
+            "other": "195",
+            "disease": "560"
+          },
+          {
+            "wounds": "180",
+            "date": "5/1855",
+            "other": "155",
+            "disease": "550"
+          },
+          {
+            "wounds": "330",
+            "date": "6/1855",
+            "other": "130",
+            "disease": "650"
+          },
+          {
+            "wounds": "260",
+            "date": "7/1855",
+            "other": "130",
+            "disease": "430"
+          },
+          {
+            "wounds": "290",
+            "date": "8/1855",
+            "other": "110",
+            "disease": "490"
+          },
+          {
+            "wounds": "355",
+            "date": "9/1855",
+            "other": "100",
+            "disease": "290"
+          },
+          {
+            "wounds": "135",
+            "date": "10/1855",
+            "other": "95",
+            "disease": "245"
+          },
+          {
+            "wounds": "100",
+            "date": "11/1855",
+            "other": "140",
+            "disease": "325"
+          },
+          {
+            "wounds": "40",
+            "date": "12/1855",
+            "other": "120",
+            "disease": "215"
+          },
+          {
+            "wounds": "0",
+            "date": "1/1856",
+            "other": "160",
+            "disease": "160"
+          },
+          {
+            "wounds": "0",
+            "date": "2/1856",
+            "other": "100",
+            "disease": "100"
+          },
+          {
+            "wounds": "0",
+            "date": "3/1856",
+            "other": "125",
+            "disease": "90"
+          },
+          {}
+        ],
+        "text": "crimea.csv",
+        "id": "861637f8ce0e4874",
+        "type": "data",
+        "columns": [
+          "date",
+          "wounds",
+          "other",
+          "disease"
+        ]
+      }
+    },
+    {
+      "after": "861637f8ce0e4874",
+      "id": "7cc2da52ab9eb27d",
+      "type": "add",
+      "item": {
+        "id": "7cc2da52ab9eb27d",
+        "type": "factory"
+      }
+    },
+    {
+      "id": "7cc2da52ab9eb27d",
+      "type": "edit",
+      "item": {
+        "text": "Group\tgrass/plant\nSubgroup\tcotton\nMaterial\tcotton\nID-number \t2528\nReference:   \tATO laboratories\nRemarks:\tanalysis ATO 174",
+        "id": "7cc2da52ab9eb27d",
+        "type": "paragraph"
+      }
+    },
+    {
+      "after": "7cc2da52ab9eb27d",
+      "id": "b924407fcdef474d",
+      "type": "add",
+      "item": {
+        "id": "b924407fcdef474d",
+        "type": "factory"
+      }
+    },
+    {
+      "id": "b924407fcdef474d",
+      "type": "edit",
+      "item": {
+        "text": "Almost every project involving biomass or waste starts with the composition and the variation in the composition of the materials. Because the information is scattered throughout literature and often expressed in different units, ECN decided in 1997 to design a database for internal use. See also, [",
+        "id": "b924407fcdef474d",
+        "type": "paragraph"
+      }
+    },
+    {
+      "id": "b924407fcdef474d",
+      "type": "edit",
+      "item": {
+        "text": "Almost every project involving biomass or waste starts with the composition and the variation in the composition of the materials. Because the information is scattered throughout literature and often expressed in different units, ECN decided in 1997 to design a database for internal use. See also, [http://www.ecn.nl/phyllis/info.asp ECN Phyllis].",
+        "id": "b924407fcdef474d",
+        "type": "paragraph"
+      }
+    },
+    {
+      "after": "b924407fcdef474d",
+      "id": "dca1de1147c88b53",
+      "type": "add",
+      "item": {
+        "id": "dca1de1147c88b53",
+        "type": "factory"
+      }
+    },
+    {
+      "id": "dca1de1147c88b53",
+      "type": "edit",
+      "item": {
+        "text": "Proceed to [[Cotton Fabric]].",
+        "id": "dca1de1147c88b53",
+        "type": "paragraph"
+      }
+    },
+    {
+      "after": "dca1de1147c88b53",
+      "id": "e38a16e11c15afa9",
+      "type": "add",
+      "item": {
+        "id": "e38a16e11c15afa9",
+        "type": "factory"
+      }
+    },
+    {
+      "id": "e38a16e11c15afa9",
+      "type": "edit",
+      "item": {
+        "text": "Proceed to [[Cotton Yarn]].",
+        "id": "e38a16e11c15afa9",
+        "type": "paragraph"
+      }
+    },
+    {
+      "id": "dca1de1147c88b53",
+      "order": [
+        "861637f8ce0e4874",
+        "7cc2da52ab9eb27d",
+        "b924407fcdef474d",
+        "e38a16e11c15afa9",
+        "dca1de1147c88b53"
+      ],
+      "type": "move"
+    },
+    {
+      "id": "dca1de1147c88b53",
+      "type": "remove"
+    },
+    {
+      "id": "861637f8ce0e4874",
+      "order": [
+        "7cc2da52ab9eb27d",
+        "861637f8ce0e4874",
+        "b924407fcdef474d",
+        "e38a16e11c15afa9"
+      ],
+      "type": "move"
+    },
+    {
+      "after": "b924407fcdef474d",
+      "id": "3191bb204dd2889e",
+      "type": "add",
+      "item": {
+        "text": "<h3>Ginning</h3>",
+        "id": "3191bb204dd2889e",
+        "type": "paragraph"
+      }
+    },
+    {
+      "id": "3191bb204dd2889e",
+      "type": "remove"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "11897842c674f899"
+      },
+      "id": "11897842c674f899",
+      "type": "add",
+      "after": "e38a16e11c15afa9"
+    },
+    {
+      "type": "edit",
+      "id": "11897842c674f899",
+      "item": {
+        "type": "paragraph",
+        "id": "11897842c674f899",
+        "text": "Try [[Experimental Calculator]]."
+      }
+    },
+    {
+      "type": "edit",
+      "id": "11897842c674f899",
+      "item": {
+        "type": "paragraph",
+        "id": "11897842c674f899",
+        "text": "Try [[Expense Calculator]]."
+      }
+    },
+    {
+      "type": "edit",
+      "id": "11897842c674f899",
+      "item": {
+        "type": "paragraph",
+        "id": "11897842c674f899",
+        "text": "Try [[Expense Calculator]] or [[Experimental Calculator]]."
+      }
+    },
+    {
+      "type": "fork",
+      "site": "nmsi.fed.wiki.org"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0cdc4e7d5f434405"
+      },
+      "id": "0cdc4e7d5f434405",
+      "type": "add",
+      "after": "11897842c674f899"
+    },
+    {
+      "type": "edit",
+      "id": "0cdc4e7d5f434405",
+      "item": {
+        "type": "paragraph",
+        "id": "0cdc4e7d5f434405",
+        "text": "<i>Note: Fabricated content for demonstration purposes only."
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "0cdc4e7d5f434405",
+        "7cc2da52ab9eb27d",
+        "861637f8ce0e4874",
+        "b924407fcdef474d",
+        "e38a16e11c15afa9",
+        "11897842c674f899"
+      ],
+      "id": "0cdc4e7d5f434405"
+    }
+  ],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "0cdc4e7d5f434405",
+      "text": "<i>Note: Fabricated content for demonstration purposes only."
+    },
+    {
+      "text": "Group\tgrass/plant\nSubgroup\tcotton\nMaterial\tcotton\nID-number \t2528\nReference:   \tATO laboratories\nRemarks:\tanalysis ATO 174",
+      "id": "7cc2da52ab9eb27d",
+      "type": "paragraph"
+    },
+    {
+      "data": {
+        "Material": "Cotton fabric",
+        "Allocation": {
+          "format": "%",
+          "units": null,
+          "value": 0.45
+        },
+        "Feedstock": {
+          "notes": "[http//www.ecn.nl/phyllis Phyllis] Database",
+          "units": "MJ/kg",
+          "value": 7.88
+        },
+        "SourceEnergy": {
+          "units": "MJ/kg",
+          "value": 48.7,
+          "note": "Laursen, Danish Environmental Assessment 1997; includes ginning",
+          "source": "field",
+          "check": 21.92
+        },
+        "Yield": {
+          "units": "kg raw material/ha",
+          "value": 1400
+        },
+        "object": "Material"
+      },
+      "text": "Environmental field data<br>[http://www.ecn.nl/phyllis/info.asp ECN Phyllis]",
+      "id": "861637f8ce0e4874",
+      "type": "data"
+    },
+    {
+      "text": "Almost every project involving biomass or waste starts with the composition and the variation in the composition of the materials. Because the information is scattered throughout literature and often expressed in different units, ECN decided in 1997 to design a database for internal use. See also, [http://www.ecn.nl/phyllis/info.asp ECN Phyllis].",
+      "id": "b924407fcdef474d",
+      "type": "paragraph"
+    },
+    {
+      "text": "Proceed to [[Cotton Yarn]].",
+      "id": "e38a16e11c15afa9",
+      "type": "paragraph"
+    },
+    {
+      "type": "paragraph",
+      "id": "11897842c674f899",
+      "text": "Try [[Expense Calculator]] or [[Experimental Calculator]]."
+    }
+  ]
+}
