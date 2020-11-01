@@ -1,0 +1,54 @@
+{
+  "title": "Base Materials Scores in Alphabetical Order",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "0de511c11b63c81e",
+      "text": "Expect to see a list of scores in alphabetical order in the future."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "id": "abe55e3c545e5e78",
+      "item": {
+        "title": "Base Materials Scores in Alphabetical Order"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0de511c11b63c81e"
+      },
+      "id": "0de511c11b63c81e",
+      "type": "add"
+    },
+    {
+      "type": "edit",
+      "id": "0de511c11b63c81e",
+      "item": {
+        "type": "paragraph",
+        "id": "0de511c11b63c81e",
+        "text": "Expect to see a list of rank-order scores in the future."
+      }
+    },
+    {
+      "type": "edit",
+      "id": "0de511c11b63c81e",
+      "item": {
+        "type": "paragraph",
+        "id": "0de511c11b63c81e",
+        "text": "Expect to see a list of alphabetical-order scores in the future."
+      }
+    },
+    {
+      "type": "edit",
+      "id": "0de511c11b63c81e",
+      "item": {
+        "type": "paragraph",
+        "id": "0de511c11b63c81e",
+        "text": "Expect to see a list of scores in alphabetical order in the future."
+      }
+    }
+  ]
+}
