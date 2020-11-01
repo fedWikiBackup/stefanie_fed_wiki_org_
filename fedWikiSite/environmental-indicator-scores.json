@@ -1,0 +1,84 @@
+{
+  "title": "Environmental Indicator Scores",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "606d76cb8ae180e5",
+      "text": "To align the index with Nike’s long-term sustainability goals and reward suppliers for participating in specific sustainability efforts, we added Qualitative Indicators to the Nike MSI scoring framework. "
+    },
+    {
+      "type": "paragraph",
+      "id": "0fdd60149abb24cb",
+      "text": "See [[Qualitative Indicator]]."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "id": "640b200e253361b1",
+      "item": {
+        "title": "Environmental Indicator Scores"
+      }
+    },
+    {
+      "type": "fork",
+      "site": "stefanie.fed.wiki.org"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0fdd60149abb24cb"
+      },
+      "id": "0fdd60149abb24cb",
+      "type": "add"
+    },
+    {
+      "type": "edit",
+      "id": "0fdd60149abb24cb",
+      "item": {
+        "type": "paragraph",
+        "id": "0fdd60149abb24cb",
+        "text": "See [[Qualitative Indicator]]"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "606d76cb8ae180e5"
+      },
+      "id": "606d76cb8ae180e5",
+      "type": "add",
+      "after": "0fdd60149abb24cb"
+    },
+    {
+      "type": "edit",
+      "id": "606d76cb8ae180e5",
+      "item": {
+        "type": "paragraph",
+        "id": "606d76cb8ae180e5",
+        "text": "To align the index with Nike’s long-term sustainability goals and reward suppliers for participating in specific sustainability efforts, we added Qualitative Indicators to the Nike MSI scoring framework. "
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "606d76cb8ae180e5",
+        "0fdd60149abb24cb"
+      ],
+      "id": "606d76cb8ae180e5"
+    },
+    {
+      "type": "fork",
+      "site": "nmsi.fed.wiki.org"
+    },
+    {
+      "type": "edit",
+      "id": "0fdd60149abb24cb",
+      "item": {
+        "type": "paragraph",
+        "id": "0fdd60149abb24cb",
+        "text": "See [[Qualitative Indicator]]."
+      }
+    }
+  ]
+}
