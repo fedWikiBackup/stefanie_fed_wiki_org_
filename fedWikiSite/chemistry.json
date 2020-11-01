@@ -1,0 +1,82 @@
+{
+  "title": "Chemistry",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "cb65fdcc3af0765e",
+      "text": "The Chemistry algorithm assesses significant chemical substances across a material’s life cycle, from [[Cradle to Gate]] (ready to ship to the product assembly factory). "
+    },
+    {
+      "type": "paragraph",
+      "id": "e7bd26544a9e163d",
+      "text": "It combines human health hazard evaluations for Carcinogenicity, Acute Toxicity, Chronic Toxicity, and combined Reproductive Toxicity and Endocrine Disruption with assumptions about potential exposures during the life cycle. "
+    },
+    {
+      "type": "paragraph",
+      "id": "41b9153f8d06062b",
+      "text": "Add table data "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "id": "a677fd1e3905293f",
+      "item": {
+        "title": "Chemistry"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cb65fdcc3af0765e"
+      },
+      "id": "cb65fdcc3af0765e",
+      "type": "add"
+    },
+    {
+      "type": "edit",
+      "id": "cb65fdcc3af0765e",
+      "item": {
+        "type": "paragraph",
+        "id": "cb65fdcc3af0765e",
+        "text": "The Chemistry algorithm assesses significant chemical substances across a material’s life cycle, from [[Cradle to Gate]] (ready to ship to the product assembly factory). "
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e7bd26544a9e163d"
+      },
+      "id": "e7bd26544a9e163d",
+      "type": "add",
+      "after": "cb65fdcc3af0765e"
+    },
+    {
+      "type": "edit",
+      "id": "e7bd26544a9e163d",
+      "item": {
+        "type": "paragraph",
+        "id": "e7bd26544a9e163d",
+        "text": "It combines human health hazard evaluations for Carcinogenicity, Acute Toxicity, Chronic Toxicity, and combined Reproductive Toxicity and Endocrine Disruption with assumptions about potential exposures during the life cycle. "
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "41b9153f8d06062b"
+      },
+      "id": "41b9153f8d06062b",
+      "type": "add",
+      "after": "e7bd26544a9e163d"
+    },
+    {
+      "type": "edit",
+      "id": "41b9153f8d06062b",
+      "item": {
+        "type": "paragraph",
+        "id": "41b9153f8d06062b",
+        "text": "Add table data "
+      }
+    }
+  ]
+}
