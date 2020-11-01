@@ -1,0 +1,1115 @@
+{
+  "title": "Materials Sustainability Index",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "305d63c45cbebcc2",
+      "text": "The origin and manufacture of raw materials account for up to 60 percent of the environmental impacts of apparel and footwear products. "
+    },
+    {
+      "text": "This index is a tool to help footwear and apparel designers select better materials from better suppliers to mitigate environmental impacts.\n",
+      "id": "f417f2e86f3f6798",
+      "type": "paragraph"
+    },
+    {
+      "text": "<h3>Points Structure</h3>",
+      "id": "ded0e163ac0c614a",
+      "type": "paragraph"
+    },
+    {
+      "type": "paragraph",
+      "id": "abf458aa63d4290b",
+      "text": "The index awards up to 100 points to a given material using a [[Science-based Better Materials Score]] (up to 50 Quantitative points) and [[Environmental Indicator Scores]] (up to 50 Qualitative points). "
+    },
+    {
+      "text": "<h3>Scoring Framework</h3>",
+      "id": "72d588978be9368b",
+      "type": "paragraph"
+    },
+    {
+      "type": "paragraph",
+      "id": "6e03051bc3b65bdd",
+      "text": "The quantitative Science-based Better Materials Score uses a [[Life Cycle Assessment]] (LCA) approach based on publicly available studies, industry reports and supplier-specific information to derive a base materials score. "
+    },
+    {
+      "type": "paragraph",
+      "id": "bc59cf97fadd25a0",
+      "text": "The [[Qualitative Indicator]] portion has two parts. "
+    },
+    {
+      "type": "paragraph",
+      "id": "52fad45e5aa18dfc",
+      "text": "Part 1, [[Better Materials]], modifies the base material score to reward green chemistry, recycled and organic content, and water conservation. Blends and composites reduce a score. "
+    },
+    {
+      "type": "paragraph",
+      "id": "0c421b517d0b30f4",
+      "text": "Part 2, [[Better Suppliers]], uses RSL program testing performance, water program reporting, energy and carbon program reporting and industry certification programs to score a supplier’s environmental performance."
+    },
+    {
+      "type": "paragraph",
+      "id": "6114c0fff66d9520",
+      "text": "Combining the Quantitative and Qualitative Indicator portions of Nike MSI provides an overall score unique to the finished material + vendor combination."
+    },
+    {
+      "text": "<i>from page 1 of 8</i>\nIs there a way to collapse the history below? Big and distracting at this point.",
+      "id": "0b6a9bb9b72881fd",
+      "type": "paragraph"
+    }
+  ],
+  "journal": [
+    {
+      "id": "82bf90f50a9b44c6",
+      "type": "create",
+      "item": {
+        "title": "Materials Sustainability Index"
+      }
+    },
+    {
+      "id": "f417f2e86f3f6798",
+      "type": "add",
+      "item": {
+        "id": "f417f2e86f3f6798",
+        "type": "factory"
+      }
+    },
+    {
+      "id": "f417f2e86f3f6798",
+      "type": "edit",
+      "item": {
+        "text": "This index is a tool to help product creation teams select environmentally better footwear and apparel materials from better suppliers.",
+        "id": "f417f2e86f3f6798",
+        "type": "paragraph"
+      }
+    },
+    {
+      "after": "f417f2e86f3f6798",
+      "id": "72d588978be9368b",
+      "type": "add",
+      "item": {
+        "id": "72d588978be9368b",
+        "type": "factory"
+      }
+    },
+    {
+      "id": "72d588978be9368b",
+      "type": "edit",
+      "item": {
+        "text": "<h3>Scoring System</h3>",
+        "id": "72d588978be9368b",
+        "type": "paragraph"
+      }
+    },
+    {
+      "after": "72d588978be9368b",
+      "id": "7c9fbd813e359f3b",
+      "type": "add",
+      "item": {
+        "id": "7c9fbd813e359f3b",
+        "type": "factory"
+      }
+    },
+    {
+      "id": "7c9fbd813e359f3b",
+      "type": "edit",
+      "item": {
+        "text": "<h3>Impacts Covered</h3>",
+        "id": "7c9fbd813e359f3b",
+        "type": "paragraph"
+      }
+    },
+    {
+      "after": "7c9fbd813e359f3b",
+      "id": "ded0e163ac0c614a",
+      "type": "add",
+      "item": {
+        "id": "ded0e163ac0c614a",
+        "type": "factory"
+      }
+    },
+    {
+      "id": "ded0e163ac0c614a",
+      "type": "edit",
+      "item": {
+        "text": "<h3>Points Structure</h3>",
+        "id": "ded0e163ac0c614a",
+        "type": "paragraph"
+      }
+    },
+    {
+      "after": "ded0e163ac0c614a",
+      "id": "35946843e001777b",
+      "type": "add",
+      "item": {
+        "id": "35946843e001777b",
+        "type": "factory"
+      }
+    },
+    {
+      "id": "35946843e001777b",
+      "type": "edit",
+      "item": {
+        "text": "<h3>Life Cycle Phase</h3>",
+        "id": "35946843e001777b",
+        "type": "paragraph"
+      }
+    },
+    {
+      "after": "35946843e001777b",
+      "id": "996a06e33bd60964",
+      "type": "add",
+      "item": {
+        "id": "996a06e33bd60964",
+        "type": "factory"
+      }
+    },
+    {
+      "order": [
+        "f417f2e86f3f6798",
+        "72d588978be9368b",
+        "996a06e33bd60964",
+        "7c9fbd813e359f3b",
+        "ded0e163ac0c614a",
+        "35946843e001777b"
+      ],
+      "id": "996a06e33bd60964",
+      "type": "move"
+    },
+    {
+      "id": "996a06e33bd60964",
+      "type": "edit",
+      "item": {
+        "text": "Evaluates the environmental impacts of materials using a combination of [[Material-Specific Data]] and [[Supplier Performance]] in multiple third-party sustainability programs.",
+        "id": "996a06e33bd60964",
+        "type": "paragraph"
+      }
+    },
+    {
+      "after": "35946843e001777b",
+      "id": "ccf87f21211d688c",
+      "type": "add",
+      "item": {
+        "id": "ccf87f21211d688c",
+        "type": "factory"
+      }
+    },
+    {
+      "id": "ccf87f21211d688c",
+      "type": "edit",
+      "item": {
+        "text": "[[Chemistry]], [[Energy and Greenhouse Gas Intensity]], Water and Land Use Intensity]], and [[Physical Waste]].",
+        "id": "ccf87f21211d688c",
+        "type": "paragraph"
+      }
+    },
+    {
+      "id": "ccf87f21211d688c",
+      "type": "edit",
+      "item": {
+        "text": "<li>[[Chemistry]],\n<li>[[Energy and Greenhouse Gas Intensity]],\n<li>[[Water and Land Use Intensity]], and\n<li>[[Physical Waste]]",
+        "id": "ccf87f21211d688c",
+        "type": "paragraph"
+      }
+    },
+    {
+      "order": [
+        "f417f2e86f3f6798",
+        "72d588978be9368b",
+        "996a06e33bd60964",
+        "7c9fbd813e359f3b",
+        "ccf87f21211d688c",
+        "ded0e163ac0c614a",
+        "35946843e001777b"
+      ],
+      "id": "ccf87f21211d688c",
+      "type": "move"
+    },
+    {
+      "after": "35946843e001777b",
+      "id": "a13b40d9f56e5ab1",
+      "type": "add",
+      "item": {
+        "id": "a13b40d9f56e5ab1",
+        "type": "factory"
+      }
+    },
+    {
+      "id": "a13b40d9f56e5ab1",
+      "type": "remove"
+    },
+    {
+      "after": "35946843e001777b",
+      "id": "0b6a9bb9b72881fd",
+      "type": "add",
+      "item": {
+        "id": "0b6a9bb9b72881fd",
+        "type": "factory"
+      }
+    },
+    {
+      "id": "0b6a9bb9b72881fd",
+      "type": "edit",
+      "item": {
+        "text": "<i>from page 1 of 8</i>",
+        "id": "0b6a9bb9b72881fd",
+        "type": "paragraph"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6b23fafb9d1f6efc"
+      },
+      "id": "6b23fafb9d1f6efc",
+      "type": "add",
+      "after": "0b6a9bb9b72881fd"
+    },
+    {
+      "type": "move",
+      "order": [
+        "f417f2e86f3f6798",
+        "72d588978be9368b",
+        "996a06e33bd60964",
+        "7c9fbd813e359f3b",
+        "ccf87f21211d688c",
+        "ded0e163ac0c614a",
+        "6b23fafb9d1f6efc",
+        "35946843e001777b",
+        "0b6a9bb9b72881fd"
+      ],
+      "id": "6b23fafb9d1f6efc"
+    },
+    {
+      "type": "edit",
+      "id": "6b23fafb9d1f6efc",
+      "item": {
+        "type": "paragraph",
+        "id": "6b23fafb9d1f6efc",
+        "text": "Type here."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c3e443af8e20478b"
+      },
+      "id": "c3e443af8e20478b",
+      "type": "add",
+      "after": "0b6a9bb9b72881fd"
+    },
+    {
+      "type": "edit",
+      "id": "c3e443af8e20478b",
+      "item": {
+        "type": "paragraph",
+        "id": "c3e443af8e20478b",
+        "text": "[[Tier 1 Material Summary]]"
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "f417f2e86f3f6798",
+        "72d588978be9368b",
+        "996a06e33bd60964",
+        "ccf87f21211d688c",
+        "7c9fbd813e359f3b",
+        "ded0e163ac0c614a",
+        "6b23fafb9d1f6efc",
+        "35946843e001777b",
+        "0b6a9bb9b72881fd",
+        "c3e443af8e20478b"
+      ],
+      "id": "ccf87f21211d688c"
+    },
+    {
+      "type": "move",
+      "order": [
+        "f417f2e86f3f6798",
+        "c3e443af8e20478b",
+        "72d588978be9368b",
+        "996a06e33bd60964",
+        "ccf87f21211d688c",
+        "7c9fbd813e359f3b",
+        "ded0e163ac0c614a",
+        "6b23fafb9d1f6efc",
+        "35946843e001777b",
+        "0b6a9bb9b72881fd"
+      ],
+      "id": "c3e443af8e20478b"
+    },
+    {
+      "type": "remove",
+      "id": "6b23fafb9d1f6efc"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "64fdb5db0243a924"
+      },
+      "id": "64fdb5db0243a924",
+      "type": "add",
+      "after": "0b6a9bb9b72881fd"
+    },
+    {
+      "type": "edit",
+      "id": "64fdb5db0243a924",
+      "item": {
+        "type": "paragraph",
+        "id": "64fdb5db0243a924",
+        "text": "[[Program Participation Guidelines]]"
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "f417f2e86f3f6798",
+        "c3e443af8e20478b",
+        "64fdb5db0243a924",
+        "72d588978be9368b",
+        "996a06e33bd60964",
+        "ccf87f21211d688c",
+        "7c9fbd813e359f3b",
+        "ded0e163ac0c614a",
+        "35946843e001777b",
+        "0b6a9bb9b72881fd"
+      ],
+      "id": "64fdb5db0243a924"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "df5ba6ac8a460f54"
+      },
+      "id": "df5ba6ac8a460f54",
+      "type": "add",
+      "after": "0b6a9bb9b72881fd"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5d9bcd9178f2b483"
+      },
+      "id": "5d9bcd9178f2b483",
+      "type": "add",
+      "after": "df5ba6ac8a460f54"
+    },
+    {
+      "type": "edit",
+      "id": "5d9bcd9178f2b483",
+      "item": {
+        "type": "paragraph",
+        "id": "5d9bcd9178f2b483",
+        "text": "<h3>(New Material)"
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "f417f2e86f3f6798",
+        "5d9bcd9178f2b483",
+        "c3e443af8e20478b",
+        "64fdb5db0243a924",
+        "72d588978be9368b",
+        "996a06e33bd60964",
+        "ccf87f21211d688c",
+        "7c9fbd813e359f3b",
+        "ded0e163ac0c614a",
+        "35946843e001777b",
+        "0b6a9bb9b72881fd",
+        "df5ba6ac8a460f54"
+      ],
+      "id": "5d9bcd9178f2b483"
+    },
+    {
+      "type": "edit",
+      "id": "df5ba6ac8a460f54",
+      "item": {
+        "type": "paragraph",
+        "id": "df5ba6ac8a460f54",
+        "text": "These links appear here at the convenience of the authors. We will find the proper places for them before we call our demo complete."
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "f417f2e86f3f6798",
+        "5d9bcd9178f2b483",
+        "df5ba6ac8a460f54",
+        "c3e443af8e20478b",
+        "64fdb5db0243a924",
+        "72d588978be9368b",
+        "996a06e33bd60964",
+        "ccf87f21211d688c",
+        "7c9fbd813e359f3b",
+        "ded0e163ac0c614a",
+        "35946843e001777b",
+        "0b6a9bb9b72881fd"
+      ],
+      "id": "df5ba6ac8a460f54"
+    },
+    {
+      "type": "move",
+      "order": [
+        "f417f2e86f3f6798",
+        "5d9bcd9178f2b483",
+        "df5ba6ac8a460f54",
+        "64fdb5db0243a924",
+        "c3e443af8e20478b",
+        "72d588978be9368b",
+        "996a06e33bd60964",
+        "ccf87f21211d688c",
+        "7c9fbd813e359f3b",
+        "ded0e163ac0c614a",
+        "35946843e001777b",
+        "0b6a9bb9b72881fd"
+      ],
+      "id": "64fdb5db0243a924"
+    },
+    {
+      "type": "edit",
+      "id": "5d9bcd9178f2b483",
+      "item": {
+        "type": "paragraph",
+        "id": "5d9bcd9178f2b483",
+        "text": "<h3>New Material"
+      }
+    },
+    {
+      "type": "fork",
+      "site": "nmsi.fed.wiki.org"
+    },
+    {
+      "type": "move",
+      "order": [
+        "f417f2e86f3f6798",
+        "5d9bcd9178f2b483",
+        "df5ba6ac8a460f54",
+        "c3e443af8e20478b",
+        "64fdb5db0243a924",
+        "72d588978be9368b",
+        "996a06e33bd60964",
+        "ccf87f21211d688c",
+        "7c9fbd813e359f3b",
+        "ded0e163ac0c614a",
+        "35946843e001777b",
+        "0b6a9bb9b72881fd"
+      ],
+      "id": "c3e443af8e20478b"
+    },
+    {
+      "type": "remove",
+      "id": "64fdb5db0243a924"
+    },
+    {
+      "type": "remove",
+      "id": "c3e443af8e20478b"
+    },
+    {
+      "type": "remove",
+      "id": "df5ba6ac8a460f54"
+    },
+    {
+      "type": "remove",
+      "id": "5d9bcd9178f2b483"
+    },
+    {
+      "type": "edit",
+      "id": "ccf87f21211d688c",
+      "item": {
+        "text": "<li>[[Chemistry]]\n<li>[[Energy and Greenhouse Gas Intensity]]\n<li>[[Water and Land Use Intensity]]\n<li>[[Physical Waste]]",
+        "id": "ccf87f21211d688c",
+        "type": "paragraph"
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "f417f2e86f3f6798",
+        "72d588978be9368b",
+        "996a06e33bd60964",
+        "7c9fbd813e359f3b",
+        "ccf87f21211d688c",
+        "ded0e163ac0c614a",
+        "35946843e001777b",
+        "0b6a9bb9b72881fd"
+      ],
+      "id": "7c9fbd813e359f3b"
+    },
+    {
+      "type": "move",
+      "order": [
+        "f417f2e86f3f6798",
+        "72d588978be9368b",
+        "996a06e33bd60964",
+        "ded0e163ac0c614a",
+        "7c9fbd813e359f3b",
+        "ccf87f21211d688c",
+        "35946843e001777b",
+        "0b6a9bb9b72881fd"
+      ],
+      "id": "ded0e163ac0c614a"
+    },
+    {
+      "type": "edit",
+      "id": "996a06e33bd60964",
+      "item": {
+        "text": "The scoring system evaluates the environmental impacts of materials using a combination of [[Material-Specific Data]] and [[Supplier Performance]] in multiple third-party sustainability programs.",
+        "id": "996a06e33bd60964",
+        "type": "paragraph"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "abf458aa63d4290b"
+      },
+      "id": "abf458aa63d4290b",
+      "type": "add",
+      "after": "0b6a9bb9b72881fd"
+    },
+    {
+      "type": "move",
+      "order": [
+        "f417f2e86f3f6798",
+        "72d588978be9368b",
+        "996a06e33bd60964",
+        "ded0e163ac0c614a",
+        "abf458aa63d4290b",
+        "7c9fbd813e359f3b",
+        "ccf87f21211d688c",
+        "35946843e001777b",
+        "0b6a9bb9b72881fd"
+      ],
+      "id": "abf458aa63d4290b"
+    },
+    {
+      "type": "edit",
+      "id": "abf458aa63d4290b",
+      "item": {
+        "type": "paragraph",
+        "id": "abf458aa63d4290b",
+        "text": "Awards up to 100 points using a science-based material score (up to 50 Quantitative points) and environmental indicator scores (up to 50 Qualitative points). "
+      }
+    },
+    {
+      "type": "edit",
+      "id": "996a06e33bd60964",
+      "item": {
+        "text": "The scoring system evaluates the environmental impacts of materials using a combination of Material-Specific Data and Supplier Performance in multiple third-party sustainability programs.",
+        "id": "996a06e33bd60964",
+        "type": "paragraph"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "abf458aa63d4290b",
+      "item": {
+        "type": "paragraph",
+        "id": "abf458aa63d4290b",
+        "text": "Awards up to 100 points using a [[Science-based Material Score]] (up to 50 Quantitative points) and [[Environmental Indicator Scores]] (up to 50 Qualitative points). "
+      }
+    },
+    {
+      "type": "edit",
+      "id": "f417f2e86f3f6798",
+      "item": {
+        "text": "This index is a tool to help product creation teams select environmentally better footwear and apparel materials from better suppliers.\n",
+        "id": "f417f2e86f3f6798",
+        "type": "paragraph"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6e03051bc3b65bdd"
+      },
+      "id": "6e03051bc3b65bdd",
+      "type": "add",
+      "after": "0b6a9bb9b72881fd"
+    },
+    {
+      "type": "move",
+      "order": [
+        "f417f2e86f3f6798",
+        "6e03051bc3b65bdd",
+        "72d588978be9368b",
+        "996a06e33bd60964",
+        "ded0e163ac0c614a",
+        "abf458aa63d4290b",
+        "7c9fbd813e359f3b",
+        "ccf87f21211d688c",
+        "35946843e001777b",
+        "0b6a9bb9b72881fd"
+      ],
+      "id": "6e03051bc3b65bdd"
+    },
+    {
+      "type": "edit",
+      "id": "6e03051bc3b65bdd",
+      "item": {
+        "type": "paragraph",
+        "id": "6e03051bc3b65bdd",
+        "text": "The science-based Quantitative, or materials, portion of the Nike MSI score uses a life cycle assessment (LCA) approach based on publicly available studies, industry reports and supplier-specific information to derive a base materials score. The Qualitative Indicator portion has two parts. Part 1, Environmental Attributes, modifies the base materials score to reward green chemistry, recycled and organic content, and water conservation. Blends and composites reduce a score. Part 2, Supplier Practices, uses restricted substance program testing performance, water program reporting, energy and carbon program reporting and industry certification programs to score a supplier’s environmental performance. Combining the Quantitative and Qualitative Indicator portions of Nike MSI provides an overall score unique to the finished material + vendor combination."
+      }
+    },
+    {
+      "type": "edit",
+      "id": "6e03051bc3b65bdd",
+      "item": {
+        "type": "paragraph",
+        "id": "6e03051bc3b65bdd",
+        "text": "The science-based, or Quantitative, portion of the score uses a life cycle assessment (LCA) approach based on publicly available studies, industry reports and supplier-specific information to derive a base materials score. "
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bc59cf97fadd25a0"
+      },
+      "id": "bc59cf97fadd25a0",
+      "type": "add",
+      "after": "0b6a9bb9b72881fd"
+    },
+    {
+      "type": "edit",
+      "id": "bc59cf97fadd25a0",
+      "item": {
+        "type": "paragraph",
+        "id": "bc59cf97fadd25a0",
+        "text": "The Qualitative Indicator portion has two parts. "
+      }
+    },
+    {
+      "type": "edit",
+      "id": "6e03051bc3b65bdd",
+      "item": {
+        "type": "paragraph",
+        "id": "6e03051bc3b65bdd",
+        "text": "The science-based, or [[Quantitative]], portion of the score uses a life cycle assessment (LCA) approach based on publicly available studies, industry reports and supplier-specific information to derive a base materials score. "
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "f417f2e86f3f6798",
+        "6e03051bc3b65bdd",
+        "72d588978be9368b",
+        "996a06e33bd60964",
+        "bc59cf97fadd25a0",
+        "ded0e163ac0c614a",
+        "abf458aa63d4290b",
+        "7c9fbd813e359f3b",
+        "ccf87f21211d688c",
+        "35946843e001777b",
+        "0b6a9bb9b72881fd"
+      ],
+      "id": "bc59cf97fadd25a0"
+    },
+    {
+      "type": "move",
+      "order": [
+        "f417f2e86f3f6798",
+        "6e03051bc3b65bdd",
+        "bc59cf97fadd25a0",
+        "72d588978be9368b",
+        "996a06e33bd60964",
+        "ded0e163ac0c614a",
+        "abf458aa63d4290b",
+        "7c9fbd813e359f3b",
+        "ccf87f21211d688c",
+        "35946843e001777b",
+        "0b6a9bb9b72881fd"
+      ],
+      "id": "bc59cf97fadd25a0"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "52fad45e5aa18dfc"
+      },
+      "id": "52fad45e5aa18dfc",
+      "type": "add",
+      "after": "0b6a9bb9b72881fd"
+    },
+    {
+      "type": "edit",
+      "id": "52fad45e5aa18dfc",
+      "item": {
+        "type": "paragraph",
+        "id": "52fad45e5aa18dfc",
+        "text": "Part 1, Environmental Attributes, modifies the base materials score to reward green chemistry, recycled and organic content, and water conservation. Blends and composites reduce a score. Part 2, Supplier Practices, uses restricted substance program testing performance, water program reporting, energy and carbon program reporting and industry certification programs to score a supplier’s environmental performance."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6114c0fff66d9520"
+      },
+      "id": "6114c0fff66d9520",
+      "type": "add",
+      "after": "52fad45e5aa18dfc"
+    },
+    {
+      "type": "edit",
+      "id": "6114c0fff66d9520",
+      "item": {
+        "type": "paragraph",
+        "id": "6114c0fff66d9520",
+        "text": "Combining the Quantitative and Qualitative Indicator portions of Nike MSI provides an overall score unique to the finished material + vendor combination."
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "f417f2e86f3f6798",
+        "6e03051bc3b65bdd",
+        "bc59cf97fadd25a0",
+        "52fad45e5aa18dfc",
+        "72d588978be9368b",
+        "996a06e33bd60964",
+        "ded0e163ac0c614a",
+        "abf458aa63d4290b",
+        "7c9fbd813e359f3b",
+        "ccf87f21211d688c",
+        "35946843e001777b",
+        "0b6a9bb9b72881fd",
+        "6114c0fff66d9520"
+      ],
+      "id": "52fad45e5aa18dfc"
+    },
+    {
+      "type": "move",
+      "order": [
+        "f417f2e86f3f6798",
+        "6e03051bc3b65bdd",
+        "bc59cf97fadd25a0",
+        "52fad45e5aa18dfc",
+        "6114c0fff66d9520",
+        "72d588978be9368b",
+        "996a06e33bd60964",
+        "ded0e163ac0c614a",
+        "abf458aa63d4290b",
+        "7c9fbd813e359f3b",
+        "ccf87f21211d688c",
+        "35946843e001777b",
+        "0b6a9bb9b72881fd"
+      ],
+      "id": "6114c0fff66d9520"
+    },
+    {
+      "type": "move",
+      "order": [
+        "f417f2e86f3f6798",
+        "72d588978be9368b",
+        "6e03051bc3b65bdd",
+        "bc59cf97fadd25a0",
+        "52fad45e5aa18dfc",
+        "6114c0fff66d9520",
+        "996a06e33bd60964",
+        "ded0e163ac0c614a",
+        "abf458aa63d4290b",
+        "7c9fbd813e359f3b",
+        "ccf87f21211d688c",
+        "35946843e001777b",
+        "0b6a9bb9b72881fd"
+      ],
+      "id": "72d588978be9368b"
+    },
+    {
+      "type": "edit",
+      "id": "72d588978be9368b",
+      "item": {
+        "text": "<h3>Scoring Framework</h3>",
+        "id": "72d588978be9368b",
+        "type": "paragraph"
+      }
+    },
+    {
+      "type": "remove",
+      "id": "996a06e33bd60964"
+    },
+    {
+      "type": "edit",
+      "id": "bc59cf97fadd25a0",
+      "item": {
+        "type": "paragraph",
+        "id": "bc59cf97fadd25a0",
+        "text": "The [[Qualitative Indicator]] portion has two parts. "
+      }
+    },
+    {
+      "type": "edit",
+      "id": "52fad45e5aa18dfc",
+      "item": {
+        "type": "paragraph",
+        "id": "52fad45e5aa18dfc",
+        "text": "Part 1, [[Better Materials]], modifies the base materials score to reward green chemistry, recycled and organic content, and water conservation. Blends and composites reduce a score. Part 2, [[Better Suppliers]], uses restricted substance program testing performance, water program reporting, energy and carbon program reporting and industry certification programs to score a supplier’s environmental performance."
+      }
+    },
+    {
+      "type": "remove",
+      "id": "7c9fbd813e359f3b"
+    },
+    {
+      "type": "remove",
+      "id": "ccf87f21211d688c"
+    },
+    {
+      "type": "remove",
+      "id": "35946843e001777b"
+    },
+    {
+      "type": "move",
+      "order": [
+        "f417f2e86f3f6798",
+        "ded0e163ac0c614a",
+        "72d588978be9368b",
+        "6e03051bc3b65bdd",
+        "bc59cf97fadd25a0",
+        "52fad45e5aa18dfc",
+        "6114c0fff66d9520",
+        "abf458aa63d4290b",
+        "0b6a9bb9b72881fd"
+      ],
+      "id": "ded0e163ac0c614a"
+    },
+    {
+      "type": "move",
+      "order": [
+        "f417f2e86f3f6798",
+        "ded0e163ac0c614a",
+        "abf458aa63d4290b",
+        "72d588978be9368b",
+        "6e03051bc3b65bdd",
+        "bc59cf97fadd25a0",
+        "52fad45e5aa18dfc",
+        "6114c0fff66d9520",
+        "0b6a9bb9b72881fd"
+      ],
+      "id": "abf458aa63d4290b"
+    },
+    {
+      "type": "edit",
+      "id": "abf458aa63d4290b",
+      "item": {
+        "type": "paragraph",
+        "id": "abf458aa63d4290b",
+        "text": "Awards up to 100 points using a [[Science-based Better Material Score]] (up to 50 Quantitative points) and [[Environmental Indicator Scores]] (up to 50 Qualitative points). "
+      }
+    },
+    {
+      "type": "edit",
+      "id": "6e03051bc3b65bdd",
+      "item": {
+        "type": "paragraph",
+        "id": "6e03051bc3b65bdd",
+        "text": "The science-based Better Material Score uses a life cycle assessment (LCA) approach based on publicly available studies, industry reports and supplier-specific information to derive a base materials score. "
+      }
+    },
+    {
+      "type": "edit",
+      "id": "6e03051bc3b65bdd",
+      "item": {
+        "type": "paragraph",
+        "id": "6e03051bc3b65bdd",
+        "text": "The Science-based Better Material Score uses a life cycle assessment (LCA) approach based on publicly available studies, industry reports and supplier-specific information to derive a base materials score. "
+      }
+    },
+    {
+      "type": "edit",
+      "id": "6e03051bc3b65bdd",
+      "item": {
+        "type": "paragraph",
+        "id": "6e03051bc3b65bdd",
+        "text": "The quantitative Science-based Better Material Score uses a life cycle assessment (LCA) approach based on publicly available studies, industry reports and supplier-specific information to derive a base materials score. "
+      }
+    },
+    {
+      "type": "edit",
+      "id": "abf458aa63d4290b",
+      "item": {
+        "type": "paragraph",
+        "id": "abf458aa63d4290b",
+        "text": "The index awards up to 100 points using a [[Science-based Better Material Score]] (up to 50 Quantitative points) and [[Environmental Indicator Scores]] (up to 50 Qualitative points). "
+      }
+    },
+    {
+      "type": "edit",
+      "id": "52fad45e5aa18dfc",
+      "item": {
+        "type": "paragraph",
+        "id": "52fad45e5aa18dfc",
+        "text": "Part 1, [[Better Materials]], modifies the base material score to reward green chemistry, recycled and organic content, and water conservation. Blends and composites reduce a score. Part 2, [[Better Suppliers]], uses restricted substance program testing performance, water program reporting, energy and carbon program reporting and industry certification programs to score a supplier’s environmental performance."
+      }
+    },
+    {
+      "type": "edit",
+      "id": "52fad45e5aa18dfc",
+      "item": {
+        "type": "paragraph",
+        "id": "52fad45e5aa18dfc",
+        "text": "Part 1, [[Better Materials]], modifies the base material score to reward green chemistry, recycled and organic content, and water conservation. Blends and composites reduce a score. "
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0c421b517d0b30f4"
+      },
+      "id": "0c421b517d0b30f4",
+      "type": "add",
+      "after": "0b6a9bb9b72881fd"
+    },
+    {
+      "type": "edit",
+      "id": "0c421b517d0b30f4",
+      "item": {
+        "type": "paragraph",
+        "id": "0c421b517d0b30f4",
+        "text": "Part 2, [[Better Suppliers]], uses restricted substance program testing performance, water program reporting, energy and carbon program reporting and industry certification programs to score a supplier’s environmental performance."
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "f417f2e86f3f6798",
+        "ded0e163ac0c614a",
+        "abf458aa63d4290b",
+        "72d588978be9368b",
+        "6e03051bc3b65bdd",
+        "bc59cf97fadd25a0",
+        "52fad45e5aa18dfc",
+        "0c421b517d0b30f4",
+        "6114c0fff66d9520",
+        "0b6a9bb9b72881fd"
+      ],
+      "id": "0c421b517d0b30f4"
+    },
+    {
+      "type": "edit",
+      "id": "f417f2e86f3f6798",
+      "item": {
+        "text": "This index is a tool to help footwear and apparel designers select environmentally better materials from better suppliers.\n",
+        "id": "f417f2e86f3f6798",
+        "type": "paragraph"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "abf458aa63d4290b",
+      "item": {
+        "type": "paragraph",
+        "id": "abf458aa63d4290b",
+        "text": "The index awards up to 100 points using a [[Science-based Better Materials Score]] (up to 50 Quantitative points) and [[Environmental Indicator Scores]] (up to 50 Qualitative points). "
+      }
+    },
+    {
+      "type": "edit",
+      "id": "6e03051bc3b65bdd",
+      "item": {
+        "type": "paragraph",
+        "id": "6e03051bc3b65bdd",
+        "text": "The quantitative Science-based Better Materials Score uses a life cycle assessment (LCA) approach based on publicly available studies, industry reports and supplier-specific information to derive a base materials score. "
+      }
+    },
+    {
+      "type": "edit",
+      "id": "0c421b517d0b30f4",
+      "item": {
+        "type": "paragraph",
+        "id": "0c421b517d0b30f4",
+        "text": "Part 2, [[Better Suppliers]], uses RSL program testing performance, water program reporting, energy and carbon program reporting and industry certification programs to score a supplier’s environmental performance."
+      }
+    },
+    {
+      "type": "edit",
+      "id": "0b6a9bb9b72881fd",
+      "item": {
+        "text": "<i>from page 1 of 8</i>\nIs there a way to collapse the history below? Big and distracting at this point.",
+        "id": "0b6a9bb9b72881fd",
+        "type": "paragraph"
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "305d63c45cbebcc2"
+      },
+      "id": "305d63c45cbebcc2",
+      "type": "add",
+      "after": "0b6a9bb9b72881fd"
+    },
+    {
+      "type": "edit",
+      "id": "305d63c45cbebcc2",
+      "item": {
+        "type": "paragraph",
+        "id": "305d63c45cbebcc2",
+        "text": "The origin and manufacture of raw materials account for up to 60 percent of the environmental impacts of apparel and footwear products. "
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "305d63c45cbebcc2",
+        "f417f2e86f3f6798",
+        "ded0e163ac0c614a",
+        "abf458aa63d4290b",
+        "72d588978be9368b",
+        "6e03051bc3b65bdd",
+        "bc59cf97fadd25a0",
+        "52fad45e5aa18dfc",
+        "0c421b517d0b30f4",
+        "6114c0fff66d9520",
+        "0b6a9bb9b72881fd"
+      ],
+      "id": "305d63c45cbebcc2"
+    },
+    {
+      "type": "edit",
+      "id": "f417f2e86f3f6798",
+      "item": {
+        "text": "This index is a tool to help footwear and apparel designers select better materials from better suppliers to mitigate environmental impacts.\n",
+        "id": "f417f2e86f3f6798",
+        "type": "paragraph"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "abf458aa63d4290b",
+      "item": {
+        "type": "paragraph",
+        "id": "abf458aa63d4290b",
+        "text": "The index awards up to 100 points to a given material using a [[Science-based Better Materials Score]] (up to 50 Quantitative points) and [[Environmental Indicator Scores]] (up to 50 Qualitative points). "
+      }
+    },
+    {
+      "type": "edit",
+      "id": "6e03051bc3b65bdd",
+      "item": {
+        "type": "paragraph",
+        "id": "6e03051bc3b65bdd",
+        "text": "The quantitative Science-based Better Materials Score uses a [[Life Cycle Assessment]] (LCA) approach based on publicly available studies, industry reports and supplier-specific information to derive a base materials score. "
+      }
+    },
+    {
+      "type": "edit",
+      "id": "bc59cf97fadd25a0",
+      "item": {
+        "type": "paragraph",
+        "id": "bc59cf97fadd25a0",
+        "text": "The [[Qualitative Indicators]] portion has two parts. "
+      }
+    },
+    {
+      "type": "edit",
+      "id": "bc59cf97fadd25a0",
+      "item": {
+        "type": "paragraph",
+        "id": "bc59cf97fadd25a0",
+        "text": "The [[Qualitative Indicator]] portion has two parts. "
+      }
+    }
+  ]
+}
